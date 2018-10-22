@@ -204,6 +204,7 @@ Job websites with jobs filtered by Django and Berlin:
 * [dasauge](https://dasauge.de/jobs/stellenangebote/?begriff=django&plz=berlin)
 * [djangojobs.net](https://djangojobs.net/jobs/?location=Berlin%2CGermany)
 * [indeed](https://de.indeed.com/Django-Jobs-in-Berlin)
+* [JobFluent](https://www.jobfluent.com/jobs-berlin/django)
 * [SimplyHired](https://www.simplyhired.de/search?q=django&l=Berlin)
 * [StepStone](https://www.stepstone.de/jobs/Django--Berlin.html)
 * [XING](https://www.xing.com/jobs/django-jobs-in-berlin)
