@@ -189,11 +189,11 @@ Something is missing?  Create a pull request!
 * [sennder GmbH](https://www.sennder.com/) —
     [proof](https://sennder.heavenhr.com/jobs/_etBiQIb70a-FLZPH5P4jow_/apply)
     ,
+    [github](https://github.com/sennder)
+    ,
     [jobs](https://sennder.heavenhr.com/jobs)
 * [SinnerSchrader AG](https://sinnerschrader.com/) —
     [proof](https://sinnerschrader.jobs/de/django-backend-developer-mw/)
-    ,
-    [github](https://github.com/sennder)
     ,
     [jobs](https://sinnerschrader.jobs/)
 * [Solandeo GmbH](https://www.solandeo.com/) —
