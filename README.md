@@ -36,6 +36,8 @@ Something is missing?  Create a pull request!
     [proof](https://bankenscore.join.com/jobs/35770-senior-python-developer)
     ,
     [jobs](https://www.bankenscore.de/karriere)
+* [Big Picture GmbH](http://www.big-picture.de/) —
+    [proof](https://www.simplyhired.de/job/C5y82ivRB1K_nvq48JwLen2i06ZHrsWvrhTN5BGABHv3uAv6RN6n1w)
 * [ClimatePartner GmbH](https://www.climatepartner.com/) —
     [proof](https://www.climatepartner.com/de/karriere?jh=n98j73jlq1m5rqv7nicsnqed1poiwjh)
     ,
