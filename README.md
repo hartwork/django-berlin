@@ -206,6 +206,12 @@ Something is missing?  Create a pull request!
     [proof](https://spacebase.softgarden.io/job/2866473/)
     ,
     [jobs](https://www.spacebase.com/en/about/#career-section)
+* [tarent solutions GmbH](https://www.tarent.de/) —
+    [proof](https://www.freelancermap.de/projektboerse/projekte/entwicklung/1635949-projekt-experte-als-python-backend-entwickler-w-m-berlin.html)
+    ,
+    [github](https://github.com/tarent)
+    ,
+    [jobs](https://www.tarent.de/en/jobs/)
 * [Thermondo GmbH](https://www.thermondo.de/) —
     [proof](https://github.com/Thermondo)
     ,
