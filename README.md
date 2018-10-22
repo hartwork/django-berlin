@@ -38,7 +38,7 @@ Something is missing?  Create a pull request!
     [proof](https://www.climatepartner.com/de/karriere?jh=n98j73jlq1m5rqv7nicsnqed1poiwjh)
     ,
     [jobs](https://www.climatepartner.com/de/karriere)
-* [close2real (BlueOcean Perspectives Gmbh)](https://close2real.de/) —
+* [close2real (BlueOcean Perspectives GmbH)](https://close2real.de/) —
     [proof](http://berlinstartupjobs.com/de/engineering/software-developer-devops-python-close2real/)
     ,
     [jobs](https://blueocean-jobs.personio.de/)
