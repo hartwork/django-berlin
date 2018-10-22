@@ -64,6 +64,10 @@ Something is missing?  Create a pull request!
     [proof](https://www.goldland-media.com/jobs/django-entwickler-webentwickler-mw/)
     ,
     [jobs](https://www.goldland-media.com/jobs/)
+* [Harper (Marvin GmbH)](https://www.trustharper.com/) —
+    [proof](https://www.jobfluent.com/jobs/junior-full-stack-python-developer-berlin-81414d)
+    ,
+    [jobs](https://www.jobfluent.com/company/harper)
 * [House of gigs](https://houseofgigs.io/) —
     [proof](https://jobs.smartrecruiters.com/houseofgigs/743999677981503-software-engineer)
     ,
