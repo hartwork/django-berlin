@@ -10,6 +10,7 @@ Something is missing?  Create a pull request!
 # Meetups / User groups
 
 * Meetup: [Django User Group Berlin (djub)](https://www.meetup.com/django-user-group-berlin/)
+* NGO: [Django Girls Berlin](https://djangogirls.org/berlin/)
 * Google Group: [django-berlin](https://groups.google.com/forum/#!forum/django-berlin)
 
 
