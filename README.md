@@ -188,6 +188,10 @@ Something is missing?  Create a pull request!
     [jobs](http://www.pulilab.com/team-jobs)
 * [Reelport GmbH](https://www.reelport.com/) —
     [proof](https://djangogigs.com/gigs/2124/)
+* [Sapui UG (Learn & Care 24 GmbH)](http://www.sapiu.de/) —
+    [proof](https://www.meetup.com/django-user-group-berlin/messages/boards/thread/46622052)
+    ,
+    [github](https://github.com/sapiu)
 * [Scholz & Volkmer GmbH](https://www.s-v.de/) —
     [proof](https://www.s-v.de/de/jobs/senior-backend-developer-wm-5a26d2d6106c870047d46f85/)
     ,
