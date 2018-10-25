@@ -254,6 +254,10 @@ Something is missing?  Create a pull request!
     [github](https://github.com/Zeitgold)
     ,
     [jobs](https://www.zeitgold.com/careers/)
+* [Zugvogl GmbH](https://welcome.zugvogl.com/) —
+    [proof](https://welcome.zugvogl.com/careers/JD_BE_DEV.pdf)
+    ,
+    [jobs](https://welcome.zugvogl.com/jobs.html)
 
 Like this list?  Support it with a star!
 
