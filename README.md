@@ -52,6 +52,10 @@ Something is missing?  Create a pull request!
     [github](https://github.com/cosmocode)
     ,
     [jobs](https://www.cosmocode.de/en/about-us/jobs/)
+* [Cyren GmbH](https://www.cyren.de/) —
+    [proof](https://www.cyren.com/about-cyren/careers)
+    ,
+    [jobs](https://www.cyren.com/about-cyren/careers)
 * [devolute GmbH](https://www.devolute.org/) —
     [proof](https://www.devolute.org/de/agentur/python-django-agentur-in-berlin)
     ,
