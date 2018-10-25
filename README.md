@@ -56,6 +56,12 @@ Something is missing?  Create a pull request!
     [proof](https://www.cyren.com/about-cyren/careers)
     ,
     [jobs](https://www.cyren.com/about-cyren/careers)
+* [Delivery Hero SE](https://www.deliveryhero.com/) —
+    [proof](https://de.indeed.com/viewjob?jk=4aa1d7b46fb98aa0)
+    ,
+    [github](https://github.com/deliveryhero)
+    ,
+    [jobs](https://www.deliveryhero.com/career/jobs/)
 * [devolute GmbH](https://www.devolute.org/) —
     [proof](https://www.devolute.org/de/agentur/python-django-agentur-in-berlin)
     ,
