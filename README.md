@@ -166,6 +166,12 @@ Something is missing?  Create a pull request!
     [proof](https://www.simplyhired.de/job/FNKxi9bpcVDFtrXrQKrDOPVy-LfniJbLDAlQGUtZe4QLTYSbd_i6ew)
     ,
     [jobs](https://neuraum.com/#_jobs)
+* [OpenCraft GmbH](https://opencraft.com/) —
+    [proof](https://de.jooble.org/desc/1274823385053000778)
+    ,
+    [github](https://github.com/open-craft)
+    ,
+    [jobs](https://weworkremotely.com/company/opencraft)
 * [orderbird AG](https://www.orderbird.com/) —
     [proof](https://www.orderbird.com/en/careers/python-developer-f-m)
     ,
