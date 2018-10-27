@@ -187,6 +187,12 @@ Something is missing?  Create a pull request!
         [github](https://github.com/lunalabs)
         ,
         [jobs](https://angel.co/meetluna/jobs/)
+    * [Luvago GmbH](https://luvago.com/) —
+        [proof](https://luvago.com/de/projekte/tu-berlin-quality-quiz/)
+        ,
+        [github](https://github.com/luvago)
+        ,
+        [jobs](https://luvago.com/de/karriere/)
 * __M__
     * [machtfit GmbH](https://www.machtfit.de/) —
         [proof](https://www.machtfit.de/media/jobs/Stellenausschreibung_Senior_Backend_Developer.pdf)
