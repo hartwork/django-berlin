@@ -28,6 +28,10 @@ Something is missing?  Create a pull request!
     [github](https://github.com/3YOURMIND)
     ,
     [jobs](https://www.3yourmind.com/career)
+* [Ariana Digital Health Solutions GmbH](https://hiariana.com/) —
+    [proof](https://de.jooble.org/desc/-2582901826609927421)
+    ,
+    [jobs](https://ariana-health.breezy.hr/)
 * [atene KOM GmbH](https://atenekom.eu/) —
     [proof](https://dasauge.de/jobs/stellenangebote/fest/e508593)
     ,
