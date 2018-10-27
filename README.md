@@ -29,6 +29,10 @@ Something is missing?  Create a pull request!
         [github](https://github.com/3YOURMIND)
         ,
         [jobs](https://www.3yourmind.com/career)
+    * [42reports GmbH (DILAX Intelcom GmbH)](https://www.42reports.com/) —
+        [proof](https://news.ycombinator.com/item?id=8822940)
+        ,
+        [github](https://github.com/42reports)
 * __A__
     * [Ariana Digital Health Solutions GmbH](https://hiariana.com/) —
         [proof](https://de.jooble.org/desc/-2582901826609927421)
