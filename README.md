@@ -279,6 +279,12 @@ Something is missing?  Create a pull request!
         [proof](https://www.solandeo.com/wp-content/uploads/2018-09-17-Ausschreibung-Senior-Developer-Python.pdf)
         ,
         [jobs](https://www.solandeo.com/ueber-uns/karriere/)
+    * [Sourcefabric GmbH](https://www.sourcefabric.org/) —
+        [proof](https://blog.sourcefabric.org/en/news/blog/139/Django-Software-Stack.htm)
+        ,
+        [github](https://github.com/sourcefabric)
+        ,
+        [jobs](https://www.sourcefabric.org/en/home/jobs/)
     * [Reiner Lemoine Institut gGmbH](https://reiner-lemoine-institut.de/) —
         [proof](https://de.jooble.org/desc/635914060611874554)
         ,
