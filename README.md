@@ -232,6 +232,12 @@ Something is missing?  Create a pull request!
     [proof](https://www.solandeo.com/wp-content/uploads/2018-09-17-Ausschreibung-Senior-Developer-Python.pdf)
     ,
     [jobs](https://www.solandeo.com/ueber-uns/karriere/)
+* [Reiner Lemoine Institut gGmbH](https://reiner-lemoine-institut.de/) —
+    [proof](https://de.jooble.org/desc/635914060611874554)
+    ,
+    [github](https://github.com/rl-institut)
+    ,
+    [jobs](https://reiner-lemoine-institut.de/aktuelles/stellenangebote/)
 * [Spacebase GmbH](https://www.spacebase.com/) —
     [proof](https://spacebase.softgarden.io/job/2866473/)
     ,
