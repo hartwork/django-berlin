@@ -34,6 +34,12 @@ Something is missing?  Create a pull request!
         [proof](https://de.jooble.org/desc/-2582901826609927421)
         ,
         [jobs](https://ariana-health.breezy.hr/)
+    * [Artory GmbH](https://www.artory.com/) —
+        [proof](https://news.ycombinator.com/item?id=17225311)
+        ,
+        [github](https://github.com/Artory)
+        ,
+        [jobs](https://artory.workable.com/)
     * [atene KOM GmbH](https://atenekom.eu/) —
         [proof](https://dasauge.de/jobs/stellenangebote/fest/e508593)
         ,
