@@ -78,6 +78,10 @@ Something is missing?  Create a pull request!
         ,
         [jobs](https://www.devolute.org/de/karriere-und-jobs)
 * __E__
+    * [EichenGlobal GmbH](https://www.eichenglobal.com/) —
+        [proof](https://de.jooble.org/desc/1486142686093249466)
+        ,
+        [jobs](https://www.eichenglobal.com/job/)
     * [ezeep (ThinPrint Cloud Services, Inc.)](https://www.ezeep.com/de/) —
         [proof](https://github.com/ezeep/django-oauth2-provider)
         ,
