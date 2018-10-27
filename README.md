@@ -140,6 +140,12 @@ Something is missing?  Create a pull request!
         ,
         [jobs](https://www.jonasundderwolf.de/de/jobs/)
 * __K__
+    * [Kitchen Stories (AJNS New Media GmbH)](https://www.kitchenstories.com/) —
+        [proof](https://groups.google.com/forum/#!topic/django-berlin/w84FS3OprQM)
+        ,
+        [github](https://github.com/kitchenstories)
+        ,
+        [jobs](https://kitchen-stories-jobs.personio.de/#department-97736)
     * [KIWI.KI GmbH](https://kiwi.ki/) —
         [proof](https://angel.co/kiwi-ki-1/jobs/41767-backend-engineer-iot)
         ,
