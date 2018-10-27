@@ -287,6 +287,12 @@ Something is missing?  Create a pull request!
         [proof](https://sinnerschrader.jobs/de/django-backend-developer-mw/)
         ,
         [jobs](https://sinnerschrader.jobs/)
+    * [sinnwerkstatt Medienagentur GmbH](https://sinnwerkstatt.com/) —
+        [proof](https://sinnwerkstatt.com/member/sascha-narr-2/)
+        ,
+        [github](https://github.com/sinnwerkstatt)
+        ,
+        [jobs](https://sinnwerkstatt.com/team/#jobs)
     * [Solandeo GmbH](https://www.solandeo.com/) —
         [proof](https://www.solandeo.com/wp-content/uploads/2018-09-17-Ausschreibung-Senior-Developer-Python.pdf)
         ,
