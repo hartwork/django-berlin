@@ -52,6 +52,12 @@ Something is missing?  Create a pull request!
     * [Big Picture GmbH](http://www.big-picture.de/) —
         [proof](https://www.simplyhired.de/job/C5y82ivRB1K_nvq48JwLen2i06ZHrsWvrhTN5BGABHv3uAv6RN6n1w)
 * __C__
+    * [castLabs GmbH](https://castlabs.com/) —
+        [proof](https://www.remotepython.com/jobs/606f2965227446efa4159f0ec4981544/)
+        ,
+        [github](https://github.com/castlabs)
+        ,
+        [jobs](https://castlabs.com/company/jobs/)
     * [ClimatePartner GmbH](https://www.climatepartner.com/) —
         [proof](https://www.climatepartner.com/de/karriere?jh=n98j73jlq1m5rqv7nicsnqed1poiwjh)
         ,
