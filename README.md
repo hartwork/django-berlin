@@ -89,6 +89,12 @@ Something is missing?  Create a pull request!
         [github](https://github.com/devolute)
         ,
         [jobs](https://www.devolute.org/de/karriere-und-jobs)
+    * [Dubsmash (Mobile Motion GmbH)](https://dubsmash.com/) —
+        [proof](https://www.linkedin.com/in/tim-specht#experience)
+        ,
+        [github](https://github.com/dubsmash)
+        ,
+        [jobs](https://dubsmash.com/jobs)
 * __E__
     * [EichenGlobal GmbH](https://www.eichenglobal.com/) —
         [proof](https://de.jooble.org/desc/1486142686093249466)
