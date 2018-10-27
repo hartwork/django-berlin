@@ -104,6 +104,8 @@ Something is missing?  Create a pull request!
         [proof](https://de.jooble.org/desc/1486142686093249466)
         ,
         [jobs](https://www.eichenglobal.com/job/)
+    * [e-laborat](https://www.e-laborat.de/) —
+        [proof](https://www.e-laborat.de/#agentur)
     * [ezeep (ThinPrint Cloud Services, Inc.)](https://www.ezeep.com/de/) —
         [proof](https://github.com/ezeep/django-oauth2-provider)
         ,
