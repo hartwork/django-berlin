@@ -330,6 +330,12 @@ Something is missing?  Create a pull request!
         [github](https://github.com/Thermondo)
         ,
         [jobs](https://www.thermondo.de/unternehmen/jobs/berlin-zentrale/)
+    * [Two Bulls Germany GmbH](https://www.twobulls.com/) —
+        [proof](https://dasauge.de/-two-bulls-germany-gmbh/)
+        ,
+        [github](https://github.com/twobulls)
+        ,
+        [jobs](https://www.twobulls.com/careers/)
 * __U__
     * [Uhura Creative Media GmbH](https://www.uhura.de/) —
         [proof](https://djangojobs.net/jobs/638/python-django-web-developer-uhura-creative-media-gmbh/)
