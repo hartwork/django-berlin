@@ -120,6 +120,12 @@ Something is missing?  Create a pull request!
         ,
         [jobs](https://formlabs.com/company/careers/berlin/)
 * __G__
+    * [GetTechTalent GmbH](http://www.gettechtalent.com/) —
+        [proof](http://www.gettechtalent.com/django-developer-remote.html)
+        ,
+        [github](https://github.com/gettechtalent)
+        ,
+        [jobs](http://www.gettechtalent.com/career.html)
     * [Goldland Media GmbH](https://www.goldland-media.com/) —
         [proof](https://www.goldland-media.com/jobs/django-entwickler-webentwickler-mw/)
         ,
