@@ -34,6 +34,12 @@ Something is missing?  Create a pull request!
         ,
         [github](https://github.com/42reports)
 * __A__
+    * [agile42 GmbH](https://www.agile42.com/de/) —
+        [proof](https://www.pycon.it/media/conference/slides/out-of-sight-out-of-mind-survival-tricks-and-tools-for-remote-developers.pdf)
+        ,
+        [github](https://github.com/agile42com)
+        ,
+        [jobs](https://www.agile42.com/de/career/)
     * [Ariana Digital Health Solutions GmbH](https://hiariana.com/) —
         [proof](https://de.jooble.org/desc/-2582901826609927421)
         ,
