@@ -145,6 +145,12 @@ Something is missing?  Create a pull request!
         [proof](https://jobs.smartrecruiters.com/houseofgigs/743999677981503-software-engineer)
         ,
         [jobs](https://careers.smartrecruiters.com/houseofgigs)
+    * [Humanitec GmbH](https://humanitec.com/) —
+        [proof](https://github.com/Humanitec/django-oauth-toolkit-jwt)
+        ,
+        [github](https://github.com/Humanitec)
+        ,
+        [jobs](https://humanitec.com/open-positions)
 * __I__
     * [i2x GmbH](https://i2x.ai/) —
         [proof](https://i2x.recruitee.com/o/backend-software-engineer-systems-architect-mf)
