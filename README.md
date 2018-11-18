@@ -222,6 +222,10 @@ Something is missing?  Create a pull request!
         [github](https://github.com/machtfit)
         ,
         [jobs](https://www.machtfit.de/jobs/)
+    * [mc-quadrat Markenagentur und Kommunikationsberatung OHG](https://mc-quadrat.com/) —
+        [proof](https://mc-quadrat.softgarden.io/job/2990979/Lead-Developer--w-m-x-)
+        ,
+        [jobs](https://mc-quadrat.com/jobs/)
     * [Merantix AG](https://www.merantix.com/) —
         [proof](https://news.ycombinator.com/item?id=16975786)
         ,
