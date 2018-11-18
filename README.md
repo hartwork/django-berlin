@@ -59,6 +59,10 @@ Something is missing?  Create a pull request!
         [proof](https://bankenscore.join.com/jobs/35770-senior-python-developer)
         ,
         [jobs](https://www.bankenscore.de/karriere)
+    * [Betterguards Technology GmbH](https://betterguards.de/) —
+        [proof](https://www.simplyhired.de/job/AoMJkqzMGhM5IkcSqzs0ILnfs0Ipa9nq0JBiekQX-TsfDVIw2a4D4Q)
+        ,
+        [jobs](https://betterguards.de/en/contact/)
     * [Big Picture GmbH](http://www.big-picture.de/) —
         [proof](https://www.simplyhired.de/job/C5y82ivRB1K_nvq48JwLen2i06ZHrsWvrhTN5BGABHv3uAv6RN6n1w)
 * __C__
