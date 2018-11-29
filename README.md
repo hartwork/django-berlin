@@ -343,6 +343,10 @@ Something is missing?  Create a pull request!
         [proof](https://spacebase.softgarden.io/job/2866473/)
         ,
         [jobs](https://www.spacebase.com/en/about/#career-section)
+    * [Spreelabs Berlin (Spreenauten GmbH)](http://www.spreelabs.com/) —
+        [proof](https://www.xing.com/jobs/berlin-python-developer-berlin-41273060)
+        ,
+        [github](https://github.com/spreecode)
 * __T__
     * [tarent solutions GmbH](https://www.tarent.de/) —
         [proof](https://www.freelancermap.de/projektboerse/projekte/entwicklung/1635949-projekt-experte-als-python-backend-entwickler-w-m-berlin.html)
