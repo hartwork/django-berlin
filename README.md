@@ -296,6 +296,12 @@ Something is missing?  Create a pull request!
 * __R__
     * [Reelport GmbH](https://www.reelport.com/) —
         [proof](https://djangogigs.com/gigs/2124/)
+    * [Reiner Lemoine Institut gGmbH](https://reiner-lemoine-institut.de/) —
+        [proof](https://de.jooble.org/desc/635914060611874554)
+        ,
+        [github](https://github.com/rl-institut)
+        ,
+        [jobs](https://reiner-lemoine-institut.de/aktuelles/stellenangebote/)
 * __S__
     * [Sapui UG (Learn & Care 24 GmbH)](http://www.sapiu.de/) —
         [proof](https://www.meetup.com/django-user-group-berlin/messages/boards/thread/46622052)
@@ -333,12 +339,6 @@ Something is missing?  Create a pull request!
         [github](https://github.com/sourcefabric)
         ,
         [jobs](https://www.sourcefabric.org/en/home/jobs/)
-    * [Reiner Lemoine Institut gGmbH](https://reiner-lemoine-institut.de/) —
-        [proof](https://de.jooble.org/desc/635914060611874554)
-        ,
-        [github](https://github.com/rl-institut)
-        ,
-        [jobs](https://reiner-lemoine-institut.de/aktuelles/stellenangebote/)
     * [Spacebase GmbH](https://www.spacebase.com/) —
         [proof](https://spacebase.softgarden.io/job/2866473/)
         ,
