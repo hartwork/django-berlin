@@ -34,6 +34,12 @@ Something is missing?  Create a pull request!
         ,
         [github](https://github.com/42reports)
 * __A__
+    * [A Color Bright GmbH](https://www.acolorbright.com/) —
+        [proof](https://www.acolorbright.com/jobs/developer/)
+        ,
+        [github](https://github.com/acolorbright)
+        ,
+        [jobs](https://www.acolorbright.com/jobs/)
     * [agile42 GmbH](https://www.agile42.com/de/) —
         [proof](https://www.pycon.it/media/conference/slides/out-of-sight-out-of-mind-survival-tricks-and-tools-for-remote-developers.pdf)
         ,
