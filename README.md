@@ -34,7 +34,7 @@ Something is missing?  Create a pull request!
         ,
         [github](https://github.com/42reports)
     * [8fit GmbH](https://8fit.com) –
-        [proof](https://www.facebook.com/berlinstartupjobs/posts/1606458446068530?__xts__[0]=68.ARDBL2KBa2FnNqDOzg4kD5Jkz1pUHgJxePJfrR0ez323STOvhZtaR2FRi_K28dZMLv9A6eW2KhS4LweCvbHNsyYWB3xwlhsxcGbhEfy9yG1SlH3hhoem1CIN7jumYdKspd7eyTGJ-pEeBAKHL8io-1PDl0uypV3QVNxrC2BHXEfnj69kqIQWRwTUb251BK2RLPmyeU6xe-L9NUTGrIgljsVQkYFc0z5aZpgp2AkX1mcTXK9BM6pJh0Z-RF7P-x4ed73lUnExYaloQZHXZOiWU-w6vUzew73iy5H1yPSZ6lz5Gk6v_YFWyvvztBjvn4hmLZamocm9FjlSg3nB8Ew5MCXhqw&__tn__=-R)
+        [proof](https://www.facebook.com/berlinstartupjobs/posts/1606458446068530)
         ,
         [github](https://github.com/8fit)
         ,
