@@ -256,6 +256,12 @@ Something is missing?  Create a pull request!
         [proof](https://momox-jobs.dvinci.de/de/p/english/jobs/191/python-backend-developer-mf-in-berlin)
         ,
         [jobs](https://momox-jobs.dvinci.de/de/p/english/jobs)
+    * [Munich Innovation Labs GmbH](https://www.mi-labs.de/) —
+        [proof](https://www.mi-labs.de/career/)
+        ,
+        [github](https://github.com/Munich-Innovation-Labs)
+        ,
+        [jobs](https://www.mi-labs.de/career/)
 * __N__
     * [Neuraum Ventures GmbH](https://neuraum.com/) —
         [proof](https://www.simplyhired.de/job/FNKxi9bpcVDFtrXrQKrDOPVy-LfniJbLDAlQGUtZe4QLTYSbd_i6ew)
