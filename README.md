@@ -33,7 +33,7 @@ Something is missing?  Create a pull request!
         [proof](https://news.ycombinator.com/item?id=8822940)
         ,
         [github](https://github.com/42reports)
-    * [8fit GmbH](https://8fit.com) –
+    * [8fit GmbH](https://8fit.com) —
         [proof](https://www.facebook.com/berlinstartupjobs/posts/1606458446068530)
         ,
         [github](https://github.com/8fit)
