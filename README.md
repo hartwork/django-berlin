@@ -180,6 +180,12 @@ Something is missing?  Create a pull request!
         [proof](https://de.indeed.com/Zeige-Job?jk=7ec322d16c8f38ee)
         ,
         [jobs](https://www.ice-gateway.com/jobs/)
+    * [incapptic Connect GmbH](https://www.incapptic.com/) —
+        [proof](https://www.xing.com/jobs/berlin-senior-backend-developer-python-enterprise-software-startup-42441053)
+        ,
+        [github](https://github.com/incapptic)
+        ,
+        [jobs](https://www.incapptic.com/company-careers/)
     * [Inventorum GmbH](https://inventorum.com/) —
         [proof](https://inventorum.com/wp-content/uploads/2018/04/Experienced_Backend_Developer_2018.pdf)
         ,
