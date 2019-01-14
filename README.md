@@ -440,6 +440,7 @@ Something is missing?  Create a pull request!
 Job websites with jobs filtered by Django and Berlin:
 
 * [AngelList](https://angel.co/berlin/django/jobs)
+* [Artis Recruitment](https://www.artisrecruitment.co.uk/jobs?keyword=django&location=Berlin)
 * [BerlinStartupJobs.com](http://berlinstartupjobs.com/de/skill-areas/django/)
 * [Creative City Berlin](https://www.creative-city-berlin.de/de/search/?q=django&t=job&submit=Suche)
 * [dasauge](https://dasauge.de/jobs/stellenangebote/?begriff=django&plz=berlin)
