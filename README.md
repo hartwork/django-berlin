@@ -105,6 +105,12 @@ Something is missing?  Create a pull request!
         ,
         [jobs](https://www.cyren.com/about-cyren/careers)
 * __D__
+    * [DCSO Deutsche Cyber-Sicherheitsorganisation GmbH](https://dcso.de/) —
+        [proof](https://dcso.de/wp-content/uploads/2018/09/Software_Engineer_TDH.pdf)
+        ,
+        [github](https://github.com/DCSO)
+        ,
+        [jobs](https://dcso.de/de/talente/)
     * [Delivery Hero SE](https://www.deliveryhero.com/) —
         [proof](https://de.indeed.com/viewjob?jk=4aa1d7b46fb98aa0)
         ,
