@@ -329,6 +329,13 @@ Something is missing?  Create a pull request!
         [github](https://github.com/pulilab)
         ,
         [jobs](http://www.pulilab.com/team-jobs)
+* __Q__
+    * [QVSTA GmbH](https://qvsta.com/) —
+        [proof](https://angel.co/qvsta/jobs/389050-intern-backend-developer)
+        ,
+        [github](https://github.com/QVSTA)
+        ,
+        [jobs](https://qvsta.com/work/)
 * __R__
     * [Reelport GmbH](https://www.reelport.com/) —
         [proof](https://djangogigs.com/gigs/2124/)
