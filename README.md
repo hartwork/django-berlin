@@ -60,6 +60,12 @@ Something is missing?  Create a pull request!
         [github](https://github.com/AmnestyInternational)
         ,
         [jobs](https://www.amnesty.de/amnesty/jobs-ausschreibungen)
+    * [Architrave GmbH](https://www.architrave.de/) —
+        [proof](https://architrave.bamboohr.co.uk/jobs/view.php?id=69)
+        ,
+        [github](https://github.com/architrave-de)
+        ,
+        [jobs](https://www.architrave.de/jobs/)
     * [Ariana Digital Health Solutions GmbH](https://hiariana.com/) —
         [proof](https://de.jooble.org/desc/-2582901826609927421)
         ,
