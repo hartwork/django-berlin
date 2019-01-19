@@ -54,6 +54,12 @@ Something is missing?  Create a pull request!
         [github](https://github.com/agile42com)
         ,
         [jobs](https://www.agile42.com/de/career/)
+    * [Amnesty International Deutschland e. V.](https://www.amnesty.de/) —
+        [proof](https://amnesty.jobbase.io/job/l99sgfpn)
+        ,
+        [github](https://github.com/AmnestyInternational)
+        ,
+        [jobs](https://www.amnesty.de/amnesty/jobs-ausschreibungen)
     * [Ariana Digital Health Solutions GmbH](https://hiariana.com/) —
         [proof](https://de.jooble.org/desc/-2582901826609927421)
         ,
