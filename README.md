@@ -48,6 +48,12 @@ Something is missing?  Create a pull request!
         [github](https://github.com/acolorbright)
         ,
         [jobs](https://www.acolorbright.com/jobs/)
+    * [adjust GmbH](https://www.adjust.com/) —
+        [proof](https://www.xing.com/jobs/berlin-backend-engineer-43466277)
+        ,
+        [github](https://github.com/adjust)
+        ,
+        [jobs](https://www.adjust.com/company/careers)
     * [agile42 GmbH](https://www.agile42.com/de/) —
         [proof](https://www.pycon.it/media/conference/slides/out-of-sight-out-of-mind-survival-tricks-and-tools-for-remote-developers.pdf)
         ,
