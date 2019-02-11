@@ -229,10 +229,6 @@ Something is missing?  Create a pull request!
         [github](https://github.com/moberries)
         ,
         [jobs](https://app.moberries.com/company/1536692)
-    * [Jobspotting (SmartRecruiters GmbH)](https://jobspotting.com/) —
-        [proof](https://jobspotting.com/admin/)
-        ,
-        [jobs](http://berlinstartupjobs.com/companies/jobspotting/)
     * [Jonas & der Wolf](https://www.jonasundderwolf.de/) —
         [proof](https://www.creative-city-berlin.de/de/jobs/job/7701887/)
         ,
@@ -501,7 +497,6 @@ Job websites with jobs filtered by Django and Berlin:
 * [JobAmt](https://www.jobamt.com/latest-jobs?q=django&location=berlin&l=)
 * [JobFluent](https://www.jobfluent.com/jobs-berlin/django)
 * [Joblift](https://joblift.de/topjobs-in-Berlin-f%C3%BCr-django-ohne-Umkreis)
-* [Jobspotting](https://de.jobspotting.com/de/stellen/berlin/django-web-framework)
 * [jobtome](https://de.jobtome.com/jobs?what=django&where=berlin&r=0)
 * [jobtopus](https://www.jobtopus.de/search/?what=django&where=berlin)
 * [jooble](https://de.jooble.org/stellenangebote-django/berlin)
