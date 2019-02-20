@@ -376,6 +376,10 @@ Something is missing?  Create a pull request!
         [github](https://github.com/ScholzVolkmer)
         ,
         [jobs](https://www.s-v.de/de/jobs/)
+    * [~sedna GmbH](https://www.sedna.de/) —
+        [proof](https://www.sedna.de/en/opening5/)
+        ,
+        [jobs](https://www.sedna.de/en/join_us/)
     * [sennder GmbH](https://www.sennder.com/) —
         [proof](https://sennder.heavenhr.com/jobs/_etBiQIb70a-FLZPH5P4jow_/apply)
         ,
