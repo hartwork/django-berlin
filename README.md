@@ -49,7 +49,7 @@ Something is missing?  Create a pull request!
         ,
         [jobs](https://www.acolorbright.com/jobs/)
     * [adjust GmbH](https://www.adjust.com/) —
-        [proof](https://www.xing.com/jobs/berlin-backend-engineer-43466277)
+        [proof](https://boards.greenhouse.io/adjust/jobs/4210344002)
         ,
         [github](https://github.com/adjust)
         ,
