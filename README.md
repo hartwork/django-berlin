@@ -114,6 +114,12 @@ Something is missing?  Create a pull request!
         [proof](http://berlinstartupjobs.com/de/engineering/software-developer-devops-python-close2real/)
         ,
         [jobs](https://blueocean-jobs.personio.de/)
+    * [colormass GmbH](http://colormass.com/) —
+        [proof](http://colormass.com/jobs/front-end-developer-angular-typescript-css/)
+        ,
+        [github](https://github.com/colormass)
+        ,
+        [jobs](http://colormass.com/jobs/)
     * [CosmoCode GmbH](https://www.cosmocode.de/) —
         [proof](https://www.simplyhired.de/job/KmrDeIvl61aVgLU_ciTRDprKkHAlwrICMRzrZv6yVe-8fSYn0Nn1dA)
         ,
