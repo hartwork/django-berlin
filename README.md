@@ -509,6 +509,7 @@ Job websites with jobs filtered by Django and Berlin:
 * [Adzuna](https://www.adzuna.de/search?q=django&loc=87861)
 * [AngelList](https://angel.co/berlin/django/jobs)
 * [BerlinStartupJobs.com](http://berlinstartupjobs.com/de/skill-areas/django/)
+* [Careerjet.de](https://www.careerjet.de/suchen/stellenangebote?s=django&l=berlin)
 * [clerado](https://www.clerado.de/jobs/django/berlin)
 * [Creative City Berlin](https://www.creative-city-berlin.de/de/search/?q=django&t=job&submit=Suche)
 * [dasauge](https://dasauge.de/jobs/stellenangebote/?begriff=django&plz=berlin)
