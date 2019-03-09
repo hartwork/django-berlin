@@ -48,6 +48,8 @@ Something is missing?  Create a pull request!
         [github](https://github.com/acolorbright)
         ,
         [jobs](https://www.acolorbright.com/jobs/)
+    * Actonlytics —
+        [proof](https://www.rockitdigital.de/full-stack-developer-web-developer-python-django-for-actonlytics-berlin-8a892fe02d)
     * [adjust GmbH](https://www.adjust.com/) —
         [proof](https://boards.greenhouse.io/adjust/jobs/4210344002)
         ,
