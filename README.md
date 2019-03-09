@@ -529,6 +529,7 @@ Job websites with jobs filtered by Django and Berlin:
 * [StepStone](https://www.stepstone.de/jobs/Django--Berlin.html)
 * [Tip Top Job](https://www.tiptopjob.com/search/tiptopresults.asp?Keyword=django&country=DEU&sub_location=C-15687)
 * [XING](https://www.xing.com/jobs/search?keywords=django&location=Berlin&radius=10)
+* [ZipRecruiter](https://www.ziprecruiter.com/candidate/search?search=django&location=berlin)
 
 
 Like this list?  Support it with a star!
