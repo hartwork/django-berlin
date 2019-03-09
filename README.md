@@ -528,6 +528,7 @@ Job websites with jobs filtered by Django and Berlin:
 * [Monster](https://www.monster.de/jobs/suche/?q=django&where=berlin)
 * [neuvoo](https://neuvoo.de/jobs/?k=django&l=Berlin&radius=0)
 * [Recruit.net](https://www.recruit.net/search.html?query=django&location=berlin&f_region=de)
+* [ROCKITdigital](https://www.rockitdigital.de/jobs/berlin/ad8b985e7075ffa1b0abe8510e15974f7b53eff6)
 * [SimplyHired](https://www.simplyhired.de/search?q=django&l=Berlin)
 * [Stack Overflow](https://stackoverflow.com/jobs/developer-jobs-using-django-in-berlin)
 * [StepStone](https://www.stepstone.de/jobs/Django--Berlin.html)
