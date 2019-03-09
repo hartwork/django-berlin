@@ -504,6 +504,7 @@ Something is missing?  Create a pull request!
 
 Job websites with jobs filtered by Django and Berlin:
 
+* [Adzuna](https://www.adzuna.de/search?q=django&loc=87861)
 * [AngelList](https://angel.co/berlin/django/jobs)
 * [BerlinStartupJobs.com](http://berlinstartupjobs.com/de/skill-areas/django/)
 * [clerado](https://www.clerado.de/jobs/django/berlin)
