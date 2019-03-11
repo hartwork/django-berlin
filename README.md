@@ -164,6 +164,10 @@ Something is missing?  Create a pull request!
         [jobs](https://www.eichenglobal.com/job/)
     * [e-laborat](https://www.e-laborat.de/) —
         [proof](https://www.e-laborat.de/#agentur)
+    * [emma blossom GmbH](https://emma-blossom.com/) —
+        [proof](https://www.creative-city-berlin.de/de/jobs/job/7712467/)
+        ,
+        [jobs](https://emma-blossom.com/#jobs)
     * [ezeep (ThinPrint Cloud Services, Inc.)](https://www.ezeep.com/de/) —
         [proof](https://github.com/ezeep/django-oauth2-provider)
         ,
