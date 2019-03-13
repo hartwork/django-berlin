@@ -62,6 +62,10 @@ Something is missing?  Create a pull request!
         [github](https://github.com/agile42com)
         ,
         [jobs](https://www.agile42.com/de/career/)
+    * [Alpaca Technology, Inc.](https://www.alpaca.technology/) —
+        [proof](https://www.alpaca.technology/careers/automator-python-back-end/)
+        ,
+        [jobs](https://www.alpaca.technology/careers)        
     * [Amnesty International Deutschland e. V.](https://www.amnesty.de/) —
         [proof](https://amnesty.jobbase.io/job/l99sgfpn)
         ,
