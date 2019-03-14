@@ -353,6 +353,10 @@ Something is missing?  Create a pull request!
         [proof](https://www.phiture.com/career.html#workingstudentfullstackdeveloper)
         ,
         [jobs](https://www.phiture.com/career.html)
+    * [PiNCAMP (ADAC Camping GmbH)](https://www.pincamp.de/) —
+        [proof](https://stackshare.io/adac-camping-gmbh/pincamp)
+        ,
+        [jobs](https://www.pincamp.de/jobs)
     * [Port Zero GmbH](https://port-zero.com/) —
         [proof](https://port-zero.com/jobs/2019_network_automator/)
         ,
