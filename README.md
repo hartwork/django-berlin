@@ -402,6 +402,12 @@ Something is missing?  Create a pull request!
         [github](https://github.com/ScholzVolkmer)
         ,
         [jobs](https://www.s-v.de/de/jobs/)
+    * [Secret Escapes Ltd](https://www.secretescapes.de/) —
+        [proof](https://careers.secretescapes.de/job/?job_id=1593308)
+        ,
+        [github](https://github.com/secretescapes)
+        ,
+        [jobs](https://careers.secretescapes.de/jobs/)
     * [~sedna GmbH](https://www.sedna.de/) —
         [proof](https://www.sedna.de/en/opening5/)
         ,
