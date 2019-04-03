@@ -219,6 +219,10 @@ Something is missing?  Create a pull request!
         [github](https://github.com/Humanitec)
         ,
         [jobs](https://humanitec.com/open-positions)
+    * [Humboldt-Universität zu Berlin](https://www.hu-berlin.de/) —
+        [proof](https://www.stepstone.de/stellenangebote--Beschaeftigter-i-d-IT-Systemtechnik-m-w-d-Berlin-Humboldt-Universitaet-zu-Berlin--5705353-inline.html)
+        ,
+        [jobs](https://www.hu-berlin.de/de/service/arbeit/stellen)
 * __I__
     * [i2x GmbH](https://i2x.ai/) —
         [proof](https://i2x.recruitee.com/o/backend-software-engineer-systems-architect-mf)
