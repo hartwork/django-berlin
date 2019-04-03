@@ -200,6 +200,10 @@ Something is missing?  Create a pull request!
         [proof](https://www.goldland-media.com/jobs/django-entwickler-webentwickler-mw/)
         ,
         [jobs](https://www.goldland-media.com/jobs/)
+    * [Grover Group GmbH](https://www.grover.com/) —
+        [proof](https://jobs.grover.com/o/backend-developer-mwd)
+        ,
+        [jobs](https://jobs.grover.com/)
 * __H__
     * [Harper (Marvin GmbH)](https://www.trustharper.com/) —
         [proof](https://www.jobfluent.com/jobs/junior-full-stack-python-developer-berlin-81414d)
