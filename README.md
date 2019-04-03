@@ -365,6 +365,12 @@ Something is missing?  Create a pull request!
         [proof](https://stackshare.io/adac-camping-gmbh/pincamp)
         ,
         [jobs](https://www.pincamp.de/jobs)
+    * [Planet Labs Inc.](https://www.planet.com/) —
+        [proof](https://www.planet.com/company/careers/?office=View%20All&department=Software%20Engineering&job=1610436)
+        ,
+        [github](https://github.com/planetlabs)
+        ,
+        [jobs](https://www.planet.com/company/careers/?office=Berlin%2C%20Germany)
     * [Port Zero GmbH](https://port-zero.com/) —
         [proof](https://port-zero.com/jobs/2019_network_automator/)
         ,
