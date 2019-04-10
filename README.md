@@ -260,6 +260,12 @@ Something is missing?  Create a pull request!
         ,
         [jobs](https://www.jonasundderwolf.de/de/jobs/)
 * __K__
+    * [KAYAK Europe GmbH](https://www.kayak.de/) —
+        [proof](https://boards.greenhouse.io/kayak/jobs/4253556002)
+        ,
+        [github](https://github.com/kayak)
+        ,
+        [jobs](https://www.kayak.de/careers/berlin/all)
     * [Kitchen Stories (AJNS New Media GmbH)](https://www.kitchenstories.com/) —
         [proof](https://groups.google.com/forum/#!topic/django-berlin/w84FS3OprQM)
         ,
