@@ -504,6 +504,10 @@ Something is missing?  Create a pull request!
         ,
         [jobs](https://www.twotickets.de/jobs/)
 * __U__
+    * [ucair GmbH](https://ucair.de/) —
+        [proof](https://www.xing.com/jobs/berlin-junior-fullstack-developer-45934031)
+        ,
+        [jobs](https://ucair.de/jobs/)
     * [Uhura Creative Media GmbH](https://www.uhura.de/) —
         [proof](https://djangojobs.net/jobs/638/python-django-web-developer-uhura-creative-media-gmbh/)
         ,
