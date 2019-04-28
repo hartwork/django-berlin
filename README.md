@@ -172,6 +172,10 @@ Something is missing?  Create a pull request!
         [proof](https://www.creative-city-berlin.de/de/jobs/job/7712467/)
         ,
         [jobs](https://emma-blossom.com/#jobs)
+    * [EXIT Adventures GmbH](https://exit-vr.de/) —
+        [proof](https://exit-vr.de/wp-content/uploads/2019/04/Backend.pdf)
+        ,
+        [jobs](https://exit-vr.de/berlin/jobs/)
     * [ezeep (ThinPrint Cloud Services, Inc.)](https://www.ezeep.com/de/) —
         [proof](https://github.com/ezeep/django-oauth2-provider)
         ,
