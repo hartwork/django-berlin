@@ -189,6 +189,10 @@ Something is missing?  Create a pull request!
         [github](https://github.com/Formlabs)
         ,
         [jobs](https://formlabs.com/company/careers/berlin/)
+    * [FRAEND GmbH](https://www.fraend.com/) —
+        [proof](https://angel.co/fraend/jobs/546163-senior-software-engineer-django)
+        ,
+        [jobs](https://angel.co/fraend/jobs)
 * __G__
     * [GetTechTalent GmbH](http://www.gettechtalent.com/) —
         [proof](http://www.gettechtalent.com/django-developer-remote.html)
