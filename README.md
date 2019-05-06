@@ -385,6 +385,12 @@ Something is missing?  Create a pull request!
         [github](https://github.com/planetlabs)
         ,
         [jobs](https://www.planet.com/company/careers/?office=Berlin%2C%20Germany)
+    * [PlusPeter GmbH](https://www.pluspeter.com/) —
+        [proof](https://www.pluspeter.com/job/back_end_engineer/)
+        ,
+        [github](https://github.com/PlusPeter)
+        ,
+        [jobs](https://www.pluspeter.com/job/)
     * [Port Zero GmbH](https://port-zero.com/) —
         [proof](https://port-zero.com/jobs/2019_network_automator/)
         ,
