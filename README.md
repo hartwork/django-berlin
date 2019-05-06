@@ -578,6 +578,7 @@ Job websites with jobs filtered by Django and Berlin:
 * [Joblift](https://joblift.de/topjobs-in-Berlin-f%C3%BCr-django-ohne-Umkreis)
 * [JobNinja](https://jobninja.com/search?keywords=django&where=berlin)
 * [jobrapido](https://de.jobrapido.com/?w=django&l=berlin&r=auto)
+* [Jobs.Pluspeter](https://jobs.pluspeter.com/jobs/?q=django&l=Berlin%2C%20Deutschland)
 * [jobtome](https://de.jobtome.com/jobs?what=django&where=berlin&r=0)
 * [jobtopus](https://www.jobtopus.de/search/?what=django&where=berlin)
 * [jooble](https://de.jooble.org/stellenangebote-django/berlin)
