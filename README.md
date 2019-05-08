@@ -172,7 +172,7 @@ Something is missing?  Create a pull request!
         [proof](https://www.creative-city-berlin.de/de/jobs/job/7712467/)
         ,
         [jobs](https://emma-blossom.com/#jobs)
-    * [EXIT Adventures GmbH](https://exit-vr.de/) —
+    * [EXIT Adventures GmbH](https://exit-vr.de/) (part of [Trotzkind GmbH](https://trotzkind.com/)) —
         [proof](https://exit-vr.de/wp-content/uploads/2019/04/Backend.pdf)
         ,
         [jobs](https://exit-vr.de/berlin/jobs/)
