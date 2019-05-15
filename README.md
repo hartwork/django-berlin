@@ -66,6 +66,12 @@ Something is missing?  Create a pull request!
         [proof](https://www.alpaca.technology/careers/automator-python-back-end/)
         ,
         [jobs](https://www.alpaca.technology/careers)        
+    * [Amazon Deutschland Services GmbH](https://smile.amazon.de/) —
+        [proof](https://www.amazon.jobs/de/jobs/761817/business-intelligence-internships-start-summer-fall)
+        ,
+        [github](https://github.com/amzn)
+        ,
+        [jobs](https://www.amazon.jobs/de/search?base_query=django&loc_query=berlin&country=DEU&city=Berlin&region=Berlin&county=Berlin)
     * [Amnesty International Deutschland e. V.](https://www.amnesty.de/) —
         [proof](https://amnesty.jobbase.io/job/l99sgfpn)
         ,
