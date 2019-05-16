@@ -132,6 +132,12 @@ Something is missing?  Create a pull request!
         [github](https://github.com/colormass)
         ,
         [jobs](http://colormass.com/jobs/)
+    * [Core Unit Bioinformatics (CUBI)](https://www.cubi.bihealth.org/) (part of [Berlin Institut für Gesundheitsforschung (BIH)](https://www.bihealth.org/)) —
+        [proof](https://www.xing.com/jobs/berlin-paid-sum-mer-intern-ships-python-soft-ware-engin-eer-ing-pro-gram-ming-46924178)
+        ,
+        [github](https://github.com/bihealth)
+        ,
+        [jobs](https://www.bihealth.org/de/angebote/stellenangebote/)
     * [CosmoCode GmbH](https://www.cosmocode.de/) —
         [proof](https://www.simplyhired.de/job/KmrDeIvl61aVgLU_ciTRDprKkHAlwrICMRzrZv6yVe-8fSYn0Nn1dA)
         ,
