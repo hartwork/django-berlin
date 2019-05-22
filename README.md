@@ -100,6 +100,10 @@ Something is missing?  Create a pull request!
         [jobs](https://atenekom.eu/das-unternehmen/karriere/)
     * [AtomLeap GmbH](https://www.atomleap.com/) —
         [proof](https://www.xing.com/jobs/berlin-full-stack-software-engineer-43432855)
+    * [avodaq AG](https://www.avodaq.com/) —
+        [proof](https://avodaq.softgarden.io/job/4057332)
+        ,
+        [jobs](https://www.avodaq.com/de/#jobs/jobangebote)
 * __B__
     * [BankenScore (Glenside Internet GmbH)](https://www.bankenscore.de/) —
         [proof](https://bankenscore.join.com/jobs/35770-senior-python-developer)
