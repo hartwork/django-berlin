@@ -109,6 +109,10 @@ Something is missing?  Create a pull request!
         [proof](https://bankenscore.join.com/jobs/35770-senior-python-developer)
         ,
         [jobs](https://www.bankenscore.de/karriere)
+    * [BBQ – Baumann Bildung und Qualifizierung GmbH](https://www.bbq.de/) —
+        [proof](https://www.bbq.de/ueber-bbq/arbeiten-bei-bbq/dozent-programmierung-python/)
+        ,
+        [jobs](https://www.bbq.de/ueber-bbq/arbeiten-bei-bbq/)
     * [Betterguards Technology GmbH](https://betterguards.de/) —
         [proof](https://www.simplyhired.de/job/AoMJkqzMGhM5IkcSqzs0ILnfs0Ipa9nq0JBiekQX-TsfDVIw2a4D4Q)
         ,
