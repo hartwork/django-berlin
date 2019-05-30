@@ -100,6 +100,12 @@ Something is missing?  Create a pull request!
         [jobs](https://atenekom.eu/das-unternehmen/karriere/)
     * [AtomLeap GmbH](https://www.atomleap.com/) —
         [proof](https://www.xing.com/jobs/berlin-full-stack-software-engineer-43432855)
+    * [AUTO1 Group GmbH](https://www.auto1-group.com/) —
+        [proof](https://www.auto1-group.com/de/jobs/job-senior-business-engineer-logistics-d-f-m-7185/)
+        ,
+        [github](https://github.com/auto1-oss)
+        ,
+        [jobs](https://www.auto1-group.com/de/jobs/?locations=Berlin)
     * [avodaq AG](https://www.avodaq.com/) —
         [proof](https://avodaq.softgarden.io/job/4057332)
         ,
