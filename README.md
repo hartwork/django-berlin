@@ -411,6 +411,12 @@ Something is missing?  Create a pull request!
         [github](https://github.com/planetlabs)
         ,
         [jobs](https://www.planet.com/company/careers/?office=Berlin%2C%20Germany)
+    * [Plentific, Ltd.](https://plentific.com/) —
+        [proof](https://plentific.workable.com/j/88F66B42DE)
+        ,
+        [github](https://github.com/plentific)
+        ,
+        [jobs](https://plentific.com/careers/)
     * [PlusPeter GmbH](https://www.pluspeter.com/) —
         [proof](https://www.pluspeter.com/job/back_end_engineer/)
         ,
