@@ -247,6 +247,12 @@ Something is missing?  Create a pull request!
         [proof](https://www.jobfluent.com/jobs/junior-full-stack-python-developer-berlin-81414d)
         ,
         [jobs](https://www.jobfluent.com/company/harper)
+    * [Hikaya LLC](https://hikaya.io/) —
+        [proof](https://angel.co/company/hikaya/jobs/541463-backend-developer-intern)
+        ,
+        [github](https://github.com/hikaya-io)
+        ,
+        [jobs](https://angel.co/company/hikaya/jobs)
     * [House of gigs](https://houseofgigs.io/) —
         [proof](https://jobs.smartrecruiters.com/houseofgigs/743999677981503-software-engineer)
         ,
