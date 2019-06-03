@@ -198,6 +198,10 @@ Something is missing?  Create a pull request!
         [proof](https://www.creative-city-berlin.de/de/jobs/job/7712467/)
         ,
         [jobs](https://emma-blossom.com/#jobs)
+    * [eNote GmbH](https://enote.com/) —
+        [proof](https://www.gruenderszene.de/jobboerse/jobs/enote-gmbh-senior-java-python-software-engineer-backend)
+        ,
+        [github](https://github.com/eNote-GmbH)
     * [EXIT Adventures GmbH](https://exit-vr.de/) (part of [Trotzkind GmbH](https://trotzkind.com/)) —
         [proof](https://exit-vr.de/wp-content/uploads/2019/04/Backend.pdf)
         ,
