@@ -631,6 +631,7 @@ Job websites with jobs filtered by Django and Berlin:
 * [jobtome](https://de.jobtome.com/jobs?what=django&where=berlin&r=0)
 * [jobtopus](https://www.jobtopus.de/search/?what=django&where=berlin)
 * [jooble](https://de.jooble.org/stellenangebote-django/berlin)
+* [media:net berlinbrandenburg](https://www.medianet-bb.de/de/jobs/?search=django&pg=1&submit=Suchen)
 * [mojob](https://www.mojob.me/index.php?suche_volltext=django&suchort=Berlin&jobs=jobs)
 * [Monster](https://www.monster.de/jobs/suche/?q=django&where=berlin)
 * [neuvoo](https://neuvoo.de/jobs/?k=django&l=Berlin&radius=0)
