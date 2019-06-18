@@ -585,6 +585,12 @@ Something is missing?  Create a pull request!
         [proof](https://jobspotting.com/en/company/vdpexpertise/job/python-django-developer-m-w--d8a071cc5c0144a780af1b3123ec09f0)
         ,
         [jobs](https://jobspotting.com/en/company/vdpexpertise)
+    *  [voiio GmbH](https://www.voiio.de/) -
+         [proof](https://voiio.de/job/software-engineer-python-django-berlin/)
+         ,
+         [github](https://github.com/voiio)
+         ,
+         [jobs](https://voiio.de/job)
 * __Z__
     * [Zageno Inc.](https://zageno.de/) —
         [proof](https://www.simplyhired.de/job/QnSzgBAYjsOzdzcOj-P74eBwkfpfxMtli-0U0O_9u0xkZbXCrn99sQ)
