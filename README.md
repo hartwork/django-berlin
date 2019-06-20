@@ -590,7 +590,7 @@ Something is missing?  Create a pull request!
          ,
          [github](https://github.com/voiio)
          ,
-         [jobs](https://voiio.de/job)
+         [jobs](https://voiio.de/karriere/)
 * __Z__
     * [Zageno Inc.](https://zageno.de/) —
         [proof](https://www.simplyhired.de/job/QnSzgBAYjsOzdzcOj-P74eBwkfpfxMtli-0U0O_9u0xkZbXCrn99sQ)
