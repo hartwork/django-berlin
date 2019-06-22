@@ -72,6 +72,10 @@ Something is missing?  Create a pull request!
         [github](https://github.com/amzn)
         ,
         [jobs](https://www.amazon.jobs/de/search?base_query=django&loc_query=berlin&country=DEU&city=Berlin&region=Berlin&county=Berlin)
+    * [Ammonit Measurement GmbH](https://www.ammonit.com/) —
+        [proof](https://www.ammonit.com/en/ammonit/career)
+        ,
+        [jobs](https://www.ammonit.com/en/ammonit/career)
     * [Amnesty International Deutschland e. V.](https://www.amnesty.de/) —
         [proof](https://amnesty.jobbase.io/job/l99sgfpn)
         ,
