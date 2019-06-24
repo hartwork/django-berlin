@@ -358,6 +358,12 @@ Something is missing?  Create a pull request!
         [proof](https://mc-quadrat.softgarden.io/job/2990979/Lead-Developer--w-m-x-)
         ,
         [jobs](https://mc-quadrat.com/jobs/)
+    * [Medbelle (MB Global Health Ltd)](https://www.medbelle.com/) —
+        [proof](https://berlinstartupjobs.com/de/engineering/qa-engineer-javascript-medbelle/)
+        ,
+        [github](https://github.com/Medbelle)
+        ,
+        [jobs](https://www.medbelle.com/careers)
     * [Merantix AG](https://www.merantix.com/) —
         [proof](https://news.ycombinator.com/item?id=16975786)
         ,
