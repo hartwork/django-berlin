@@ -672,3 +672,9 @@ Job websites with jobs filtered by Django and Berlin:
 Like this list?  Support it with a star!
 
 Something is missing?  Create a pull request!
+
+
+# See also
+
+* [Ways in which Berlin IT companies differ](https://blog.hartwork.org/posts/ways-in-which-berlin-it-companies-differ/)
+* [Getting to Know an Employer as a Developer](https://blog.hartwork.org/posts/getting-to-know-an-employer-as-a-developer/)
