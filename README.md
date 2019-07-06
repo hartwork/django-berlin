@@ -98,6 +98,12 @@ Something is missing?  Create a pull request!
         [github](https://github.com/Artory)
         ,
         [jobs](https://artory.workable.com/)
+    * [AssistMe (Assistr Digital Health Systems GmbH)](https://www.assistme.io/) —
+        [proof](https://www.linkedin.com/in/nourchawich/)
+        ,
+        [github](https://github.com/Assistr)
+        ,
+        [jobs](http://www.assistme.io/team?tojobs=true)
     * [atene KOM GmbH](https://atenekom.eu/) —
         [proof](https://dasauge.de/jobs/stellenangebote/fest/e508593)
         ,
