@@ -25,6 +25,8 @@ Something is missing?  Create a pull request!
         [jobs](https://www.123makler.de/karriere/)
     * [2txt – natural language generation GmbH](https://2txt.de/) —
         [proof](http://berlinstartupjobs.com/de/engineering/backend-software-developer-2txt-nlg-gmbh/)
+    * [3S Antriebe GmbH](https://3s-antriebe.de/) —
+        [proof](https://www.xing.com/jobs/berlin-werk-stu-dent-soft-ware-ent-wick-lung-48885586)
     * [3YOURMIND GmbH](https://www.3yourmind.com/) —
         [proof](https://www.3yourmind.com/career/django-engineer)
         ,
