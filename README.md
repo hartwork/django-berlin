@@ -338,6 +338,10 @@ Something is missing?  Create a pull request!
         [github](https://github.com/KIWIKIGMBH)
         ,
         [jobs](https://kiwi.ki/karriere/)
+    * [Kupfer Software GmbH](https://www.kupfer-software.de/) —
+        [proof](https://angel.co/company/kupfer-software/jobs/592017-engineering-lead)
+        ,
+        [jobs](https://angel.co/company/kupfer-software/jobs)
 * __L__
     * [Lumenaza GmbH](https://www.lumenaza.de/) —
         [proof](https://www.lumenaza.de/media/filer_public/05/dc/05dc69ca-a821-4741-8d26-a036d8c7c468/170519_stellenausschreibung_entwickler.pdf)
