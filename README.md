@@ -461,6 +461,12 @@ Something is missing?  Create a pull request!
         [github](https://github.com/port-zero)
         ,
         [jobs](https://port-zero.com/jobs/)
+    * [PriceHubble AG](https://pricehubble.com/) —
+        [proof](https://www.loadjobs.com/jobs/custom-apply/1463)
+        ,
+        [github](https://github.com/PriceHubble)
+        ,
+        [jobs](https://pricehubble.com/en/about/careers/)
     * [ProfitBricks GmbH](https://www.profitbricks.de/) —
         [proof](https://profitbricks.softgarden.io/job/1211128/?l=de)
         ,
