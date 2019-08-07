@@ -118,6 +118,10 @@ Something is missing?  Create a pull request!
         [github](https://github.com/auto1-oss)
         ,
         [jobs](https://www.auto1-group.com/de/jobs/?locations=Berlin)
+    * [Avantgarde Gesellschaft für Kommunikation MbH](https://avantgarde.net/) —
+        [proof](https://www.bebee.com/de/job/senior-python-django-backend-30894995)
+        ,
+        [jobs](https://avantgarde.net/careers/jobs/stellenangebote.html)
     * [avodaq AG](https://www.avodaq.com/) —
         [proof](https://avodaq.softgarden.io/job/4057332)
         ,
