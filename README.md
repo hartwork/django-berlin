@@ -269,6 +269,10 @@ Something is missing?  Create a pull request!
         [github](https://github.com/hikaya-io)
         ,
         [jobs](https://angel.co/company/hikaya/jobs)
+    * [HIVE (Borg Collective GmbH)](https://hive.one/) —
+        [proof](https://hive.one/admin/login/?next=/admin/)
+        ,
+        [jobs](https://hive.one/jobs/)
     * [House of gigs](https://houseofgigs.io/) —
         [proof](https://jobs.smartrecruiters.com/houseofgigs/743999677981503-software-engineer)
         ,
