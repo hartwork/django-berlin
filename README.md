@@ -351,6 +351,12 @@ Something is missing?  Create a pull request!
         ,
         [jobs](https://angel.co/company/kupfer-software/jobs)
 * __L__
+    * [Liquid Democracy e.V.](https://liqd.net/) —
+        [proof](https://liqd.net/documents/29/job_djangoDeveloper.pdf)
+        ,
+        [github](https://github.com/liqd)
+        ,
+        [jobs](https://liqd.net/en/join-us/)
     * [Lumenaza GmbH](https://www.lumenaza.de/) —
         [proof](https://www.lumenaza.de/media/filer_public/05/dc/05dc69ca-a821-4741-8d26-a036d8c7c468/170519_stellenausschreibung_entwickler.pdf)
         ,
