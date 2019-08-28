@@ -513,6 +513,12 @@ Something is missing?  Create a pull request!
         [github](https://github.com/rl-institut)
         ,
         [jobs](https://reiner-lemoine-institut.de/aktuelles/stellenangebote/)
+    * [RIEMSER Pharma GmbH](https://www.riemser.com/) —
+        [proof](https://www.riemser.com/karriere/stellenangebote/full-stack-developer-mwd/)
+        ,
+        [github](https://github.com/riemser-pharma-gmbh)
+        ,
+        [jobs](https://www.riemser.com/karriere/stellenangebote/)
 * __S__
     * [Sanakey Systems GmbH](https://www.sanakey.de/) —
         [proof](https://de.jobtome.com/stellenangebot/backend-entwickler/e16669913f03a68fda8489ef1546fd1f)
