@@ -534,6 +534,12 @@ Something is missing?  Create a pull request!
         [github](https://github.com/ScholzVolkmer)
         ,
         [jobs](https://www.s-v.de/de/jobs/)
+    * [scoutbee GmbH](https://scoutbee.com/) —
+        [proof](https://scoutbee.workable.com/j/70F02E7DF4)
+        ,
+        [github](https://github.com/scoutbee)
+        ,
+        [jobs](https://scoutbee.workable.com/)
     * [Secret Escapes Ltd](https://www.secretescapes.de/) —
         [proof](https://careers.secretescapes.de/job/?job_id=1593308)
         ,
