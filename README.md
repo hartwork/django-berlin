@@ -64,6 +64,12 @@ Something is missing?  Create a pull request!
         [github](https://github.com/agile42com)
         ,
         [jobs](https://www.agile42.com/de/career/)
+    * [Airbus S.A.S.](https://www.airbus.com/) —
+        [proof](https://www.airbus.com/careers/search-and-apply/search-for-vacancies/job-detail.html?uuid=856)
+        ,
+        [github](https://github.com/AirbusRecruitment)
+        ,
+        [jobs](https://www.airbus.com/careers.html)
     * [Alpaca Technology, Inc.](https://www.alpaca.technology/) —
         [proof](https://www.alpaca.technology/careers/automator-python-back-end/)
         ,
