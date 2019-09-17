@@ -402,6 +402,10 @@ Something is missing?  Create a pull request!
         [github](https://github.com/Medbelle)
         ,
         [jobs](https://www.medbelle.com/careers)
+    * [Menzel IT GmbH](https://menzelit.net/) —
+        [proof](https://menzelit.net/wp-content/uploads/2019/08/stellenanzeige-werkstudierende.pdf)
+        ,
+        [jobs](https://menzelit.net/karriere/)
     * [Merantix AG](https://www.merantix.com/) —
         [proof](https://news.ycombinator.com/item?id=16975786)
         ,
