@@ -414,6 +414,8 @@ Something is missing?  Create a pull request!
         [github](https://github.com/merantix)
         ,
         [jobs](https://merantix.bamboohr.co.uk/jobs/)
+    * [Mika (Fosanis GmbH)](https://www.mitmika.de/) —
+        [proof](https://de.indeed.com/Zeige-Job?jk=ef36750662236e0f)
     * [mixd.tv](http://www.mixd.tv/) —
         [proof](https://djangojobs.net/jobs/194/senior-developer-team-lead-mixdtv/)
         ,
