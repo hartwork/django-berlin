@@ -148,6 +148,8 @@ Something is missing?  Create a pull request!
     * [Big Picture GmbH](http://www.big-picture.de/) —
         [proof](https://www.simplyhired.de/job/C5y82ivRB1K_nvq48JwLen2i06ZHrsWvrhTN5BGABHv3uAv6RN6n1w)
 * __C__
+    * [Camping.info GmbH](https://camping.info/) —
+        [proof](https://de.indeed.com/Zeige-Job?jk=8988934b627ffad8)
     * [castLabs GmbH](https://castlabs.com/) —
         [proof](https://www.remotepython.com/jobs/606f2965227446efa4159f0ec4981544/)
         ,
