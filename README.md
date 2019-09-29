@@ -748,7 +748,7 @@ Job websites with jobs filtered by Django and Berlin:
 * [Trovit](https://de.trovit.com/jobs/index.php/cod.search_jobs/what_d.django/where_d.berlin)
 * [Venturi Group](https://www.venturi-group.com/?s=django+berlin)
 * [XING](https://www.xing.com/jobs/search?keywords=django&location=Berlin&radius=10)
-* [ZipRecruiter](https://www.ziprecruiter.com/candidate/search?search=django&location=berlin)
+* [ZipRecruiter](https://www.ziprecruiter.de/jobs/search?q=django&l=Berlin%2C+Germany)
 
 
 Like this list?  Support it with a star!
