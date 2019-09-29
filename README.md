@@ -505,12 +505,12 @@ Something is missing?  Create a pull request!
         [github](https://github.com/PriceHubble)
         ,
         [jobs](https://pricehubble.com/en/about/careers/)
-    * [ProfitBricks GmbH](https://www.profitbricks.de/) —
+    * ~[ProfitBricks GmbH](https://www.profitbricks.de/) —
         [proof](https://profitbricks.softgarden.io/job/1211128/?l=de)
         ,
         [github](https://github.com/profitbricks)
         ,
-        [jobs](https://www.profitbricks.de/de/unternehmen/karriere/#jobs)
+        [jobs](https://www.profitbricks.de/de/unternehmen/karriere/#jobs)~
     * [Pulilab](http://www.pulilab.com/) —
         [proof](http://www.pulilab.com/job/django-developer)
         ,
