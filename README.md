@@ -249,6 +249,12 @@ Something is missing?  Create a pull request!
         [github](https://github.com/factworks)
         ,
         [jobs](https://www.factworks.com/career#jobs)
+    * [FinCompare GmbH](https://fincompare.de/) —
+        [proof](https://stackoverflow.com/jobs/companies/fincompare-gmbh)
+        ,
+        [github](https://github.com/fincompare)
+        ,
+        [jobs](https://fincompare.de/jobs)
     * [Formlabs GmbH](https://formlabs.com/) —
         [proof](https://github.com/Formlabs/airbrake-django)
         ,
