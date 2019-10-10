@@ -551,6 +551,10 @@ Something is missing?  Create a pull request!
         [github](https://github.com/riemser-pharma-gmbh)
         ,
         [jobs](https://www.riemser.com/karriere/stellenangebote/)
+    * [Rosenmeister LegalTech GmbH](https://www.rosenmeister.org/) —
+        [proof](https://rosenmeister-gmbh.join.com/jobs/404125-senior-django-python-entwicklung-m-w-d-in-berlin-gesucht)
+        ,
+        [jobs](https://rosenmeister-gmbh.join.com/)
 * __S__
     * [Sanakey Systems GmbH](https://www.sanakey.de/) —
         [proof](https://de.jobtome.com/stellenangebot/backend-entwickler/e16669913f03a68fda8489ef1546fd1f)
