@@ -626,6 +626,10 @@ Something is missing?  Create a pull request!
         [github](https://github.com/sinnwerkstatt)
         ,
         [jobs](https://sinnwerkstatt.com/team/#jobs)
+    * [SkillMe](https://heyskill.me/) —
+        [proof](https://angel.co/company/heyskillme/jobs/583212-backend-developer)
+        ,
+        [jobs](https://angel.co/company/heyskillme/jobs)
     * [Solandeo GmbH](https://www.solandeo.com/) —
         [proof](https://www.solandeo.com/wp-content/uploads/2018-09-17-Ausschreibung-Senior-Developer-Python.pdf)
         ,
