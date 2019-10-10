@@ -747,7 +747,6 @@ Something is missing?  Create a pull request!
 Job websites with jobs filtered by Django and Berlin:
 
 * [Adzuna](https://www.adzuna.de/search?q=django&loc=87861)
-* [AngelList](https://angel.co/berlin/django/jobs)
 * [BerlinStartupJobs.com](http://berlinstartupjobs.com/de/skill-areas/django/)
 * [Careerjet.de](https://www.careerjet.de/suchen/stellenangebote?s=django&l=berlin)
 * [Charly Jobs](https://jobs.charly.education/jobs/?q=django&l=Berlin%2C%20Deutschland)
