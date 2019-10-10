@@ -64,6 +64,12 @@ Something is missing?  Create a pull request!
         [github](https://github.com/adjust)
         ,
         [jobs](https://www.adjust.com/company/careers)
+    * [Advertima AG](https://www.advertima.com/) —
+        [proof](https://advertima.softgarden.io/job/4891238?l=en)
+        ,
+        [github](https://github.com/advertima)
+        ,
+        [jobs](https://www.advertima.com/company/career-opportunity/)
     * [agile42 GmbH](https://www.agile42.com/de/) —
         [proof](https://www.pycon.it/media/conference/slides/out-of-sight-out-of-mind-survival-tricks-and-tools-for-remote-developers.pdf)
         ,
