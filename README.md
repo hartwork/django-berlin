@@ -472,6 +472,10 @@ Something is missing?  Create a pull request!
         [github](https://github.com/orderbird)
         ,
         [jobs](https://www.orderbird.com/de/karriere)
+    * [Oxfam Deutschland e.V.](https://www.oxfam.de/) —
+        [proof](https://www.oxfam.de/ueber-uns/jobs/job/2019-10-20-softwareentwicklerin-datenbanken)
+        ,
+        [jobs](https://www.oxfam.de/ueber-uns/jobs/stellen)
 * __P__
     * [PeopleDoc Germany GmbH](https://www.people-doc.de/) —
         [proof](https://boards.greenhouse.io/peopledocberlin/jobs/948962)
