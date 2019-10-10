@@ -438,6 +438,10 @@ Something is missing?  Create a pull request!
         [proof](https://djangojobs.net/jobs/194/senior-developer-team-lead-mixdtv/)
         ,
         [jobs](http://www.mixd.tv/careers.html)
+    * [Mocentiv GmbH](https://mocentiv.io/) —
+        [proof](https://angel.co/company/mocentiv/jobs/634307-backend-engineering-internship-python-and-django)
+        ,
+        [jobs](https://angel.co/company/mocentiv/jobs)
     * [Moccu GmbH & Co. KG](https://www.moccu.com/) —
         [proof](https://github.com/moccu)
         ,
