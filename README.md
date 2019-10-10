@@ -454,6 +454,12 @@ Something is missing?  Create a pull request!
         ,
         [jobs](https://neuraum.com/#_jobs)
 * __O__
+    * [Oetker Digital GmbH](https://www.oetkerdigital.com/) —
+        [proof](https://oetkerdigital.dvinci-easy.com/en/jobs/20166/team-lead-backend-engineering)
+        ,
+        [github](https://github.com/OetkerDigital)
+        ,
+        [jobs](https://www.oetkerdigital.com/#/jobs)
     * [OpenCraft GmbH](https://opencraft.com/) —
         [proof](https://de.jooble.org/desc/1274823385053000778)
         ,
