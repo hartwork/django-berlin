@@ -275,6 +275,10 @@ Something is missing?  Create a pull request!
         [proof](https://angel.co/fraend/jobs/546163-senior-software-engineer-django)
         ,
         [jobs](https://angel.co/fraend/jobs)
+    * [future demand GmbH](https://future-demand.com/) —
+        [proof](https://future-demand-jobs.personio.de/job/105600)
+        ,
+        [jobs](https://future-demand.com/#joinus)
 * __G__
     * [GetTechTalent GmbH](http://www.gettechtalent.com/) —
         [proof](http://www.gettechtalent.com/django-developer-remote.html)
