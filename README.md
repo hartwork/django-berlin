@@ -217,6 +217,10 @@ Something is missing?  Create a pull request!
         [github](https://github.com/devolute)
         ,
         [jobs](https://www.devolute.org/de/karriere-und-jobs)
+    * [dive solutions GmbH](https://dive-solutions.de/) —
+        [proof](https://dive-solutions.de/wp-content/uploads/2019/08/2019_08-22_Stellenausschreibung_Backend-Developer.pdf)
+        ,
+        [jobs](https://dive-solutions.de/de/career/)
     * [Dubsmash (Mobile Motion GmbH)](https://dubsmash.com/) —
         [proof](https://www.linkedin.com/in/tim-specht#experience)
         ,
