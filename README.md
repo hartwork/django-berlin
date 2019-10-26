@@ -575,6 +575,8 @@ Something is missing?  Create a pull request!
         ,
         [jobs](https://qvsta.com/work/)
 * __R__
+    * [RecTag UG](https://rectag.eu/) —
+        [proof](https://de.indeed.com/Zeige-Job?jk=f923e5bd5dd4d8f9)
     * [Reelport GmbH](https://www.reelport.com/) —
         [proof](https://djangogigs.com/gigs/2124/)
     * [Reiner Lemoine Institut gGmbH](https://reiner-lemoine-institut.de/) —
