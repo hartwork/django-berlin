@@ -372,6 +372,12 @@ Something is missing?  Create a pull request!
         ,
         [jobs](https://www.jonasundderwolf.de/de/jobs/)
 * __K__
+    * [Kaptio Limited](https://kaptio.com/) —
+        [proof](https://www.xing.com/jobs/berlin-senior-python-developer-52143963)
+        ,
+        [github](https://github.com/Kaptio)
+        ,
+        [jobs](https://kaptio.com/jobs/)
     * [KAYAK Europe GmbH](https://www.kayak.de/) —
         [proof](https://boards.greenhouse.io/kayak/jobs/4253556002)
         ,
