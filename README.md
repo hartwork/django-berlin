@@ -816,6 +816,7 @@ Job websites with jobs filtered by Django and Berlin:
 * [SimplyHired](https://www.simplyhired.de/search?q=django&l=Berlin)
 * [softwareentwickler-jobs.de](https://www.softwareentwickler-jobs.de/in/berlin?title=django)
 * [Stack Overflow](https://stackoverflow.com/jobs/developer-jobs-using-django-in-berlin)
+* [stellenanzeigen.de](https://www.stellenanzeigen.de/suche/?voll=django&plz=berlin)
 * [stellenonline.de](https://www.stellenonline.de/search?q=django&l=Berlin)
 * [StepStone](https://www.stepstone.de/jobs/Django--Berlin.html)
 * [Taledo](https://www.taledo.com/jobs?keyword=django&locations[]=2950159)
