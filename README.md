@@ -820,6 +820,7 @@ Job websites with jobs filtered by Django and Berlin:
 * [Taledo](https://www.taledo.com/jobs?keyword=django&locations[]=2950159)
 * [Tip Top Job](https://www.tiptopjob.com/search/tiptopresults.asp?Keyword=django&country=DEU&sub_location=C-15687)
 * [Trovit](https://de.trovit.com/jobs/index.php/cod.search_jobs/what_d.django/where_d.berlin)
+* [UNICUM Karrierezentrum](https://karriere.unicum.de/jobs?search=django&job_geo_location=Berlin%2C+Deutschland)
 * [Venturi Group](https://www.venturi-group.com/?s=django+berlin)
 * [XING](https://www.xing.com/jobs/search?keywords=django&location=Berlin&radius=10)
 * [ZipRecruiter](https://www.ziprecruiter.de/jobs/search?q=django&l=Berlin%2C+Germany)
