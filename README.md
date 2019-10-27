@@ -789,6 +789,7 @@ Job websites with jobs filtered by Django and Berlin:
 * [GULP](https://www.gulp.de/gulp2/projekte/suche?0&scope=projects&query=django)
 * [ictjob](https://www.ictjob.de/berlin/tech-django/)
 * [indeed](https://de.indeed.com/Django-Jobs-in-Berlin)
+* [it-jobs.net](https://www.it-jobs.net/jobsuche/?searchtext=django&location=berlin)
 * [JobAmt](https://www.jobamt.com/latest-jobs?q=django&location=berlin&l=)
 * [jobbörse.de](https://www.jobbörse.de/jobsuche/jobs/?q=django&l=berlin)
 * [Jobcluster](https://www.jobcluster.de/jobs/berlin/umkreis=25/suche=django)
