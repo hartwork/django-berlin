@@ -819,6 +819,7 @@ Job websites with jobs filtered by Django and Berlin:
 * [softwareentwickler-jobs.de](https://www.softwareentwickler-jobs.de/in/berlin?title=django)
 * [Stack Overflow](https://stackoverflow.com/jobs/developer-jobs-using-django-in-berlin)
 * [stellenanzeigen.de](https://www.stellenanzeigen.de/suche/?voll=django&plz=berlin)
+* [StellenMarkt.de](https://www.stellenmarkt.de/search?keyword=django&region=berlin)
 * [stellenonline.de](https://www.stellenonline.de/search?q=django&l=Berlin)
 * [stellenwerk](https://www.stellenwerk-berlin.de/jobboerse?combine=django)
 * [StepStone](https://www.stepstone.de/jobs/Django--Berlin.html)
