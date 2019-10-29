@@ -477,6 +477,12 @@ Something is missing?  Create a pull request!
         ,
         [jobs](https://www.mi-labs.de/career/)
 * __N__
+    * [Neufund (Fifth Force (Liechtenstein) GmbH)](https://neufund.org/) —
+        [proof](https://de.indeed.com/Zeige-Job?jk=1ae6795c30b310df)
+        ,
+        [github](https://github.com/Neufund)
+        ,
+        [jobs](https://neufund.org/careers)
     * [Neuraum Ventures GmbH](https://neuraum.com/) —
         [proof](https://www.simplyhired.de/job/FNKxi9bpcVDFtrXrQKrDOPVy-LfniJbLDAlQGUtZe4QLTYSbd_i6ew)
         ,
