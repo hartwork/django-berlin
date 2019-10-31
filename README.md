@@ -317,6 +317,10 @@ Something is missing?  Create a pull request!
         [proof](https://hive.one/admin/login/?next=/admin/)
         ,
         [jobs](https://hive.one/jobs/)
+    * [HPS Home Power Solutions GmbH](http://www.homepowersolutions.de/) —
+        [proof](https://jobsinberlin.de/jobs/werkstudent-als-webdeveloper-im-vertrieb-berlin?jobid=1177994)
+        ,
+        [jobs](http://www.homepowersolutions.de/jobs)
     * [House of gigs](https://houseofgigs.io/) —
         [proof](https://jobs.smartrecruiters.com/houseofgigs/743999677981503-software-engineer)
         ,
