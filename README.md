@@ -228,6 +228,8 @@ Something is missing?  Create a pull request!
         ,
         [jobs](https://dubsmash.com/jobs)
 * __E__
+    * [Eberlein und Kunz GbR](http://eberlein-und-kunz-gbr.de/) —
+        [proof](https://www.simplyhired.de/job/lCIEn7DzlAfpj8CU45PGVjf29O0tHqSP4dGcfOFtk0w8BdN4_8BsDg)
     * [EichenGlobal GmbH](https://www.eichenglobal.com/) —
         [proof](https://de.jooble.org/desc/1486142686093249466)
         ,
