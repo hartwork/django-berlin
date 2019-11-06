@@ -176,6 +176,10 @@ Something is missing?  Create a pull request!
         [proof](http://berlinstartupjobs.com/de/engineering/software-developer-devops-python-close2real/)
         ,
         [jobs](https://blueocean-jobs.personio.de/)
+    * [colabel GmbH](https://colabel.com/) —
+        [proof](https://colabel.com/en/roles/backend-engineer)
+        ,
+        [jobs](https://colabel.com/en/jobs)
     * [colormass GmbH](http://colormass.com/) —
         [proof](http://colormass.com/jobs/front-end-developer-angular-typescript-css/)
         ,
