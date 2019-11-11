@@ -745,6 +745,10 @@ Something is missing?  Create a pull request!
         [proof](https://jobspotting.com/en/company/vdpexpertise/job/python-django-developer-m-w--d8a071cc5c0144a780af1b3123ec09f0)
         ,
         [jobs](https://jobspotting.com/en/company/vdpexpertise)
+    * [viasto GmbH](https://www.viasto.com/) —
+        [proof](https://viasto.softgarden.io/job/5328014/)
+        ,
+        [jobs](https://www.viasto.com/ueber-uns/jobs/)
     * [Vimcar GmbH](https://vimcar.de/) —
         [proof](https://vimcar.de/career/jobs/tech/TE-WAB-19-1)
         ,
