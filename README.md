@@ -50,6 +50,10 @@ Something is missing?  Create a pull request!
         ,
         [jobs](https://8fit.com/careers/)
 * __A__
+    * [aam it GmbH](https://www.aam-it.eu/de/) —
+        [proof](https://www.aam-it.eu/de/karriere/stellenangebote/details/senior-python-entwickler-m-w-msa.html)
+        ,
+        [jobs](https://www.aam-it.eu/de/karriere/stellenangebote/bundesland/Berlin.html#goto)
     * [A Color Bright GmbH](https://www.acolorbright.com/) —
         [proof](https://www.acolorbright.com/jobs/developer/)
         ,
