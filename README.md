@@ -701,6 +701,10 @@ Something is missing?  Create a pull request!
         [proof](https://www.glassdoor.de/job-listing/senior-backend-developer-teraki-gmbh-JV_IC2622109_KO0,24_KE25,36.htm?jl=2801616918)
         ,
         [jobs](https://www.teraki.com/jobs/)
+    * [testxchange GmbH](https://de.testxchange.com/) —
+        [proof](https://www.xing.com/jobs/berlin-senior-software-engineer-dynamic-b2b-platform-start-52823700)
+        ,
+        [jobs](https://de.testxchange.com/unternehmen/karriere/)
     * [Thermondo GmbH](https://www.thermondo.de/) —
         [proof](https://github.com/Thermondo)
         ,
