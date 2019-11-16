@@ -149,6 +149,12 @@ Something is missing?  Create a pull request!
         ,
         [jobs](https://www.avodaq.com/de/#jobs/jobangebote)
 * __B__
+    * [Babbel (Lesson Nine GmbH)](https://www.babbel.com/) —
+        [proof](https://de.indeed.com/Zeige-Job?jk=f3dda0abaad6398a)
+        ,
+        [github](https://github.com/babbel)
+        ,
+        [jobs](https://jobs.babbel.com/en/)
     * [BankenScore (Glenside Internet GmbH)](https://www.bankenscore.de/) —
         [proof](https://bankenscore.join.com/jobs/35770-senior-python-developer)
         ,
