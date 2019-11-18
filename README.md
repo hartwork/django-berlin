@@ -231,6 +231,10 @@ Something is missing?  Create a pull request!
         [github](https://github.com/devolute)
         ,
         [jobs](https://www.devolute.org/de/karriere-und-jobs)
+    * [digital dynamite GmbH](https://digitaldynamite.de/) —
+        [proof](https://digitaldynamite.de/wp-content/uploads/2016/03/tools-tech.png?0f23fc)
+        ,
+        [jobs](https://digitaldynamite.de/jobs/)
     * [dive solutions GmbH](https://dive-solutions.de/) —
         [proof](https://dive-solutions.de/wp-content/uploads/2019/08/2019_08-22_Stellenausschreibung_Backend-Developer.pdf)
         ,
