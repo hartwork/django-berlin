@@ -424,6 +424,10 @@ Something is missing?  Create a pull request!
         [github](https://github.com/KIWIKIGMBH)
         ,
         [jobs](https://kiwi.ki/karriere/)
+    * [Konetik Deutschland GmbH](http://www.konetik.com/) —
+        [proof](https://de.linkedin.com/jobs/view/back-end-developer-at-konetik-1616511617)
+        ,
+        [github](https://github.com/iotlabsltd)
     * [Kupfer Software GmbH](https://www.kupfer-software.de/) —
         [proof](https://angel.co/company/kupfer-software/jobs/592017-engineering-lead)
         ,
