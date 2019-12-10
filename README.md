@@ -182,6 +182,10 @@ Something is missing?  Create a pull request!
         [github](https://github.com/castlabs)
         ,
         [jobs](https://castlabs.com/company/jobs/)
+    * [Catenion GmbH](https://catenion.com/) —
+        [proof](https://de.indeed.com/Zeige-Job?jk=99440a3964c357f6)
+        ,
+        [jobs](https://catenion.com/careers/working-at-catenion/)
     * [ClimatePartner GmbH](https://www.climatepartner.com/) —
         [proof](https://www.climatepartner.com/de/karriere?jh=n98j73jlq1m5rqv7nicsnqed1poiwjh)
         ,
