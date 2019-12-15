@@ -736,6 +736,12 @@ Something is missing?  Create a pull request!
         [proof](https://www.xing.com/jobs/berlin-python-developer-berlin-41273060)
         ,
         [github](https://github.com/spreecode)
+    * [sprylab technologies GmbH](http://www.sprylab.com/) —
+        [proof](https://www.simplyhired.de/job/WkfU8Qx2gDc8vWLxB4S6s4q7uqyBzOCt4affaOqlQSHg2LFvXIbK6A)
+        ,
+        [github](https://github.com/sprylab)
+        ,
+        [jobs](https://sprylab.com/jobs/)
 * __T__
     * [tarent solutions GmbH](https://www.tarent.de/) —
         [proof](https://www.freelancermap.de/projektboerse/projekte/entwicklung/1635949-projekt-experte-als-python-backend-entwickler-w-m-berlin.html)
