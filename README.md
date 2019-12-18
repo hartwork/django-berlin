@@ -307,6 +307,12 @@ Something is missing?  Create a pull request!
         [proof](https://angel.co/fraend/jobs/546163-senior-software-engineer-django)
         ,
         [jobs](https://angel.co/fraend/jobs)
+    * [FragDenStaat](https://fragdenstaat.de/) —
+        [proof](https://fragdenstaat.de/info/ueber/jobs-mitmachen/)
+        ,
+        [github](https://github.com/okfde/froide)
+        ,
+        [jobs](https://fragdenstaat.de/info/ueber/jobs-mitmachen/)
     * [future demand GmbH](https://future-demand.com/) —
         [proof](https://future-demand-jobs.personio.de/job/105600)
         ,
