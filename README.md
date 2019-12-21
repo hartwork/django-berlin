@@ -86,6 +86,10 @@ Something is missing?  Create a pull request!
         [github](https://github.com/AirbusRecruitment)
         ,
         [jobs](https://www.airbus.com/careers.html)
+    * [Akelius GmbH](https://www.akelius.com/) —
+        [proof](https://stackoverflow.com/jobs/304001/devops-engineer-network-experience-male-akelius-gmbh)
+        ,
+        [jobs](https://stackoverflow.com/jobs/companies/akelius-gmbh#jobs-items)
     * [Alpaca Technology, Inc.](https://www.alpaca.technology/) —
         [proof](https://www.alpaca.technology/careers/automator-python-back-end/)
         ,
