@@ -494,6 +494,12 @@ Something is missing?  Create a pull request!
         [jobs](https://merantix.bamboohr.co.uk/jobs/)
     * [Mika (Fosanis GmbH)](https://www.mitmika.de/) —
         [proof](https://de.indeed.com/Zeige-Job?jk=ef36750662236e0f)
+    * [Mimi Hearing Technologies GmbH](https://www.mimi.io/) —
+        [proof](https://stackoverflow.com/jobs/companies/mimi-hearing-technologies-gmbh)
+        ,
+        [github](https://github.com/MimiHearingTechnologies)
+        ,
+        [jobs](https://www.mimi.io/en/jobs)
     * [mixd.tv](http://www.mixd.tv/) —
         [proof](https://djangojobs.net/jobs/194/senior-developer-team-lead-mixdtv/)
         ,
