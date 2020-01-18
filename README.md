@@ -180,6 +180,10 @@ Something is missing?  Create a pull request!
 * __C__
     * [Camping.info GmbH](https://camping.info/) —
         [proof](https://de.indeed.com/Zeige-Job?jk=8988934b627ffad8)
+    * [Cara Care (HiDoc Technologies GmbH)](https://cara.care/) —
+        [proof](https://www.simplyhired.de/job/XF1v6SNWxUbAjwcNEdegIyLKBXPaxjQ_EdKsKIYKgotctUCjQhiS5A)
+        ,
+        [jobs](https://cara.care/careers/)
     * [castLabs GmbH](https://castlabs.com/) —
         [proof](https://www.remotepython.com/jobs/606f2965227446efa4159f0ec4981544/)
         ,
