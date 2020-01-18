@@ -214,6 +214,10 @@ Something is missing?  Create a pull request!
         [github](https://github.com/bihealth)
         ,
         [jobs](https://www.bihealth.org/de/angebote/stellenangebote/)
+    * [Cornelsen Verlag GmbH](https://www.cornelsen.de/) —
+        [proof](https://www.stepstone.de/stellenangebote--Software-Engineer-m-w-d-Rights-Management-Berlin-Cornelsen-Verlag-GmbH--6286453-inline.html)
+        ,
+        [jobs](https://www.cornelsen.de/karriere/stellenangebote)
     * [CosmoCode GmbH](https://www.cosmocode.de/) —
         [proof](https://www.simplyhired.de/job/KmrDeIvl61aVgLU_ciTRDprKkHAlwrICMRzrZv6yVe-8fSYn0Nn1dA)
         ,
