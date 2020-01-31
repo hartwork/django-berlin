@@ -245,6 +245,10 @@ Something is missing?  Create a pull request!
         [github](https://github.com/deliveryhero)
         ,
         [jobs](https://www.deliveryhero.com/career/jobs/)
+    * [dentalXr.ai (Charité – Universitätsmedizin Berlin)](https://dentalxr.ai/) —
+        [proof](https://dentalxrai.recruitee.com/o/passionate-software-engineer-join-an-innovative-growing-team)
+        ,
+        [jobs](https://dentalxrai.recruitee.com/)
     * [devolute GmbH](https://www.devolute.org/) —
         [proof](https://www.devolute.org/de/agentur/python-django-agentur-in-berlin)
         ,
