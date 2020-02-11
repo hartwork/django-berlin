@@ -834,6 +834,12 @@ Something is missing?  Create a pull request!
         [github](https://github.com/ZAGENO)
         ,
         [jobs](https://zageno-jobs.personio.de/)
+    * [Zalando SE](https://en.zalando.de/) —
+        [proof](https://stackoverflow.com/jobs/353099/senior-dba-devops-engineer-microsoft-sql-zalando-se)
+        ,
+        github [1](https://github.com/zalando) [2](https://github.com/zalandoresearch)
+        ,
+        [jobs](https://jobs.zalando.com/en/jobs/?filters%5Boffices%5D%5B0%5D=Berlin)
     * [Zeitgold GmbH](https://www.zeitgold.com/) —
         [proof](https://angel.co/zeitgold/jobs/319231-full-stack-developer)
         ,
