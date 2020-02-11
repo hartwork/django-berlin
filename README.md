@@ -909,6 +909,7 @@ Job websites with jobs filtered by Django and Berlin:
 * [Laimoon](https://jobs.laimoon.com/germany/berlin/django)
 * [media:net berlinbrandenburg](https://www.medianet-bb.de/de/jobs/?search=django&pg=1&submit=Suchen)
 * [meinestadt.de](https://jobs.meinestadt.de/berlin/suche?words=django)
+* [MoBerries](https://jobs.moberries.com/jobs-search?q=django&location=ChIJAVkDPzdOqEcRcDteW0YgIQQ)
 * [mojob](https://www.mojob.me/index.php?suche_volltext=django&suchort=Berlin&jobs=jobs)
 * [Monster](https://www.monster.de/jobs/suche/?q=django&where=berlin)
 * [neuvoo](https://neuvoo.de/jobs/?k=django&l=Berlin&radius=0)
