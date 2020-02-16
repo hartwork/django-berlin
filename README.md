@@ -553,6 +553,10 @@ Something is missing?  Create a pull request!
         [proof](https://www.simplyhired.de/job/FNKxi9bpcVDFtrXrQKrDOPVy-LfniJbLDAlQGUtZe4QLTYSbd_i6ew)
         ,
         [jobs](https://neuraum.com/#_jobs)
+    * [Next Matter GmbH](https://nextmatter.com/) —
+        [proof](https://nextmatter.bamboohr.com/jobs/view.php?id=27)
+        ,
+        [jobs](https://nextmatter.com/careers/)
 * __O__
     * [Oetker Digital GmbH](https://www.oetkerdigital.com/) —
         [proof](https://oetkerdigital.dvinci-easy.com/en/jobs/20166/team-lead-backend-engineering)
