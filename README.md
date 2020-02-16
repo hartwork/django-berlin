@@ -887,6 +887,7 @@ Job websites with jobs filtered by Django and Berlin:
 * [German IT Jobs](http://germanitjobs.com/jobs?query=berlin+django)
 * [GitHub Jobs](https://jobs.github.com/positions?description=django&location=berlin)
 * [glassdoor](https://www.glassdoor.de/Job/berlin-django-developer-jobs-SRCH_IL.0,6_IC2622109_KO7,23.htm)
+* [GoodJobs](https://goodjobs.eu/de/jobs?&job_search%5Blocation%5D=Berlin%2C+Deutschland&job_search%5Bquery%5D=django)
 * [Google](https://www.google.com/search?q=django+berlin&ibp=htl;jobs)
 * [GULP](https://www.gulp.de/gulp2/g/jobs?query=django&city=Berlin_10)
 * [ictjob](https://www.ictjob.de/berlin/tech-django/)
