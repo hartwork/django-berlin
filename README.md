@@ -228,6 +228,10 @@ Something is missing?  Create a pull request!
         [github](https://github.com/cosmocode)
         ,
         [jobs](https://www.cosmocode.de/en/about-us/jobs/)
+    * [Cross4Channel (Gesellschaft für digitales Healthcare Marketing mbH)](https://www.cross4channel.de/) —
+        [proof](https://www.cross4channel.de/fileadmin/user_upload/1.2_Software-Entwickler___Linux-Administrator_01.10.2019.pdf)
+        ,
+        [jobs](https://www.cross4channel.de/ueber-uns/#karriere)
     * [Cyren GmbH](https://www.cyren.de/) —
         [proof](https://www.cyren.com/about-cyren/careers)
         ,
