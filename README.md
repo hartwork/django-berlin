@@ -194,6 +194,12 @@ Something is missing?  Create a pull request!
         [proof](https://de.indeed.com/Zeige-Job?jk=99440a3964c357f6)
         ,
         [jobs](https://catenion.com/careers/working-at-catenion/)
+    * [circular.fashion UG](https://circular.fashion/) —
+        [proof](https://circular.fashion/jobs/)
+        ,
+        [github](https://github.com/circularfashion)
+        ,
+        [jobs](https://circular.fashion/jobs/)
     * [ClimatePartner GmbH](https://www.climatepartner.com/) —
         [proof](https://www.climatepartner.com/de/karriere?jh=n98j73jlq1m5rqv7nicsnqed1poiwjh)
         ,
