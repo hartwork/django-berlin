@@ -568,6 +568,10 @@ Something is missing?  Create a pull request!
         ,
         [jobs](https://nextmatter.com/careers/)
 * __O__
+    * [Oculid UG](http://www.oculid.com/) —
+        [proof](https://www.simplyhired.de/job/LvhGcbd6tiDGJGu0R8NTzaeDQ5vbVPMNZnHRFGs5BrUQGfZNYYo8wQ)
+        ,
+        [jobs](http://www.oculid.com/#jobs)
     * [Oetker Digital GmbH](https://www.oetkerdigital.com/) —
         [proof](https://oetkerdigital.dvinci-easy.com/en/jobs/20166/team-lead-backend-engineering)
         ,
