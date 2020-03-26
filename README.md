@@ -774,6 +774,12 @@ Something is missing?  Create a pull request!
         [github](https://github.com/sprylab)
         ,
         [jobs](https://sprylab.com/jobs/)
+    * [SumUp Payments Limited](https://sumup.com/) —
+        [proof](https://www.xing.com/jobs/berlin-front-end-developer-57099796)
+        ,
+        [github](https://github.com/sumup)
+        ,
+        [jobs](https://sumup.com/careers/locations/berlin/)
 * __T__
     * [tarent solutions GmbH](https://www.tarent.de/) —
         [proof](https://www.freelancermap.de/projektboerse/projekte/entwicklung/1635949-projekt-experte-als-python-backend-entwickler-w-m-berlin.html)
