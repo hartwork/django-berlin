@@ -450,6 +450,8 @@ Something is missing?  Create a pull request!
         [github](https://github.com/kayak)
         ,
         [jobs](https://www.kayak.de/careers/berlin/all)
+    * [Kitchenful](http://kitchenful.com/) —
+        [proof](https://www.simplyhired.de/job/P-CXrRafDB7a3_zW4LwXURyOlRQQn5Leaaxr44Qzn3_8KptciIl4KQ)
     * [Kitchen Stories (AJNS New Media GmbH)](https://www.kitchenstories.com/) —
         [proof](https://groups.google.com/forum/#!topic/django-berlin/w84FS3OprQM)
         ,
