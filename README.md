@@ -863,6 +863,13 @@ Something is missing?  Create a pull request!
          [github](https://github.com/voiio)
          ,
          [jobs](https://voiio.de/karriere/)
+* __W__
+    * [WeAre GmbH](https://weare-rooms.com/) —
+        [proof](https://stellenangebot.monster.de/software-engineer-m-f-d-berlin-berlin-de-weare-gmbh/a2019f86-fea1-4535-90c8-5c8369c36ab5)
+        ,
+        [github](https://github.com/WeAre-GmbH)
+        ,
+        [jobs](https://weare-rooms.com/jobs/)
 * __Z__
     * [Zageno Inc.](https://zageno.de/) —
         [proof](https://www.simplyhired.de/job/QnSzgBAYjsOzdzcOj-P74eBwkfpfxMtli-0U0O_9u0xkZbXCrn99sQ)
