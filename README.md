@@ -177,6 +177,12 @@ Something is missing?  Create a pull request!
         [jobs](https://betterguards.de/en/contact/)
     * [Big Picture GmbH](http://www.big-picture.de/) —
         [proof](https://www.simplyhired.de/job/C5y82ivRB1K_nvq48JwLen2i06ZHrsWvrhTN5BGABHv3uAv6RN6n1w)
+    * [Bonial International GmbH](https://www.bonial.com/) —
+        [proof](https://stackoverflow.com/jobs/390255/senior-python-engineer-m-f-d-bonial-international-gmbh)
+        ,
+        [github](https://github.com/bonial)
+        ,
+        [jobs](https://www.bonial.com/de/karriere/)
 * __C__
     * [Camping.info GmbH](https://camping.info/) —
         [proof](https://de.indeed.com/Zeige-Job?jk=8988934b627ffad8)
