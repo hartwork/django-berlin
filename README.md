@@ -598,6 +598,10 @@ Something is missing?  Create a pull request!
         [github](https://github.com/orderbird)
         ,
         [jobs](https://www.orderbird.com/de/karriere)
+    * [OSB AG](https://www.osb-ag.de/) —
+        [proof](https://www.connecticum.de/jobboerse/python-django-softwareentwickler-stellenangebot-792388.html)
+        ,
+        [jobs](https://www.osb-ag.de/karriere/stellenangebote.html?fulltext=django&workLocation=berlin)
     * [Oxfam Deutschland e.V.](https://www.oxfam.de/) —
         [proof](https://www.oxfam.de/ueber-uns/jobs/job/2019-10-20-softwareentwicklerin-datenbanken)
         ,
