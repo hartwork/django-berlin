@@ -672,6 +672,10 @@ Something is missing?  Create a pull request!
         ,
         [jobs](http://www.pulilab.com/team-jobs)
 * __Q__
+    * [QUIN Technologies GmbH](https://www.getquin.com/) —
+        [proof](https://www.f6s.com/jobs/43325/quingetquin/cto-for-fintech-startup)
+        ,
+        [github](https://github.com/getquin)
     * [QVSTA GmbH](https://qvsta.com/) —
         [proof](https://angel.co/qvsta/jobs/389050-intern-backend-developer)
         ,
