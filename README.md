@@ -450,6 +450,10 @@ Something is missing?  Create a pull request!
         [github](https://github.com/Kaptio)
         ,
         [jobs](https://kaptio.com/jobs/)
+    * [kaputt.de GmbH](https://www.kaputt.de/) —
+        [proof](https://www.kaputt.de/jobs/#seniorfullstack)
+        ,
+        [jobs](https://www.kaputt.de/jobs/)
     * [KAYAK Europe GmbH](https://www.kayak.de/) —
         [proof](https://boards.greenhouse.io/kayak/jobs/4253556002)
         ,
