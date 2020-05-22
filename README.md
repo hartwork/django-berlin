@@ -850,6 +850,12 @@ Something is missing?  Create a pull request!
         [github](https://github.com/uhuracreativemedia)
         ,
         [jobs](https://www.uhura.de/jobs/)
+    * [Umwelt und Informationstechnologie Zentrum, UIZ GmbH](http://uizentrum.de/) —
+        [proof](http://uizentrum.de/jobs/python-and-django-developer-intern/)
+        ,
+        [github](https://github.com/uizentrum)
+        ,
+        [jobs](http://uizentrum.de/praktika-und-jobs/)
     * [Upvest GmbH](https://upvest.co/) —
         [proof](https://www.xing.com/jobs/berlin-senior-python-developer-full-time-43458050)
         ,
