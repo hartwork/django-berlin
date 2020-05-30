@@ -385,6 +385,10 @@ Something is missing?  Create a pull request!
         [proof](https://hive.one/admin/login/?next=/admin/)
         ,
         [jobs](https://hive.one/jobs/)
+    * [Home Klick GmbH](https://home-klick.de/) —
+        [proof](https://www.simplyhired.de/job/eCRINIQC-pjFJ72WCebJpNXOcwwA7ZAdlCytRqtHRa2iSAn27s-Clg)
+        ,
+        [jobs](https://homeklick.join.com/)
     * [HPS Home Power Solutions GmbH](http://www.homepowersolutions.de/) —
         [proof](https://jobsinberlin.de/jobs/werkstudent-als-webdeveloper-im-vertrieb-berlin?jobid=1177994)
         ,
