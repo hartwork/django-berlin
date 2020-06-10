@@ -371,6 +371,10 @@ Something is missing?  Create a pull request!
         ,
         [jobs](https://jobs.grover.com/)
 * __H__
+    * [Hardskills GmbH](https://hardskills.com/) —
+        [proof](https://hardskills.com/careers/senior-backend-engineer-core-platform-python-django-berlin)
+        ,
+        [jobs](https://hardskills.com/careers)
     * [Harper (Marvin GmbH)](https://www.trustharper.com/) —
         [proof](https://www.jobfluent.com/jobs/junior-full-stack-python-developer-berlin-81414d)
         ,
