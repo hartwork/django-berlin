@@ -921,6 +921,12 @@ Something is missing?  Create a pull request!
         [github](https://github.com/Zeitgold)
         ,
         [jobs](https://www.zeitgold.com/careers/)
+    * [Zeppelin Lab GmbH](https://www.z-lab.com/) —
+        [proof](https://curaweb2.mindscope.com/TECHNA04436_CURA/aspx/JobDetails.aspx?Job_ID=331)
+        ,
+        [github](https://github.com/Klickrent)
+        ,
+        [jobs](https://www.z-lab.com/en/jobs/)
     * [Zugvogl GmbH](https://welcome.zugvogl.com/) —
         [proof](https://welcome.zugvogl.com/careers/JD_BE_DEV.pdf)
         ,
