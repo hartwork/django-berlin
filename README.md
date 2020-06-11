@@ -540,6 +540,10 @@ Something is missing?  Create a pull request!
         [github](https://github.com/merantix)
         ,
         [jobs](https://merantix.bamboohr.co.uk/jobs/)
+    * [METR Building Management Systems GmbH](https://metr.systems/) —
+        [proof](https://metr.recruitee.com/l/en/o/backend-software-developer-mfx)
+        ,
+        [jobs](https://metr.recruitee.com/l/en)
     * [Mika (Fosanis GmbH)](https://www.mitmika.de/) —
         [proof](https://de.indeed.com/Zeige-Job?jk=ef36750662236e0f)
     * [Mimi Hearing Technologies GmbH](https://www.mimi.io/) —
