@@ -54,6 +54,12 @@ Something is missing?  Create a pull request!
         [proof](https://www.aam-it.eu/de/karriere/stellenangebote/details/senior-python-entwickler-m-w-msa.html)
         ,
         [jobs](https://www.aam-it.eu/de/karriere/stellenangebote/bundesland/Berlin.html#goto)
+    * [Ableton AG](https://www.ableton.com/) —
+        [proof](https://www.ableton.com/en/jobs/apply/220553/)
+        ,
+        [github](https://github.com/Ableton)
+        ,
+        [jobs](https://www.ableton.com/de/jobs/)
     * [A Color Bright GmbH](https://www.acolorbright.com/) —
         [proof](https://www.acolorbright.com/jobs/developer/)
         ,
