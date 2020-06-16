@@ -216,6 +216,12 @@ Something is missing?  Create a pull request!
         [proof](https://www.climatepartner.com/de/karriere?jh=n98j73jlq1m5rqv7nicsnqed1poiwjh)
         ,
         [jobs](https://www.climatepartner.com/de/karriere)
+    * [CloudBees, Inc.](https://www.cloudbees.com/) —
+        [proof](https://boards.greenhouse.io/cloudbees/jobs/2217438)
+        ,
+        [github](https://github.com/cloudbees)
+        ,
+        [jobs](https://www.cloudbees.com/careers)
     * [close2real (BlueOcean Perspectives GmbH)](https://close2real.de/) —
         [proof](http://berlinstartupjobs.com/de/engineering/software-developer-devops-python-close2real/)
         ,
