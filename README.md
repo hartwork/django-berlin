@@ -206,6 +206,12 @@ Something is missing?  Create a pull request!
         [proof](https://de.indeed.com/Zeige-Job?jk=99440a3964c357f6)
         ,
         [jobs](https://catenion.com/careers/working-at-catenion/)
+    * [charly education (PlusPeter GmbH)](https://www.charly.education/) —
+        [proof](https://www.pluspeter.com/job/back_end_engineer/)
+        ,
+        [github](https://github.com/PlusPeter)
+        ,
+        [jobs](https://www.charly.education/jobs)
     * [circular.fashion UG](https://circular.fashion/) —
         [proof](https://circular.fashion/jobs/)
         ,
@@ -677,12 +683,6 @@ Something is missing?  Create a pull request!
         [github](https://github.com/plentific)
         ,
         [jobs](https://plentific.com/careers/)
-    * [PlusPeter GmbH](https://www.pluspeter.com/) —
-        [proof](https://www.pluspeter.com/job/back_end_engineer/)
-        ,
-        [github](https://github.com/PlusPeter)
-        ,
-        [jobs](https://www.pluspeter.com/job/)
     * [Port Zero GmbH](https://port-zero.com/) —
         [proof](https://port-zero.com/jobs/2019_network_automator/)
         ,
