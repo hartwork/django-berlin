@@ -463,6 +463,10 @@ Something is missing?  Create a pull request!
         [github](https://github.com/moberries)
         ,
         [jobs](https://app.moberries.com/company/1536692)
+    * ~[Jobspotting (SmartRecruiters GmbH)](https://jobspotting.com/) —
+        [proof](https://jobspotting.com/admin/)
+        ,
+        [jobs](http://berlinstartupjobs.com/companies/jobspotting/)~
     * [Jonas & der Wolf](https://www.jonasundderwolf.de/) —
         [proof](https://www.creative-city-berlin.de/de/jobs/job/7701887/)
         ,
