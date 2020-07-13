@@ -922,6 +922,10 @@ Something is missing?  Create a pull request!
          ,
          [jobs](https://voiio.de/karriere/)
 * __W__
+    * [WBS Training AG](https://www.wbs-gruppe.de/) —
+        [proof](https://www.wbs-gruppe.de/job-details/jobs/Job/detail/persis_000942/)
+        ,
+        [jobs](https://www.wbs-gruppe.de/)
     * [WeAre GmbH](https://weare-rooms.com/) —
         [proof](https://stellenangebot.monster.de/software-engineer-m-f-d-berlin-berlin-de-weare-gmbh/a2019f86-fea1-4535-90c8-5c8369c36ab5)
         ,
