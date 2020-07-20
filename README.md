@@ -821,7 +821,7 @@ Something is missing?  Create a pull request!
         ,
         [github](https://github.com/spreecode)
     * [sprylab technologies GmbH](http://www.sprylab.com/) —
-        [proof](https://www.simplyhired.de/job/WkfU8Qx2gDc8vWLxB4S6s4q7uqyBzOCt4affaOqlQSHg2LFvXIbK6A)
+        [proof](https://sprylab.com/en/python-backend-developer-m-f-d/)
         ,
         [github](https://github.com/sprylab)
         ,
