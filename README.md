@@ -312,6 +312,10 @@ Something is missing?  Create a pull request!
         [jobs](https://www.eichenglobal.com/job/)
     * [e-laborat](https://www.e-laborat.de/) —
         [proof](https://www.e-laborat.de/#agentur)
+    * [Elbkind Reply GmbH](https://www.elbkind.de/) —
+        [proof](https://www.elbkind.de/jobs/job-standort/berlin/junior-account-manager-4-2/)
+        ,
+        [jobs](https://www.elbkind.de/jobs/job-standort/berlin/)
     * [emma blossom GmbH](https://emma-blossom.com/) —
         [proof](https://www.creative-city-berlin.de/de/jobs/job/7712467/)
         ,
