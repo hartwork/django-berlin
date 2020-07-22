@@ -283,6 +283,10 @@ Something is missing?  Create a pull request!
         [proof](https://dentalxrai.recruitee.com/o/passionate-software-engineer-join-an-innovative-growing-team)
         ,
         [jobs](https://dentalxrai.recruitee.com/)
+    * [Designerdock Berlin GmbH](https://www.designerdock.com/) —
+        [proof](https://www.designerdock.com/fuer-bewerber/stellenangebote/jobs/show/berlin/b34592-1/)
+        ,
+        [jobs](https://www.designerdock.com/fuer-bewerber/stellenangebote/)
     * [devolute GmbH](https://www.devolute.org/) —
         [proof](https://www.devolute.org/de/agentur/python-django-agentur-in-berlin)
         ,
