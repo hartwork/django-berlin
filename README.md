@@ -560,6 +560,10 @@ Something is missing?  Create a pull request!
         [github](https://github.com/machtfit)
         ,
         [jobs](https://www.machtfit.de/jobs/)
+    * [Max-Planck-Institut für Wissenschaftsgeschichte](https://www.mpiwg-berlin.mpg.de/) —
+        [proof](https://www.simplyhired.de/job/VR3CIMsOoGkE1yeZXSMGB5JoWN2EuuMFqznE6tN2G4wxsJdT-5y-ww)
+        ,
+        [jobs](https://www.mpiwg-berlin.mpg.de/career)
     * [mc-quadrat Markenagentur und Kommunikationsberatung OHG](https://mc-quadrat.com/) —
         [proof](https://mc-quadrat.softgarden.io/job/2990979/Lead-Developer--w-m-x-)
         ,
