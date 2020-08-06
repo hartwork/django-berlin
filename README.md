@@ -310,6 +310,10 @@ Something is missing?  Create a pull request!
 * __E__
     * [Eberlein und Kunz GbR](http://eberlein-und-kunz-gbr.de/) —
         [proof](https://www.simplyhired.de/job/lCIEn7DzlAfpj8CU45PGVjf29O0tHqSP4dGcfOFtk0w8BdN4_8BsDg)
+    * [EDU-Werkstatt GmbH](https://edu-werkstatt.berlin/) —
+        [proof](https://www.xing.com/jobs/berlin-full-stack-entwickler-schwerpunkt-django-60842985)
+        ,
+        [jobs](https://edu-werkstatt.berlin/#records)
     * [EichenGlobal GmbH](https://www.eichenglobal.com/) —
         [proof](https://de.jooble.org/desc/1486142686093249466)
         ,
