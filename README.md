@@ -697,6 +697,10 @@ Something is missing?  Create a pull request!
         [github](https://github.com/planetlabs)
         ,
         [jobs](https://www.planet.com/company/careers/?office=Berlin%2C%20Germany)
+    * [Planetly (‍667 Technology GmbH)](https://www.planetly.org/) —
+        [proof](https://www.simplyhired.de/job/i-CD5mlLROFRFRwVyoaZ-DyDN3cHLw88eSZN-g2ioXHIcgNDESkqjg)
+        ,
+        [jobs](https://planetly-jobs.personio.de/)
     * [Plentific, Ltd.](https://plentific.com/) —
         [proof](https://plentific.workable.com/j/88F66B42DE)
         ,
