@@ -242,6 +242,12 @@ Something is missing?  Create a pull request!
         [github](https://github.com/colormass)
         ,
         [jobs](http://colormass.com/jobs/)
+    * [Conversario (ferret go GmbH)](https://www.ferret-go.com/) —
+        [proof](https://www.xing.com/jobs/berlin-backend-developer-python-61241930)
+        ,
+        [github](https://github.com/ferretgo)
+        ,
+        [jobs](https://www.ferret-go.com/de/jobs.html)
     * [Core Unit Bioinformatics (CUBI)](https://www.cubi.bihealth.org/) (part of [Berlin Institut für Gesundheitsforschung (BIH)](https://www.bihealth.org/)) —
         [proof](https://www.xing.com/jobs/berlin-paid-sum-mer-intern-ships-python-soft-ware-engin-eer-ing-pro-gram-ming-46924178)
         ,
