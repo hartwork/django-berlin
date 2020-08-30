@@ -232,6 +232,12 @@ Something is missing?  Create a pull request!
         [proof](http://berlinstartupjobs.com/de/engineering/software-developer-devops-python-close2real/)
         ,
         [jobs](https://blueocean-jobs.personio.de/)
+    * [Codility Ltd.](https://www.codility.com/) —
+        [proof](https://apply.workable.com/codility/j/E858642FCE/)
+        ,
+        [github](https://github.com/Codility/)
+        ,
+        [jobs](https://apply.workable.com/codility/)
     * [colabel GmbH](https://colabel.com/) —
         [proof](https://colabel.com/en/roles/backend-engineer)
         ,
