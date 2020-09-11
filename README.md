@@ -632,6 +632,12 @@ Something is missing?  Create a pull request!
         [github](https://github.com/Momox-GmbH)
         ,
         [jobs](https://momox-jobs.dvinci.de/de/p/english/jobs)
+    * [Mozilla Foundation](https://foundation.mozilla.org/) —
+        [proof](https://www.iamexpat.de/career/jobs-germany/berlin/it-technology/manager-web-development/470135)
+        ,
+        [github](https://github.com/mozilla)
+        ,
+        [jobs](https://careers.mozilla.org/)
     * [Munich Innovation Labs GmbH](https://www.mi-labs.de/) —
         [proof](https://www.mi-labs.de/career/)
         ,
