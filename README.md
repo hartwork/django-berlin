@@ -1053,6 +1053,7 @@ Job websites with jobs filtered by Django and Berlin:
 * [Google](https://www.google.com/search?q=django+berlin&ibp=htl;jobs)
 * [GULP](https://www.gulp.de/gulp2/g/jobs?query=django&city=Berlin_10)
 * [hokify](https://hokify.de/jobs/m/django/berlin-germany)
+* [IamExpat](https://www.iamexpat.de/career/jobs/berlin/django)
 * [indeed](https://de.indeed.com/Django-Jobs-in-Berlin)
 * [it-jobs.net](https://www.it-jobs.net/jobsuche/?searchtext=django&location=berlin)
 * [jobbörse.de](https://www.xn--jobbrse-d1a.de/jobsuche/jobs/?q=django&l=berlin)
