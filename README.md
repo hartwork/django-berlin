@@ -173,6 +173,12 @@ Something is missing?  Create a pull request!
         [proof](https://bankenscore.join.com/jobs/35770-senior-python-developer)
         ,
         [jobs](https://www.bankenscore.de/karriere)
+    * [BaseCase (Certara Germany GmbH)](https://basecase.com/) —
+        [proof](https://basecasecareers.recruiterbox.com/jobs/fk01x71/)
+        ,
+        [github](https://github.com/BaseCaseGmbH)
+        ,
+        [jobs](https://basecase.com/company/careers)
     * [BBQ – Baumann Bildung und Qualifizierung GmbH](https://www.bbq.de/) —
         [proof](https://www.bbq.de/ueber-bbq/arbeiten-bei-bbq/dozent-programmierung-python/)
         ,
