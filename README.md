@@ -66,6 +66,10 @@ Something is missing?  Create a pull request!
         [github](https://github.com/acolorbright)
         ,
         [jobs](https://www.acolorbright.com/jobs/)
+    * [Actio (Happy Habits Solution GmbH)](https://actio.com/) —
+        [proof](https://de.jooble.org/desc/-1655743389678961635)
+        ,
+        [jobs](https://stackoverflow.com/jobs/companies/actio)
     * Actonlytics (part of [itembase GmbH](https://www.itembase.com/)) —
         [proof](https://www.rockitdigital.de/full-stack-developer-web-developer-python-django-for-actonlytics-berlin-8a892fe02d)
     * [adjust GmbH](https://www.adjust.com/) —
