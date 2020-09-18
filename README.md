@@ -880,6 +880,10 @@ Something is missing?  Create a pull request!
         [github](https://github.com/sprylab)
         ,
         [jobs](https://sprylab.com/jobs/)
+    * [Streem.ai UG](https://streem.ai/) —
+        [proof](https://de.indeed.com/Zeige-Job?jk=de640347fdbfe9a3)
+        ,
+        [jobs](https://streem.ai/careers)
     * [SumUp Payments Limited](https://sumup.com/) —
         [proof](https://www.xing.com/jobs/berlin-front-end-developer-57099796)
         ,
