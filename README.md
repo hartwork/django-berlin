@@ -884,6 +884,11 @@ Something is missing?  Create a pull request!
         [github](https://github.com/sprylab)
         ,
         [jobs](https://sprylab.com/jobs/)
+    * [staiy (Metch GmbH)](https://staiy.com/) —
+        say "no" to unpaid internships! —
+        [proof](https://www.xing.com/jobs/berlin-django-development-intern-62254597)
+        ,
+        [jobs](https://staiy.com/content/work-with-us)
     * [Streem.ai UG](https://streem.ai/) —
         [proof](https://de.indeed.com/Zeige-Job?jk=de640347fdbfe9a3)
         ,
