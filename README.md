@@ -488,6 +488,10 @@ Something is missing?  Create a pull request!
         [proof](https://de.indeed.com/Zeige-Job?jk=7ec322d16c8f38ee)
         ,
         [jobs](https://www.ice-gateway.com/jobs/)
+    * [ImmoSky Deutschland GmbH](https://www.immosky.de/) —
+        [proof](https://www.simplyhired.de/job/QF0u5aO1k15ADMZqp35SIgKYQDjWvRXEfCDH021fnaEmHfgjpkr32w)
+        ,
+        [jobs](https://www.immosky.de/weitere-themen/karriere-jobs/)
     * [incapptic Connect GmbH](https://www.incapptic.com/) —
         [proof](https://www.xing.com/jobs/berlin-senior-backend-developer-python-enterprise-software-startup-42441053)
         ,
