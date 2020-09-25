@@ -978,6 +978,10 @@ Something is missing?  Create a pull request!
         ,
         [jobs](https://upvest.join.com/)
 * __V__
+    * [Valid Digitalagentur GmbH](https://www.valid-digital.com/) —
+        [proof](https://www.valid-digital.com/leistungen/entwicklung/django-web-development.html)
+        ,
+        [jobs](https://www.valid-digital.com/karriere.html)
     * [vdpExpertise GmbH](https://www.vdpexpertise.de/) —
         [proof](https://jobspotting.com/en/company/vdpexpertise/job/python-django-developer-m-w--d8a071cc5c0144a780af1b3123ec09f0)
         ,
