@@ -338,8 +338,6 @@ Something is missing?  Create a pull request!
         [jobs](https://edu-werkstatt.berlin/#records)
     * [EichenGlobal GmbH](https://www.eichenglobal.com/) —
         [proof](https://de.jooble.org/desc/1486142686093249466)
-        ,
-        [jobs](https://www.eichenglobal.com/job/)
     * [e-laborat](https://www.e-laborat.de/) —
         [proof](https://www.e-laborat.de/#agentur)
     * [Elbkind Reply GmbH](https://www.elbkind.de/) —
