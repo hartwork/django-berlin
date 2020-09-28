@@ -65,7 +65,7 @@ Something is missing?  Create a pull request!
         ,
         [github](https://github.com/acolorbright)
         ,
-        [jobs](https://www.acolorbright.com/jobs/)
+        [jobs](https://www.acolorbright.com/en/join-us)
     * [Actio (Happy Habits Solution GmbH)](https://actio.com/) —
         [proof](https://de.jooble.org/desc/-1655743389678961635)
         ,
