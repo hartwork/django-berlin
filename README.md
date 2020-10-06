@@ -84,6 +84,10 @@ Something is missing?  Create a pull request!
         [github](https://github.com/advertima)
         ,
         [jobs](https://www.advertima.com/company/career-opportunity/)
+    * [AFTS UG](https://afts.biz/) —
+        [proof](https://stellenangebot.monster.de/junior-full-stack-developer-mit-interesse-an-blockchain-berlin-berlin-de-afts-ug/353161f6-f11d-454d-a913-2befdf7c979e)
+        ,
+        [jobs](https://afts.biz/#jobs)
     * [agile42 GmbH](https://www.agile42.com/de/) —
         [proof](https://www.pycon.it/media/conference/slides/out-of-sight-out-of-mind-survival-tricks-and-tools-for-remote-developers.pdf)
         ,
