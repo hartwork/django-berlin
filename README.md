@@ -518,11 +518,11 @@ Something is missing?  Create a pull request!
         ,
         [jobs](http://berlinstartupjobs.com/companies/jobspotting/)~
     * [Jonas & der Wolf](https://www.jonasundderwolf.de/) —
-        [proof](https://www.creative-city-berlin.de/de/jobs/job/7701887/)
+        [proof](https://www.djangoproject.com/foundation/corporate-members/)
         ,
         [github](https://github.com/jonasundderwolf)
         ,
-        [jobs](https://www.jonasundderwolf.de/de/jobs/)
+        [jobs](https://www.jonasundderwolf.de/jobs)
 * __K__
     * [Kaptio Limited](https://kaptio.com/) —
         [proof](https://www.xing.com/jobs/berlin-senior-python-developer-52143963)
