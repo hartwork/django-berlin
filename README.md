@@ -840,6 +840,10 @@ Something is missing?  Create a pull request!
         [proof](https://www.sedna.de/en/opening5/)
         ,
         [jobs](https://www.sedna.de/en/join_us/)
+    * [Seerene GmbH](https://www.seerene.com/) (Potsdam) —
+        [proof](https://tp.seerene.com/admin/login/?next=/admin/)
+        ,
+        [jobs](https://seerene-gmbh-jobs.personio.de/?language=en)
     * [sennder GmbH](https://www.sennder.com/) —
         [proof](https://sennder.heavenhr.com/jobs/_etBiQIb70a-FLZPH5P4jow_/apply)
         ,
