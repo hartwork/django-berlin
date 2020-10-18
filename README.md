@@ -996,6 +996,12 @@ Something is missing?  Create a pull request!
         [proof](https://viasto.softgarden.io/job/5328014/)
         ,
         [jobs](https://www.viasto.com/ueber-uns/jobs/)
+    * [VICO Research & Consulting GmbH](https://vico-research.com/) —
+        [proof](https://vico-research.com/2020/09/devops-engineer-m-w-d-mit-schwerpunkt-site-reliability-engineering-in-stuttgart-oder-berlin/)
+        ,
+        [github](https://github.com/vico-research-and-consulting)
+        ,
+        [jobs](https://vico-research.com/wer-wir-sind/karriere-bei-vico/)
     * [Vimcar GmbH](https://vimcar.de/) —
         [proof](https://vimcar.de/career/jobs/tech/TE-WAB-19-1)
         ,
