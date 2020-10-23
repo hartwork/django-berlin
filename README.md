@@ -805,6 +805,10 @@ Something is missing?  Create a pull request!
         [proof](https://rosenmeister-gmbh.join.com/jobs/404125-senior-django-python-entwicklung-m-w-d-in-berlin-gesucht)
         ,
         [jobs](https://rosenmeister-gmbh.join.com/)
+    * [Rotki Solutions GmbH](https://rotki.com/) —
+        [proof](https://de.bebee.com/job/85483c7abb6d174656b38b4da55412c7)
+        ,
+        [github](https://github.com/rotki)
     * [Runtime Services GmbH](https://www.runtime.de/) —
         [proof](https://www.runtime.de/job/frontend-backend-softwareentwickler-javascript-and-python-mwd-1675258972)
         ,
