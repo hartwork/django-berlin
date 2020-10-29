@@ -558,6 +558,10 @@ Something is missing?  Create a pull request!
         [proof](https://de.linkedin.com/jobs/view/back-end-developer-at-konetik-1616511617)
         ,
         [github](https://github.com/iotlabsltd)
+    * [Kreatize GmbH](https://kreatize.com/) —
+        [proof](https://www.simplyhired.de/job/yj5ti7U63pZLoRKETpGZe9btw3PNUpk5iUlyuTIR3joOUSZC1rOFsg)
+        ,
+        [jobs](https://kreatize.com/career/)
     * [Kupfer Software GmbH](https://www.kupfer-software.de/) —
         [proof](https://angel.co/company/kupfer-software/jobs/592017-engineering-lead)
         ,
