@@ -902,6 +902,10 @@ Something is missing?  Create a pull request!
         [github](https://github.com/sprylab)
         ,
         [jobs](https://sprylab.com/jobs/)
+    * [StackFuel GmbH](https://stackfuel.com/) —
+        [proof](https://stackfuel.heavenhr.com/jobs/_etx-4SXSVHnHULK2cQxpRA_/apply?language=de)
+        ,
+        [jobs](https://stackfuel.com/careers/)
     * [staiy (Metch GmbH)](https://staiy.com/) —
         say "no" to unpaid internships! —
         [proof](https://www.xing.com/jobs/berlin-django-development-intern-62254597)
