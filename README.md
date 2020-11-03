@@ -989,6 +989,12 @@ Something is missing?  Create a pull request!
         [github](https://github.com/uizentrum)
         ,
         [jobs](http://uizentrum.de/praktika-und-jobs/)
+    * [Universal Music GmbH](https://www.universal-music.de/) —
+        [proof](https://www.universal-music.de/company/jobs-karriere/professionals/data-products-backend-developer-mfd-1668)
+        ,
+        [github](https://github.com/umg)
+        ,
+        [jobs](https://www.universal-music.de/company/jobs-karriere)
     * [Upvest GmbH](https://upvest.co/) —
         [proof](https://www.xing.com/jobs/berlin-senior-python-developer-full-time-43458050)
         ,
