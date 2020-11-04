@@ -799,7 +799,7 @@ Something is missing?  Create a pull request!
         [github](https://github.com/rl-institut)
         ,
         [jobs](https://reiner-lemoine-institut.de/aktuelles/stellenangebote/)
-    * [RIEMSER Pharma GmbH](https://www.riemser.com/) —
+    * [Riemser Pharma GmbH](https://www.riemser.com/) —
         [proof](https://www.riemser.com/karriere/stellenangebote/full-stack-developer-mwd/)
         ,
         [github](https://github.com/riemser-pharma-gmbh)
@@ -952,7 +952,7 @@ Something is missing?  Create a pull request!
         [proof](https://www.moberries.com/job/1962048)
         ,
         [jobs](https://timberbase.com/en/career/)
-    * [TRACKS GmbH](https://www.tracksfortrucks.com/) —
+    * [Tracks GmbH](https://www.tracksfortrucks.com/) —
         [proof](https://careers.tracksfortrucks.com/jobs/280143-python-javascript-fullstack-developer-m-f-d)
         ,
         [jobs](https://careers.tracksfortrucks.com/jobs?department_id=49313)
@@ -1014,7 +1014,7 @@ Something is missing?  Create a pull request!
         [proof](https://viasto.softgarden.io/job/5328014/)
         ,
         [jobs](https://www.viasto.com/ueber-uns/jobs/)
-    * [VICO Research & Consulting GmbH](https://vico-research.com/) —
+    * [Vico Research & Consulting GmbH](https://vico-research.com/) —
         [proof](https://vico-research.com/2020/09/devops-engineer-m-w-d-mit-schwerpunkt-site-reliability-engineering-in-stuttgart-oder-berlin/)
         ,
         [github](https://github.com/vico-research-and-consulting)
@@ -1109,7 +1109,7 @@ Job websites with jobs filtered by Django and Berlin:
 * [glassdoor](https://www.glassdoor.de/Job/berlin-django-developer-jobs-SRCH_IL.0,6_IC2622109_KO7,23.htm)
 * [GoodJobs](https://goodjobs.eu/de/jobs?&job_search%5Blocation%5D=Berlin%2C+Deutschland&job_search%5Bquery%5D=django)
 * [Google](https://www.google.com/search?q=django+berlin&ibp=htl;jobs)
-* [GULP](https://www.gulp.de/gulp2/g/jobs?query=django&city=Berlin_10)
+* [Gulp](https://www.gulp.de/gulp2/g/jobs?query=django&city=Berlin_10)
 * [hokify](https://hokify.de/jobs/m/django/berlin-germany)
 * [IamExpat](https://www.iamexpat.de/career/jobs/berlin/django)
 * [indeed](https://de.indeed.com/Django-Jobs-in-Berlin)
@@ -1122,7 +1122,7 @@ Job websites with jobs filtered by Django and Berlin:
 * [JobNinja](https://jobninja.com/search?keywords=django&where=berlin)
 * [JobRobot](https://www.jobrobot.de/content_0400_jobsuche.htm?cmd=res&txt=ja&suchform=&keywords=django&umkreissuche_ort=berlin&umkreissuche_entfernung=20&useindex=0&zeitraum=all)
 * [jobs.de](https://www.jobs.de/suche?q=django&loc=berlin)
-* [JOBSinBerlin.de](https://jobsinberlin.de/jobs?query=django)
+* [JobsInBerlin.de](https://jobsinberlin.de/jobs?query=django)
 * [jobtensor](https://jobtensor.com/search?q=Django&region[0]=Berlin&filter=true)
 * [jobtome](https://de.jobtome.com/jobs?what=django&where=berlin&r=0)
 * [jobtopus](https://www.jobtopus.de/search/?what=django&where=berlin)
@@ -1138,7 +1138,7 @@ Job websites with jobs filtered by Django and Berlin:
 * [Moyyn](https://moyyn.com/open-positions/?search_keywords=django&search_location=berlin)
 * [neuvoo](https://neuvoo.de/jobs/?k=django&l=Berlin&radius=0)
 * [Rekruter](https://www.rekruter.de/jobsuche/?jobsuche=django&ort=berlin)
-* [ROCKITdigital](https://www.rockitdigital.de/jobs/berlin/ad8b985e7075ffa1b0abe8510e15974f7b53eff6)
+* [RockITdigital](https://www.rockitdigital.de/jobs/berlin/ad8b985e7075ffa1b0abe8510e15974f7b53eff6)
 * [SimplyHired](https://www.simplyhired.de/search?q=django&l=Berlin)
 * [softwareentwickler-jobs.de](https://www.softwareentwickler-jobs.de/in/berlin?title=django)
 * [Stack Overflow](https://stackoverflow.com/jobs/developer-jobs-using-django-in-berlin)
@@ -1150,9 +1150,9 @@ Job websites with jobs filtered by Django and Berlin:
 * [Taledo](https://www.taledo.com/jobs?keyword=django&locations[]=2950159)
 * [Tip Top Job](https://www.tiptopjob.com/search/tiptopresults.asp?Keyword=django&country=DEU&sub_location=C-15687)
 * [Trovit](https://de.trovit.com/jobs/index.php/cod.search_jobs/what_d.django/where_d.berlin)
-* [UNICUM Karrierezentrum](https://karriere.unicum.de/jobs?search=django&job_geo_location=Berlin%2C+Deutschland)
+* [Unicum Karrierezentrum](https://karriere.unicum.de/jobs?search=django&job_geo_location=Berlin%2C+Deutschland)
 * [Venturi Group](https://www.venturi-group.com/?s=django+berlin)
-* [XING](https://www.xing.com/jobs/search?keywords=django&location=Berlin&radius=10)
+* [Xing](https://www.xing.com/jobs/search?keywords=django&location=Berlin&radius=10)
 * [Yourfirm](https://www.yourfirm.de/suche/all/?name=django&plz=Berlin%3A10)
 * [ZipRecruiter](https://www.ziprecruiter.de/jobs/search?q=django&l=Berlin%2C+Germany)
 
