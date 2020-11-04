@@ -778,6 +778,10 @@ Something is missing?  Create a pull request!
         ,
         [jobs](http://www.pulilab.com/team-jobs)
 * __Q__
+    * [Quadriga Media Berlin GmbH](https://www.quadriga.eu/) —
+        [proof](https://www.quadriga.eu/en/career/jobs/?gh_jid=4946473002)
+        ,
+        [jobs](https://www.quadriga.eu/en/career/jobs/)
     * [QUIN Technologies GmbH](https://www.getquin.com/) —
         [proof](https://www.f6s.com/jobs/43325/quingetquin/cto-for-fintech-startup)
         ,
