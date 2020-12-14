@@ -1102,7 +1102,6 @@ Job websites with jobs filtered by Django and Berlin:
 * [BerlinStartupJobs.com](http://berlinstartupjobs.com/de/skill-areas/django/)
 * [Careerjet.de](https://www.careerjet.de/suchen/stellenangebote?s=django&l=berlin)
 * [Charly Jobs](https://jobs.charly.education/jobs/?q=django&l=Berlin%2C%20Deutschland)
-* [clusterjobs](https://en.clusterjobs.de/search/django%20berlin)
 * [Creative City Berlin](https://www.creative-city-berlin.de/de/search/?q=django&t=job&submit=Suche)
 * [dasauge](https://dasauge.de/jobs/stellenangebote/?begriff=django&plz=berlin)
 * [djangojobs.net](https://djangojobs.net/jobs/?location=Berlin%2CGermany)
