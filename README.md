@@ -100,6 +100,10 @@ Something is missing?  Create a pull request!
         [github](https://github.com/AirbusRecruitment)
         ,
         [jobs](https://www.airbus.com/careers.html)
+    * [Airteam Aerial Intelligence GmbH](https://www.airteam.ai/) —
+        [proof](https://airteam.heavenhr.com/jobs/_Bx5Kb0LBugj5GJsavA0yUw_/apply)
+        ,
+        [jobs](https://airteam.heavenhr.com/jobs)
     * [Akelius GmbH](https://www.akelius.com/) —
         [proof](https://stackoverflow.com/jobs/304001/devops-engineer-network-experience-male-akelius-gmbh)
         ,
