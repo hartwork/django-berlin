@@ -60,6 +60,12 @@ Something is missing?  Create a pull request!
         [github](https://github.com/Ableton)
         ,
         [jobs](https://www.ableton.com/de/jobs/)
+    * [Abstract Technology GmbH](https://abstract-technology.de/) —
+        [proof](https://stellenangebot.monster.de/frontend-als-auch-backend-entwickler-berlin-berlin-de-abstract-technology-gmbh/97049fe2-e125-4a4f-9a45-2109fbdaef37)
+        ,
+        [github](https://github.com/Abstract-Tech)
+        ,
+        [jobs](https://abstract-technology.de/unternehmen/unserteam/Karriere)
     * [A Color Bright GmbH](https://www.acolorbright.com/) —
         [proof](https://www.acolorbright.com/jobs/developer/)
         ,
