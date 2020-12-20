@@ -33,13 +33,13 @@ Something is missing?  Create a pull request!
         [proof](http://berlinstartupjobs.com/de/engineering/backend-software-developer-2txt-nlg-gmbh/)
     * [3S Antriebe GmbH](https://3s-antriebe.de/) —
         [proof](https://www.xing.com/jobs/berlin-werk-stu-dent-soft-ware-ent-wick-lung-48885586)
-    * [3YOURMIND GmbH](https://www.3yourmind.com/) —
+    * [3yourmind GmbH](https://www.3yourmind.com/) —
         [proof](https://www.3yourmind.com/career/django-engineer)
         ,
         [github](https://github.com/3YOURMIND)
         ,
         [jobs](https://www.3yourmind.com/career)
-    * [42reports GmbH (DILAX Intelcom GmbH)](https://www.42reports.com/) —
+    * [42reports GmbH (Dilax Intelcom GmbH)](https://www.42reports.com/) —
         [proof](https://news.ycombinator.com/item?id=8822940)
         ,
         [github](https://github.com/42reports)
@@ -166,7 +166,7 @@ Something is missing?  Create a pull request!
         [jobs](https://atenekom.eu/das-unternehmen/karriere/)
     * [AtomLeap GmbH](https://www.atomleap.com/) —
         [proof](https://www.xing.com/jobs/berlin-full-stack-software-engineer-43432855)
-    * [AUTO1 Group GmbH](https://www.auto1-group.com/) —
+    * [Auto1 Group GmbH](https://www.auto1-group.com/) —
         [proof](https://www.auto1-group.com/de/jobs/job-senior-business-engineer-logistics-d-f-m-7185/)
         ,
         [github](https://github.com/auto1-oss)
@@ -346,7 +346,7 @@ Something is missing?  Create a pull request!
 * __E__
     * [Eberlein und Kunz GbR](http://eberlein-und-kunz-gbr.de/) —
         [proof](https://www.simplyhired.de/job/lCIEn7DzlAfpj8CU45PGVjf29O0tHqSP4dGcfOFtk0w8BdN4_8BsDg)
-    * [EDU-Werkstatt GmbH](https://edu-werkstatt.berlin/) —
+    * [Edu-Werkstatt GmbH](https://edu-werkstatt.berlin/) —
         [proof](https://www.xing.com/jobs/berlin-full-stack-entwickler-schwerpunkt-django-60842985)
         ,
         [jobs](https://edu-werkstatt.berlin/#records)
@@ -372,7 +372,7 @@ Something is missing?  Create a pull request!
         [proof](https://www.stepstone.de/stellenangebote--Praktikant-w-m-d-Data-Science-Tax-Technology-and-Transformation-Berlin-Duesseldorf-Koeln-Stuttgart-Frankfurt-Muenchen-Ernst-Young-GmbH-Wirtschaftspruefungsgesellschaft--4600107-inline.html)
         ,
         [jobs](https://www.ey.com/de_de/careers/job-search)
-    * [EXIT Adventures GmbH](https://exit-vr.de/) (part of [Trotzkind GmbH](https://trotzkind.com/)) —
+    * [Exit Adventures GmbH](https://exit-vr.de/) (part of [Trotzkind GmbH](https://trotzkind.com/)) —
         [proof](https://exit-vr.de/wp-content/uploads/2019/04/Backend.pdf)
         ,
         [jobs](https://exit-vr.de/berlin/jobs/)
@@ -401,7 +401,7 @@ Something is missing?  Create a pull request!
         [github](https://github.com/Formlabs)
         ,
         [jobs](https://formlabs.com/company/careers/berlin/)
-    * [FRAEND GmbH](https://www.fraend.com/) —
+    * [Fraend GmbH](https://www.fraend.com/) —
         [proof](https://angel.co/fraend/jobs/546163-senior-software-engineer-django)
         ,
         [jobs](https://angel.co/fraend/jobs)
@@ -459,7 +459,7 @@ Something is missing?  Create a pull request!
         [github](https://github.com/hikaya-io)
         ,
         [jobs](https://angel.co/company/hikaya/jobs)
-    * [HIVE (Borg Collective GmbH)](https://hive.one/) —
+    * [Hive (Borg Collective GmbH)](https://hive.one/) —
         [proof](https://hive.one/admin/login/?next=/admin/)
         ,
         [jobs](https://hive.one/jobs/)
@@ -544,7 +544,7 @@ Something is missing?  Create a pull request!
         [proof](https://www.kaputt.de/jobs/#seniorfullstack)
         ,
         [jobs](https://www.kaputt.de/jobs/)
-    * [KAYAK Europe GmbH](https://www.kayak.de/) —
+    * [Kayak Europe GmbH](https://www.kayak.de/) —
         [proof](https://boards.greenhouse.io/kayak/jobs/4253556002)
         ,
         [github](https://github.com/kayak)
@@ -558,7 +558,7 @@ Something is missing?  Create a pull request!
         [github](https://github.com/kitchenstories)
         ,
         [jobs](https://kitchen-stories-jobs.personio.de/#department-97736)
-    * [KIWI.KI GmbH](https://kiwi.ki/) —
+    * [Kiwi.Ki GmbH](https://kiwi.ki/) —
         [proof](https://angel.co/kiwi-ki-1/jobs/41767-backend-engineer-iot)
         ,
         [github](https://github.com/KIWIKIGMBH)
@@ -630,7 +630,7 @@ Something is missing?  Create a pull request!
         [github](https://github.com/merantix)
         ,
         [jobs](https://merantix.bamboohr.co.uk/jobs/)
-    * [METR Building Management Systems GmbH](https://metr.systems/) —
+    * [Metr (Building Management Systems GmbH)](https://metr.systems/) —
         [proof](https://metr.recruitee.com/l/en/o/backend-software-developer-mfx)
         ,
         [jobs](https://metr.recruitee.com/l/en)
@@ -737,7 +737,7 @@ Something is missing?  Create a pull request!
         [proof](https://www.phiture.com/career.html#workingstudentfullstackdeveloper)
         ,
         [jobs](https://www.phiture.com/career.html)
-    * [PiNCAMP (ADAC Camping GmbH)](https://www.pincamp.de/) —
+    * [Pincamp (ADAC Camping GmbH)](https://www.pincamp.de/) —
         [proof](https://stackshare.io/adac-camping-gmbh/pincamp)
         ,
         [jobs](https://www.pincamp.de/jobs)
@@ -792,11 +792,11 @@ Something is missing?  Create a pull request!
         [proof](https://www.quadriga.eu/en/career/jobs/?gh_jid=4946473002)
         ,
         [jobs](https://www.quadriga.eu/en/career/jobs/)
-    * [QUIN Technologies GmbH](https://www.getquin.com/) —
+    * [Quin Technologies GmbH](https://www.getquin.com/) —
         [proof](https://www.f6s.com/jobs/43325/quingetquin/cto-for-fintech-startup)
         ,
         [github](https://github.com/getquin)
-    * [QVSTA GmbH](https://qvsta.com/) —
+    * [Qvsta GmbH](https://qvsta.com/) —
         [proof](https://angel.co/qvsta/jobs/389050-intern-backend-developer)
         ,
         [github](https://github.com/QVSTA)
