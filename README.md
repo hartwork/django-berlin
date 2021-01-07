@@ -213,6 +213,11 @@ Something is missing?  Create a pull request!
         [github](https://github.com/bonial)
         ,
         [jobs](https://www.bonial.com/de/karriere/)
+    * [Botanicly GmbH](https://www.botanicly.de/) —
+        say "no" to unpaid internships! —
+        [proof](https://www.simplyhired.de/job/Db0ZUkDJAC11JDPV9nUreVs8GQj-1O3SV82W6Dx3wKyR4lsInC_dlw)
+        ,
+        [jobs](https://botanicly.join.com/)
 * __C__
     * [Camping.info GmbH](https://camping.info/) —
         [proof](https://de.indeed.com/Zeige-Job?jk=8988934b627ffad8)
