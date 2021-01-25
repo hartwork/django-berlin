@@ -590,6 +590,10 @@ Something is missing?  Create a pull request!
         ,
         [jobs](https://angel.co/company/kupfer-software/jobs)
 * __L__
+    * [Leaf Labs GmbH](https://www.leaflabs.eu/) —
+        [proof](https://leaflabs.join.com/jobs/1816703-junior-full-stack-engineer)
+        ,
+        [jobs](https://leaflabs.join.com/)
     * [Liquid Democracy e.V.](https://liqd.net/) —
         [proof](https://liqd.net/documents/29/job_djangoDeveloper.pdf)
         ,
