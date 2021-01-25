@@ -594,6 +594,10 @@ Something is missing?  Create a pull request!
         [proof](https://leaflabs.join.com/jobs/1816703-junior-full-stack-engineer)
         ,
         [jobs](https://leaflabs.join.com/)
+    * [lemon.markets GmbH](https://lemon.markets/) —
+        [proof](https://www.xing.com/jobs/berlin-senior-backend-developer-66516482)
+        ,
+        [github](https://github.com/lemon-markets)
     * [Liquid Democracy e.V.](https://liqd.net/) —
         [proof](https://liqd.net/documents/29/job_djangoDeveloper.pdf)
         ,
