@@ -432,6 +432,10 @@ Something is missing?  Create a pull request!
         [github](https://github.com/fraunhoferhhi)
         ,
         [jobs](https://recruiting.fraunhofer.de/Jobs/2?lang=eng&location=Berlin)
+    * [(der) Freitag Mediengesellschaft mbh & Co. KG](https://www.freitag.de/) —
+        [proof](https://www.simplyhired.de/job/vCiT5SgtzCp9qs16x-aidioS8WTOWPmyQIkOodQGR3ll4AhTRJuJfw)
+        ,
+        [jobs](https://www.freitag.de/jobs)
     * [future demand GmbH](https://future-demand.com/) —
         [proof](https://future-demand-jobs.personio.de/job/105600)
         ,
