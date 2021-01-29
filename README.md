@@ -215,6 +215,8 @@ Something is missing?  Create a pull request!
         [jobs](https://betterguards.de/en/contact/)
     * [Big Picture GmbH](http://www.big-picture.de/) —
         [proof](https://www.simplyhired.de/job/C5y82ivRB1K_nvq48JwLen2i06ZHrsWvrhTN5BGABHv3uAv6RN6n1w)
+    * [Blindside HB GmbH](https://www.blindside.pro/) —
+        [proof](https://www.simplyhired.de/job/WdVSzKBM-DC5nbn7xCqJqoqUBqbqMGO2wRzOplFzcQFUdwrzY3qeVA)
     * [Bonial International GmbH](https://www.bonial.com/) —
         [proof](https://stackoverflow.com/jobs/390255/senior-python-engineer-m-f-d-bonial-international-gmbh)
         ,
