@@ -387,6 +387,8 @@ Something is missing?  Create a pull request!
         [proof](https://www.stepstone.de/stellenangebote--Praktikant-w-m-d-Data-Science-Tax-Technology-and-Transformation-Berlin-Duesseldorf-Koeln-Stuttgart-Frankfurt-Muenchen-Ernst-Young-GmbH-Wirtschaftspruefungsgesellschaft--4600107-inline.html)
         ,
         [jobs](https://www.ey.com/de_de/careers/job-search)
+    * [Ewanto GmbH](https://ewanto.de/) —
+        [proof](https://www.simplyhired.de/job/KnXX2hsGGKQio-JWcNpGzOy0arE6NOho1vraNEpVaZrGnbc0ZBI7BA)
     * [Exit Adventures GmbH](https://exit-vr.de/) (part of [Trotzkind GmbH](https://trotzkind.com/)) —
         [proof](https://exit-vr.de/wp-content/uploads/2019/04/Backend.pdf)
         ,
