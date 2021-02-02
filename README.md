@@ -1088,6 +1088,12 @@ Something is missing?  Create a pull request!
         [github](https://github.com/WeAre-GmbH)
         ,
         [jobs](https://weare-rooms.com/jobs/)
+    * [wechange eG](https://wechange.de/) —
+        [proof](https://www.simplyhired.de/job/avScgZHNUqzjt0rqeKc_MWjPvBuLbCFZWDmBv6bht5bvu8gP3a8iag)
+        ,
+        [github](https://github.com/wechange-eg)
+        ,
+        [jobs](https://wechange.de/cms/jobs/)
     * [Würth (Adolf Würth GmbH & Co. KG)](https://www.wuerth.com/) —
         [proof](https://career.wuerth.com/sap(bD1kZSZjPTAwMQ==)/bc/bsp/sap/zerc_rea/jobs.htm?comp=1&id=027FA86165021EDB8FC01776812E8068)
         ,
