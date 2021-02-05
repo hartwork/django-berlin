@@ -466,6 +466,10 @@ Something is missing?  Create a pull request!
         ,
         [jobs](https://jobs.grover.com/)
 * __H__
+    * [Hades Technologies Ltd.](https://www.hades.ai/) —
+        [proof](https://apply.workable.com/hades/j/4755C16D55/)
+        ,
+        [jobs](https://apply.workable.com/hades/)
     * [Hardskills GmbH](https://hardskills.com/) —
         [proof](https://hardskills.com/careers/senior-backend-engineer-core-platform-python-django-berlin)
         ,
