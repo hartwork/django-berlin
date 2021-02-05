@@ -277,10 +277,6 @@ Something is missing?  Create a pull request!
         [github](https://github.com/Codility/)
         ,
         [jobs](https://apply.workable.com/codility/)
-    * [colabel GmbH](https://colabel.com/) —
-        [proof](https://colabel.com/en/roles/backend-engineer)
-        ,
-        [jobs](https://colabel.com/en/jobs)
     * [colormass GmbH](http://colormass.com/) —
         [proof](http://colormass.com/jobs/front-end-developer-angular-typescript-css/)
         ,
@@ -610,6 +606,10 @@ Something is missing?  Create a pull request!
         [proof](https://www.xing.com/jobs/berlin-senior-backend-developer-66516482)
         ,
         [github](https://github.com/lemon-markets)
+    * [Levity (colabel Inc.)](https://www.levity.ai/) —
+        [proof](https://www.levity.ai/jobs/senior-full-stack-infrastructure)
+        ,
+        [jobs](https://www.levity.ai/jobs#open-positions)
     * [Liquid Democracy e.V.](https://liqd.net/) —
         [proof](https://liqd.net/documents/29/job_djangoDeveloper.pdf)
         ,
