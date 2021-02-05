@@ -999,6 +999,10 @@ Something is missing?  Create a pull request!
         [proof](https://www.moberries.com/job/1962048)
         ,
         [jobs](https://timberbase.com/en/career/)
+    * [TolaData GmbH](https://www.toladata.com/) —
+        [proof](https://www.toladata.com/job-senior-full-stack-developer-m-f-d-full-time/)
+        ,
+        [jobs](https://www.toladata.com/open-positions/)
     * [Tracebloc GmbH](https://www.tracebloc.io/) —
         [proof](https://www.xing.com/jobs/berlin-sr-python-backend-engineer-5y-64941125)
     * [Tracks GmbH](https://www.tracksfortrucks.com/) —
