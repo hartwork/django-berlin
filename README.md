@@ -245,6 +245,10 @@ Something is missing?  Create a pull request!
         [proof](https://de.indeed.com/Zeige-Job?jk=99440a3964c357f6)
         ,
         [jobs](https://catenion.com/careers/working-at-catenion/)
+    * [Chancen eG/GmbH](https://chancen-eg.de/) —
+        [proof](https://www.xing.com/jobs/berlin-internship-web-development-berlin-67274610)
+        ,
+        [jobs](https://chancen-eg.de/karriere)
     * [charly education (PlusPeter GmbH)](https://www.charly.education/) —
         [proof](https://www.pluspeter.com/job/back_end_engineer/)
         ,
