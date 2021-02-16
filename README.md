@@ -555,6 +555,8 @@ Something is missing?  Create a pull request!
         ,
         [jobs](https://www.jonasundderwolf.de/jobs)
 * __K__
+    * [Kaiko Systems GmbH](https://www.kaikosystems.com/) —
+        [proof](https://www.xing.com/jobs/berlin-junior-engineer-67274579)
     * [Kaptio Limited](https://kaptio.com/) —
         [proof](https://www.xing.com/jobs/berlin-senior-python-developer-52143963)
         ,
