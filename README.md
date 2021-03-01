@@ -535,6 +535,12 @@ Something is missing?  Create a pull request!
         [github](https://github.com/incapptic)
         ,
         [jobs](https://www.incapptic.com/company-careers/)
+    * [InFarm - Indoor Urban Farming GmbH](https://infarm.com/) —
+        [proof](https://cultivator.infarm.com/admin/)
+        ,
+        [github](https://github.com/infarm/)
+        ,
+        [jobs](https://www.infarm.com/en/join-us)
     * [Inventorum GmbH](https://inventorum.com/) —
         [proof](https://inventorum.com/wp-content/uploads/2018/04/Experienced_Backend_Developer_2018.pdf)
         ,
