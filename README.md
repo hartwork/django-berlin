@@ -166,6 +166,12 @@ Something is missing?  Create a pull request!
         [jobs](https://atenekom.eu/das-unternehmen/karriere/)
     * [AtomLeap GmbH](https://www.atomleap.com/) —
         [proof](https://www.xing.com/jobs/berlin-full-stack-software-engineer-43432855)
+    * [Audeering GmbH](https://www.audeering.com/) —
+        [proof](https://www.simplyhired.de/job/XJaPSFouT7GbBWT3X5auyXbadnfDcv4yIILJE5pU3qBgT5-EJ-1ujQ)
+        ,
+        [github](https://github.com/audeering)
+        ,
+        [jobs](https://www.audeering.com/who-we-are/career/)
     * [Auto1 Group GmbH](https://www.auto1-group.com/) —
         [proof](https://www.auto1-group.com/de/jobs/job-senior-business-engineer-logistics-d-f-m-7185/)
         ,
