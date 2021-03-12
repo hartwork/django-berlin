@@ -452,6 +452,10 @@ Something is missing?  Create a pull request!
         [proof](https://future-demand-jobs.personio.de/job/105600)
         ,
         [jobs](https://future-demand.com/#joinus)
+    * [Fyrfeed (Winstate AI Solutions GmbH)](https://fyrfeed.com/) —
+        [proof](https://fyrfeed.com/wp-content/uploads/2021/03/django-python.pdf)
+        ,
+        [jobs](https://fyrfeed.com/jobs)
 * __G__
     * [GetTechTalent GmbH](http://www.gettechtalent.com/) —
         [proof](http://www.gettechtalent.com/django-developer-remote.html)
