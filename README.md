@@ -267,7 +267,7 @@ Something is missing?  Create a pull request!
         [github](https://github.com/circularfashion)
         ,
         [jobs](https://circular.fashion/jobs/)
-    * [Climate Choice UG, The](https://theclimatechoice.com/) —
+    * [(The) Climate Choice UG](https://theclimatechoice.com/) —
         [proof](https://www.simplyhired.de/job/RLEbrTj8ENbBcTZOir7OyCXTk53usvYs4SiGy5wUTp6do5Ccpj9nxQ)
         ,
         [jobs](https://careers.smartrecruiters.com/THECLIMATECHOICEUGhaftungsbeschrnkt)
