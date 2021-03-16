@@ -117,7 +117,7 @@ Something is missing?  Create a pull request!
     * [Alpaca Technology, Inc.](https://www.alpaca.technology/) —
         [proof](https://www.alpaca.technology/careers/automator-python-back-end/)
         ,
-        [jobs](https://www.alpaca.technology/careers)        
+        [jobs](https://www.alpaca.technology/careers)
     * [Amaris Consulting (Amaris Group SA)](https://www.amaris.com/) —
         [proof](https://careers.amaris.com/amaris-careers-page/home/home-page-v2/job-offer-overview1/job-offer-detail1?jobId=18757)
         ,
