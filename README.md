@@ -118,6 +118,10 @@ Something is missing?  Create a pull request!
         [proof](https://www.alpaca.technology/careers/automator-python-back-end/)
         ,
         [jobs](https://www.alpaca.technology/careers)
+    * [Alphabet Type GmbH](https://www.alphabet-type.com/) —
+        [proof](https://www.alphabet-type.com/admin/login/?next=/admin/)
+        ,
+        [github](https://github.com/AlphabetType)
     * [Amaris Consulting (Amaris Group SA)](https://www.amaris.com/) —
         [proof](https://careers.amaris.com/amaris-careers-page/home/home-page-v2/job-offer-overview1/job-offer-detail1?jobId=18757)
         ,
