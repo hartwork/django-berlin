@@ -1002,6 +1002,12 @@ Something is missing?  Create a pull request!
         [proof](https://www.xing.com/jobs/berlin-django-development-intern-62254597)
         ,
         [jobs](https://staiy.com/content/work-with-us)
+    * [Stanwood Software Development GmbH](https://www.stanwood.de/) —
+        [proof](https://www.stanwood.de/jobs/web-developer/)
+        ,
+        [github](https://github.com/stanwood)
+        ,
+        [jobs](https://www.stanwood.de/jobs/)
     * [Streem.ai UG](https://streem.ai/) —
         [proof](https://de.indeed.com/Zeige-Job?jk=de640347fdbfe9a3)
         ,
