@@ -611,6 +611,10 @@ Something is missing?  Create a pull request!
         [github](https://github.com/kayak)
         ,
         [jobs](https://www.kayak.de/careers/berlin/all)
+    * [Kelvyn Systems Monitoring GmbH](https://www.kelvyn.de/) —
+        [proof](https://kelvyn.recruitee.com/o/tech-co-founder-cto-senior-software-engineer-fmd)
+        ,
+        [jobs](https://kelvyn.recruitee.com/)
     * [Kitchenful](http://kitchenful.com/) —
         [proof](https://www.simplyhired.de/job/P-CXrRafDB7a3_zW4LwXURyOlRQQn5Leaaxr44Qzn3_8KptciIl4KQ)
     * [Kitchen Stories (AJNS New Media GmbH)](https://www.kitchenstories.com/) —
