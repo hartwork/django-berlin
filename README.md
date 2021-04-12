@@ -1294,3 +1294,4 @@ Something is missing?  Create a pull request!
 
 * [Ways in which Berlin IT companies differ](https://blog.hartwork.org/posts/ways-in-which-berlin-it-companies-differ/)
 * [Getting to Know an Employer as a Developer](https://blog.hartwork.org/posts/getting-to-know-an-employer-as-a-developer/)
+* Sister project [golang-berlin](https://github.com/hartwork/golang-berlin)
