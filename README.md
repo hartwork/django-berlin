@@ -1230,7 +1230,6 @@ Job websites with jobs filtered by Django and Berlin:
 * [Experis](https://www.experis.de/de/search?page=1&searchKeyword=django&filters=%257B%2522latitude%2522%253A52.52000659999999%252C%2522longitude%2522%253A13.404954%252C%2522place%2522%253A%2522Berlin%252C%2520Germany%2522%257D)
 * [F6S](https://www.f6s.com/jobs?keywords[]=django&cities[]=33052)
 * [finest jobs](https://www.finest-jobs.com/Stellenangebote/Suche/Django/In/Berlin)
-* [German IT Jobs](http://germanitjobs.com/jobs?query=berlin+django)
 * [GitHub Jobs](https://jobs.github.com/positions?description=django&location=berlin)
 * [glassdoor](https://www.glassdoor.de/Job/berlin-django-developer-jobs-SRCH_IL.0,6_IC2622109_KO7,23.htm)
 * [GoodJobs](https://goodjobs.eu/de/jobs?&job_search%5Blocation%5D=Berlin%2C+Deutschland&job_search%5Bquery%5D=django)
