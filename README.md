@@ -1275,7 +1275,7 @@ Job websites with jobs filtered by Django and Berlin:
 * [Tip Top Job](https://www.tiptopjob.com/search/tiptopresults.asp?Keyword=django&country=DEU&sub_location=C-15687)
 * [Trovit](https://de.trovit.com/jobs/index.php/cod.search_jobs/what_d.django/where_d.berlin)
 * [Unicum Karrierezentrum](https://karriere.unicum.de/jobs?search=django&job_geo_location=Berlin%2C+Deutschland)
-* [Venturi Group](https://www.venturi-group.com/?s=django+berlin)
+* [Venturi Group](https://venturi-group.com/?s=django&location=berlin&post_type=job)
 * [Xing](https://www.xing.com/jobs/search?keywords=django&location=Berlin&radius=10)
 * [Yourfirm](https://www.yourfirm.de/suche/all/?name=django&plz=Berlin%3A10)
 * [ZipRecruiter](https://www.ziprecruiter.de/jobs/search?q=django&l=Berlin%2C+Germany)
