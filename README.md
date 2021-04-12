@@ -595,6 +595,10 @@ Something is missing?  Create a pull request!
 * __K__
     * [Kaiko Systems GmbH](https://www.kaikosystems.com/) —
         [proof](https://www.xing.com/jobs/berlin-junior-engineer-67274579)
+    * [Kaiser+Kraft GmbH](https://www.kaiserkraft.de/) —
+        [proof](https://recruitingapp-5053.de.umantis.com/Vacancies/1050/Description/31?srcText=karriereseite)
+        ,
+        [jobs](https://openfortomorrow.com/jobs/)
     * [Kaptio Limited](https://kaptio.com/) —
         [proof](https://www.xing.com/jobs/berlin-senior-python-developer-52143963)
         ,
