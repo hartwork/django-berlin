@@ -1152,7 +1152,7 @@ Something is missing?  Create a pull request!
         ,
         [jobs](https://vimcar.de/career)
     * [voiio GmbH](https://www.voiio.de/) —
-         [proof](https://stackshare.io/companies/voiio)
+         [proof](https://stackshare.io/voiio/voiio-platform)
          ,
          [github](https://github.com/voiio)
          ,
