@@ -334,6 +334,12 @@ Something is missing?  Create a pull request!
         ,
         [jobs](https://www.cyren.com/about-cyren/careers)
 * __D__
+    * [DCI — Digital Career Institute gGmbH](https://digitalcareerinstitute.org/) —
+        [proof](https://dci.jobs.personio.de/job/344011)
+        ,
+        [github](https://github.com/DigitalCareerInstitute)
+        ,
+        [jobs](https://dci.jobs.personio.de/)
     * [DCSO Deutsche Cyber-Sicherheitsorganisation GmbH](https://dcso.de/) —
         [proof](https://dcso.de/wp-content/uploads/2018/09/Software_Engineer_TDH.pdf)
         ,
