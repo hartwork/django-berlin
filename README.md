@@ -142,6 +142,8 @@ Something is missing?  Create a pull request!
         [github](https://github.com/AmnestyInternational)
         ,
         [jobs](https://www.amnesty.de/amnesty/jobs-ausschreibungen)
+    * [Appmelder (WLT We Love Trees UG)](https://www.appmelder.de/) —
+        [proof](https://www.xing.com/jobs/berlin-werkstudent-python-django-entwicklung-legal-tech-baeume-retten-69835649)
     * [Architrave GmbH](https://www.architrave.de/) —
         [proof](https://architrave.bamboohr.co.uk/jobs/view.php?id=69)
         ,
