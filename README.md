@@ -1038,6 +1038,12 @@ Something is missing?  Create a pull request!
         [github](https://github.com/stanwood)
         ,
         [jobs](https://www.stanwood.de/jobs/)
+    * [Strato AG](https://www.strato.de/) —
+        [proof](https://www.simplyhired.de/job/xY1VOjyRbwo4xfQVfauWtOFjiSk_V2Mcc0386sgx93x6Cu6f3CY_5g)
+        ,
+        [github](https://github.com/StratoAG)
+        ,
+        [jobs](https://www.strato.de/karriere/)
     * [Streem.ai UG](https://streem.ai/) —
         [proof](https://de.indeed.com/Zeige-Job?jk=de640347fdbfe9a3)
         ,
