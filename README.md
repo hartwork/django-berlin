@@ -577,12 +577,12 @@ Something is missing?  Create a pull request!
         [github](https://github.com/infarm/)
         ,
         [jobs](https://www.infarm.com/en/join-us)
-    * [Inventorum GmbH](https://inventorum.com/) —
+    * ~[Inventorum GmbH](https://inventorum.com/) —
         [proof](https://inventorum.com/wp-content/uploads/2018/04/Experienced_Backend_Developer_2018.pdf)
         ,
         [github](https://github.com/Inventorum)
         ,
-        [jobs](https://inventorum.com/de/jobs/)
+        [jobs](https://inventorum.com/de/jobs/)~
 * __J__
     * [Job Bot (MoBerries GmbH)](https://www.jobbot.me/) —
         [proof](https://angel.co/jobbot-me/jobs/442545-sr-backend-python-django-developer-m-f)
@@ -977,6 +977,12 @@ Something is missing?  Create a pull request!
         [github](https://github.com/sennder)
         ,
         [jobs](https://sennder.heavenhr.com/jobs)
+    * [Shore GmbH](https://www.shore.com/) —
+        [proof](https://www.simplyhired.de/job/acVgBlkmbRDEl6d0ueU0cXwqQuiJhNqT_ZRxmnBx0fcLzFCiR8yXEw)
+        ,
+        [github](https://github.com/shore-gmbh)
+        ,
+        [jobs](https://shorepos.shore.com/de/jobs/)
     * [SinnerSchrader AG](https://sinnerschrader.com/) —
         [proof](https://sinnerschrader.jobs/de/django-backend-developer-mw/)
         ,
