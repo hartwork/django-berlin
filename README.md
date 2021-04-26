@@ -374,6 +374,10 @@ Something is missing?  Create a pull request!
         [proof](https://dive-solutions.de/wp-content/uploads/2019/08/2019_08-22_Stellenausschreibung_Backend-Developer.pdf)
         ,
         [jobs](https://dive-solutions.de/de/career/)
+    * [Dizzbo GmbH](https://www.dizzbo.com/) —
+        [proof](https://www.moberries.com/job/1968170_senior-backend-engineer-mfd_dizzbo)
+        ,
+        [jobs](https://www.moberries.com/jobs/company/1538632)
     * [Dubsmash (Mobile Motion GmbH)](https://dubsmash.com/) —
         [proof](https://www.linkedin.com/in/tim-specht#experience)
         ,
