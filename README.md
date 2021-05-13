@@ -1179,6 +1179,12 @@ Something is missing?  Create a pull request!
         [github](https://github.com/vimcar)
         ,
         [jobs](https://vimcar.de/career)
+    * [VisioLab UG](https://visiolab.io/) —
+        [proof](https://www.xing.com/jobs/berlin-senior-software-engineer-70617382)
+        ,
+        [github](https://github.com/VisioLab)
+        ,
+        [jobs](https://visiolab.join.com/)
     * [voiio GmbH](https://www.voiio.de/) —
          [proof](https://voiio.de/datenschutz/sicherheit/)
          ,
