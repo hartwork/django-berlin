@@ -413,6 +413,10 @@ Something is missing?  Create a pull request!
         [proof](https://www.stepstone.de/stellenangebote--Praktikant-w-m-d-Data-Science-Tax-Technology-and-Transformation-Berlin-Duesseldorf-Koeln-Stuttgart-Frankfurt-Muenchen-Ernst-Young-GmbH-Wirtschaftspruefungsgesellschaft--4600107-inline.html)
         ,
         [jobs](https://www.ey.com/de_de/careers/job-search)
+    * [EqualTo GmbH](https://www.equalto.com/) —
+        [proof](https://equalto.jobs.personio.de/job/368439)
+        ,
+        [jobs](https://equalto.jobs.personio.de/)
     * [Evernest GmbH](https://www.evernest.com/) —
         [proof](https://web.evernest.com/karriere/002-backend-engineer-python)
         ,
