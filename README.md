@@ -1167,6 +1167,10 @@ Something is missing?  Create a pull request!
         [proof](https://jobspotting.com/en/company/vdpexpertise/job/python-django-developer-m-w--d8a071cc5c0144a780af1b3123ec09f0)
         ,
         [jobs](https://jobspotting.com/en/company/vdpexpertise)
+    * [Vector Logistics AG](https://www.vector-logistics.ch/) —
+        [proof](https://www.simplyhired.de/job/Enh1fmviU0ifq4jkj0jSPuxRGBZVdJ_bbLJRQk2WOlrL_B9w_RKwvg)
+        ,
+        [jobs](https://www.vector-logistics.ch/de/kontakt/offene-stellen)
     * [viasto GmbH](https://www.viasto.com/) —
         [proof](https://viasto.softgarden.io/job/5328014/)
         ,
