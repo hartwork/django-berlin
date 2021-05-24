@@ -448,6 +448,10 @@ Something is missing?  Create a pull request!
         [github](https://github.com/fincompare)
         ,
         [jobs](https://fincompare.de/jobs)
+    * [Flagsmith (Bullet Train Ltd)](https://flagsmith.com/) —
+        [proof](https://www.simplyhired.de/job/EWM1NaYr0VYlJcAix8W4o61o3LZRGDsyroeTMVso3UgdHzCiTC6M6w)
+        ,
+        [github](https://github.com/flagsmith)
     * [Formlabs GmbH](https://formlabs.com/) —
         [proof](https://github.com/Formlabs/airbrake-django)
         ,
