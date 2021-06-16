@@ -909,6 +909,10 @@ Something is missing?  Create a pull request!
         ,
         [jobs](http://www.pulilab.com/team-jobs)
 * __Q__
+    * [Qdrant](https://qdrant.tech/) —
+        [proof](https://de.jooble.org/desc/-2366626165844613292)
+        ,
+        [github](https://github.com/qdrant)
     * [Quadriga Media Berlin GmbH](https://www.quadriga.eu/) —
         [proof](https://www.quadriga.eu/en/career/jobs/?gh_jid=4946473002)
         ,
