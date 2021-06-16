@@ -874,6 +874,10 @@ Something is missing?  Create a pull request!
         [github](https://github.com/plentific)
         ,
         [jobs](https://plentific.com/careers/)
+    * [polit-X (Hauptstädtische Verlags- & Beratungsgesellschaft HBVG mbH)](https://polit-x.de/) —
+        [proof](https://polit-x.de/de/jobs/offer/11/entwicklungit-full-stack-developer-mwd)
+        ,
+        [jobs](https://polit-x.de/de/jobs)
     * [Port Zero GmbH](https://port-zero.com/) —
         [proof](https://port-zero.com/jobs/2019_network_automator/)
         ,
