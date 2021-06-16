@@ -1221,6 +1221,10 @@ Something is missing?  Create a pull request!
          [github](https://github.com/voiio)
          ,
          [jobs](https://voiio.de/karriere/)
+    * [vyble AG](https://www.vyble.io/) —
+        [proof](https://www.moberries.com/job/1968898_devops-engineer-mwd_vyble-ag)
+        ,
+        [jobs](https://www.vyble.io/karriere/)
 * __W__
     * [WBS Training AG](https://www.wbs-gruppe.de/) —
         [proof](https://www.wbs-gruppe.de/job-details/jobs/Job/detail/persis_000942/)
