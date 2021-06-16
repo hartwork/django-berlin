@@ -1348,7 +1348,6 @@ Job websites with jobs filtered by Django and Berlin:
 * [MoBerries](https://jobs.moberries.com/jobs?location=ChIJAVkDPzdOqEcRcDteW0YgIQQ&q=django)
 * [mojob](https://www.mojob.me/index.php?suche_volltext=django&suchort=Berlin&jobs=jobs)
 * [Monster](https://www.monster.de/jobs/suche/?q=django&where=berlin)
-* [Moyyn](https://moyyn.com/open-positions/?search_keywords=django&search_location=berlin)
 * [neuvoo](https://neuvoo.de/jobs/?k=django&l=Berlin&radius=0)
 * [Rekruter](https://www.rekruter.de/jobsuche/?jobsuche=django&ort=berlin)
 * [SimplyHired](https://www.simplyhired.de/search?q=django&l=Berlin)
