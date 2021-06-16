@@ -233,6 +233,10 @@ Something is missing?  Create a pull request!
         [jobs](https://betterguards.de/en/contact/)
     * [Big Picture GmbH](http://www.big-picture.de/) —
         [proof](https://www.simplyhired.de/job/C5y82ivRB1K_nvq48JwLen2i06ZHrsWvrhTN5BGABHv3uAv6RN6n1w)
+    * [Bit Capital GmbH](https://bitcap.com/) —
+        [proof](https://ioniq.com/careers/data-engineer-m-f-d-bit-capital/a12e9ed6-4a06-4651-89bd-6ba8e2a2f9fe/)
+        ,
+        [jobs](https://bitcap.com/careers/)
     * [Blindside HB GmbH](https://www.blindside.pro/) —
         [proof](https://www.simplyhired.de/job/WdVSzKBM-DC5nbn7xCqJqoqUBqbqMGO2wRzOplFzcQFUdwrzY3qeVA)
     * [Bonial International GmbH](https://www.bonial.com/) —
