@@ -223,6 +223,10 @@ Something is missing?  Create a pull request!
         [proof](https://ben-fleet-services-gmbh.jobs.personio.de/job/305720)
         ,
         [jobs](https://ben-fleet-services-gmbh.jobs.personio.de/)
+    * [Berylls Strategy Advisors GmbH](https://www.berylls.com/) —
+        [proof](https://berylls.jobs.personio.de/job/356278)
+        ,
+        [jobs](https://berylls.jobs.personio.de/)
     * [Betterguards Technology GmbH](https://betterguards.de/) —
         [proof](https://www.simplyhired.de/job/AoMJkqzMGhM5IkcSqzs0ILnfs0Ipa9nq0JBiekQX-TsfDVIw2a4D4Q)
         ,
