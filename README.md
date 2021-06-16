@@ -1078,6 +1078,12 @@ Something is missing?  Create a pull request!
         [proof](https://de.indeed.com/Zeige-Job?jk=de640347fdbfe9a3)
         ,
         [jobs](https://streem.ai/careers)
+    * [Ströer Social Publishing GmbH](https://www.stroeersocialpublishing.de/) —
+        [proof](https://karriere.stroeer.com/de/it-technology/job/?sh=1xo9ahby)
+        ,
+        [github](https://github.com/stroeer)
+        ,
+        [jobs](https://karriere.stroeer.com/de/it-technology/)
     * [SumUp Payments Limited](https://sumup.com/) —
         [proof](https://www.xing.com/jobs/berlin-front-end-developer-57099796)
         ,
