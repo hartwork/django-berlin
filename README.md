@@ -1049,6 +1049,10 @@ Something is missing?  Create a pull request!
         [proof](https://www.solandeo.com/wp-content/uploads/2018-09-17-Ausschreibung-Senior-Developer-Python.pdf)
         ,
         [jobs](https://www.solandeo.com/ueber-uns/karriere/)
+    * [sonnen GmbH](https://sonnen.de/) —
+        [proof](https://jobs.sonnen.de/job/Wildpoldsried-Python-Backend-Developer-%28mwd%29-BY/638231201/)
+        ,
+        [jobs](https://jobs.sonnen.de/search/?q=django&locationsearch=berlin)
     * [Sourcefabric GmbH](https://www.sourcefabric.org/) —
         [proof](https://blog.sourcefabric.org/en/news/blog/139/Django-Software-Stack.htm)
         ,
