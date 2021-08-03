@@ -460,6 +460,12 @@ Something is missing?  Create a pull request!
         [github](https://github.com/fincompare)
         ,
         [jobs](https://fincompare.de/jobs)
+    * [FixMyCity GmbH](https://www.fixmycity.de/) —
+        [proof](https://fixmyberlin.de/jobs)
+        ,
+        [github](https://github.com/FixMyBerlin/)
+        ,
+        [jobs](https://fixmyberlin.de/jobs)
     * [Flagsmith (Bullet Train Ltd)](https://flagsmith.com/) —
         [proof](https://www.simplyhired.de/job/EWM1NaYr0VYlJcAix8W4o61o3LZRGDsyroeTMVso3UgdHzCiTC6M6w)
         ,
