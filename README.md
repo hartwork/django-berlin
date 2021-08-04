@@ -470,6 +470,12 @@ Something is missing?  Create a pull request!
         [proof](https://www.simplyhired.de/job/EWM1NaYr0VYlJcAix8W4o61o3LZRGDsyroeTMVso3UgdHzCiTC6M6w)
         ,
         [github](https://github.com/flagsmith)
+    * [Flow Neuroscience AB](https://flowneuroscience.com/) —
+        [proof](https://careers.flowneuroscience.com/jobs/1285843-data-engineer-neurotech-startup)
+        ,
+        [github](https://github.com/flowns)
+        ,
+        [jobs](https://careers.flowneuroscience.com/jobs)
     * [Formlabs GmbH](https://formlabs.com/) —
         [proof](https://github.com/Formlabs/airbrake-django)
         ,
