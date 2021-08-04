@@ -935,6 +935,10 @@ Something is missing?  Create a pull request!
         [proof](https://de.jooble.org/desc/-2366626165844613292)
         ,
         [github](https://github.com/qdrant)
+    * [Q-Energy Deutschland GmbH](https://qed.de/) —
+        [proof](https://q-energy.jobs.personio.de/job/422492)
+        ,
+        [jobs](https://qed.de/career/)
     * [Quadriga Media Berlin GmbH](https://www.quadriga.eu/) —
         [proof](https://www.quadriga.eu/en/career/jobs/?gh_jid=4946473002)
         ,
