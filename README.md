@@ -1280,6 +1280,11 @@ Something is missing?  Create a pull request!
         [proof](https://career.wuerth.com/sap(bD1kZSZjPTAwMQ==)/bc/bsp/sap/zerc_rea/jobs.htm?comp=1&id=027FA86165021EDB8FC01776812E8068)
         ,
         [jobs](https://career.wuerth.com/sap(bD1kZSZjPTAwMQ==)/bc/bsp/sap/zerc_rea/jobs.htm)
+* __Y__
+    * [Yoona Ventures GmbH](https://www.yoona.ai/) —
+        [proof](https://www.yoona.ai/careers)
+        ,
+        [jobs](https://www.yoona.ai/careers)
 * __Z__
     * [Zageno Inc.](https://zageno.de/) —
         [proof](https://www.simplyhired.de/job/QnSzgBAYjsOzdzcOj-P74eBwkfpfxMtli-0U0O_9u0xkZbXCrn99sQ)
