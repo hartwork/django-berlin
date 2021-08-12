@@ -951,6 +951,12 @@ Something is missing?  Create a pull request!
         [proof](https://www.quadriga.eu/en/career/jobs/?gh_jid=4946473002)
         ,
         [jobs](https://www.quadriga.eu/en/career/jobs/)
+    * [Qudosoft GmbH & Co. KG](https://www.qudosoft.de/) —
+        [proof](https://www.qudosoft.de/job/software-engineer-mit-fokus-data-engineering-d-m-w/)
+        ,
+        [github](https://github.com/Qudosoft)
+        ,
+        [jobs](https://www.qudosoft.de/jobs/)
     * [Quin Technologies GmbH](https://www.getquin.com/) —
         [proof](https://www.f6s.com/jobs/43325/quingetquin/cto-for-fintech-startup)
         ,
