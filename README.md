@@ -878,6 +878,12 @@ Something is missing?  Create a pull request!
         [proof](https://stackshare.io/adac-camping-gmbh/pincamp)
         ,
         [jobs](https://www.pincamp.de/jobs)
+    * [Pitcher AG](https://www.pitcher.com/) —
+        [proof](https://www.smartrecruiters.com/PitcherAG1/743999766077371-software-engineer)
+        ,
+        [github](https://github.com/PitcherAG)
+        ,
+        [jobs](https://www.pitcher.com/careers)
     * [Planet Labs Inc.](https://www.planet.com/) —
         [proof](https://www.planet.com/company/careers/?office=View%20All&department=Software%20Engineering&job=1610436)
         ,
