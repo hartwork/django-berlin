@@ -550,6 +550,8 @@ Something is missing?  Create a pull request!
         [proof](https://www.harting.com/CAREER/de/jobs?jh=cchhke12kgm7faopcgbp6qzym4vva2x)
         ,
         [jobs](https://www.harting.com/CAREER/de/jobs)
+    * [Heinze GmbH](https://www.heinze.de/) —
+        [proof](https://www.stepstone.de/stellenangebote--Full-Stack-Backend-Developer-m-w-d-bundesweit-Muenchen-Hattersheim-Celle-Berlin-Heinze-GmbH--7429569-inline.html)
     * [Hikaya LLC](https://hikaya.io/) —
         [proof](https://angel.co/company/hikaya/jobs/541463-backend-developer-intern)
         ,
