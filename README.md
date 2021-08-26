@@ -239,6 +239,10 @@ Something is missing?  Create a pull request!
         [jobs](https://bitcap.com/careers/)
     * [Blindside HB GmbH](https://www.blindside.pro/) —
         [proof](https://www.simplyhired.de/job/WdVSzKBM-DC5nbn7xCqJqoqUBqbqMGO2wRzOplFzcQFUdwrzY3qeVA)
+    * [Bold Business Group](https://www.boldbusiness.com/) —
+        [proof](https://jobs.lever.co/boldbusiness/88868c53-4d9c-4bfb-b018-70a171ca033c)
+        ,
+        [jobs](https://www.boldbusiness.com/careers/)
     * [Bonial International GmbH](https://www.bonial.com/) —
         [proof](https://stackoverflow.com/jobs/390255/senior-python-engineer-m-f-d-bonial-international-gmbh)
         ,
