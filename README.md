@@ -525,6 +525,10 @@ Something is missing?  Create a pull request!
         [proof](https://www.onlinebewerbungsserver.de/WJJobs/Job.aspx?c=_F0F_EB_1A_AD_D5vC_B0_FEb_0Ff_D5_A6wf_04_CFQ_1F_F6_3D_A0_B2j_F8_13_AA_B9ip_CBrfw_8Ei_D2_C4_85_F3_E3_13_81_91v_FB)
         ,
         [jobs](https://www.g-i-m.com/en/unternehmen/about-us/career.html)
+    * [Getränke Hoffmann GmbH](https://www.getraenke-hoffmann.de/) —
+        [proof](https://www.getraenke-hoffmann.de/sites/default/files/2021-06/FullStackDeveloperPython.pdf)
+        ,
+        [jobs](https://www.deinjobbeihoffmann.de/)
     * [GetTechTalent GmbH](http://www.gettechtalent.com/) —
         [proof](http://www.gettechtalent.com/django-developer-remote.html)
         ,
