@@ -843,6 +843,12 @@ Something is missing?  Create a pull request!
         [proof](https://www.simplyhired.de/job/LvhGcbd6tiDGJGu0R8NTzaeDQ5vbVPMNZnHRFGs5BrUQGfZNYYo8wQ)
         ,
         [jobs](http://www.oculid.com/#jobs)
+    * [Oda Norway AS](https://oda.com/no/) —
+        [proof](https://jobs.lever.co/oda/ec6958e0-acc2-41a4-898b-920b06e7552f)
+        ,
+        [github](https://github.com/kolonialno)
+        ,
+        [jobs](https://careers.oda.com/jobs)
     * [Oetker Digital GmbH](https://www.oetkerdigital.com/) —
         [proof](https://oetkerdigital.dvinci-easy.com/en/jobs/20166/team-lead-backend-engineering)
         ,
