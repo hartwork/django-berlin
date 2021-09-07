@@ -1253,6 +1253,8 @@ Something is missing?  Create a pull request!
         [proof](https://www.valid-digital.com/leistungen/entwicklung/django-web-development.html)
         ,
         [jobs](https://www.valid-digital.com/karriere.html)
+    * [Valearnis (ManezCo Pty. Ltd.)](https://valearnis.com/) —
+        [proof](https://www.simplyhired.de/job/FpwuLfGvpaHNciarmeTP25b1-k1C4YD_Yh-iANGZJaUT2ot091CqHg)
     * [vdpExpertise GmbH](https://www.vdpexpertise.de/) —
         [proof](https://jobspotting.com/en/company/vdpexpertise/job/python-django-developer-m-w--d8a071cc5c0144a780af1b3123ec09f0)
         ,
