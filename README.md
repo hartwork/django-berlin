@@ -439,6 +439,12 @@ Something is missing?  Create a pull request!
         [proof](https://equalto.jobs.personio.de/job/368439)
         ,
         [jobs](https://equalto.jobs.personio.de/)
+    * [Evana AG](https://evana.ai/) —
+        [proof](https://evana.ai/karriere/?gh_jid=4001846101)
+        ,
+        [github](https://github.com/evana-ag)
+        ,
+        [jobs](https://evana.ai/karriere/)
     * [Evernest GmbH](https://www.evernest.com/) —
         [proof](https://web.evernest.com/karriere/002-backend-engineer-python)
         ,
