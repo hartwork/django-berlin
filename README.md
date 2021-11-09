@@ -545,6 +545,12 @@ Something is missing?  Create a pull request!
         [proof](https://glassdollar.com/hiring-product-engineer)
         ,
         [jobs](https://glassdollar.com/co-creating)
+    * [Gnosis Ltd.](https://gnosis.io/) —
+        [proof](https://boards.greenhouse.io/gnosis/jobs/5685245002)
+        ,
+        [github](https://github.com/gnosis)
+        ,
+        [jobs](https://gnosis.io/careers/)
     * [Goldland Media GmbH](https://www.goldland-media.com/) —
         [proof](https://www.goldland-media.com/jobs/django-entwickler-webentwickler-mw/)
         ,
