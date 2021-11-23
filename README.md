@@ -1174,6 +1174,10 @@ Something is missing?  Create a pull request!
         [github](https://github.com/stroeer)
         ,
         [jobs](https://karriere.stroeer.com/de/it-technology/)
+    * [StudySmarter UG](https://www.studysmarter.de/) —
+        [proof](https://www.studysmarter.de/karriere/backend-engineer/)
+        ,
+        [jobs](https://www.studysmarter.de/karriere/)
     * [SumUp Payments Limited](https://sumup.com/) —
         [proof](https://www.xing.com/jobs/berlin-front-end-developer-57099796)
         ,
