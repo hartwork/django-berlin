@@ -1334,6 +1334,8 @@ Something is missing?  Create a pull request!
         [github](https://github.com/wechange-eg)
         ,
         [jobs](https://wechange.de/cms/jobs/)
+    * [What a Location .io GmbH](https://www.whatalocation.io/) —
+        [proof](https://de.linkedin.com/jobs/view/backend-python-and-gis-developer-human-at-what-a-location!-2800934038)
     * [Würth (Adolf Würth GmbH & Co. KG)](https://www.wuerth.com/) —
         [proof](https://career.wuerth.com/sap(bD1kZSZjPTAwMQ==)/bc/bsp/sap/zerc_rea/jobs.htm?comp=1&id=027FA86165021EDB8FC01776812E8068)
         ,
