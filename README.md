@@ -848,6 +848,10 @@ Something is missing?  Create a pull request!
         [proof](https://www.simplyhired.de/job/FNKxi9bpcVDFtrXrQKrDOPVy-LfniJbLDAlQGUtZe4QLTYSbd_i6ew)
         ,
         [jobs](https://neuraum.com/#_jobs)
+    * [Next Level Commerce (Klingel Gruppe, K Mail Order GmbH & Co. KG)](https://nextlevelcommerce.de/) —
+        [proof](https://nextlevelcommerce.jobs.personio.de/job/483672)
+        ,
+        [jobs](https://nextlevelcommerce.de/jobs/)
     * [Next Matter GmbH](https://nextmatter.com/) —
         [proof](https://nextmatter.bamboohr.com/jobs/view.php?id=27)
         ,
