@@ -115,7 +115,7 @@ Something is missing?  Create a pull request!
     * [Akelius GmbH](https://www.akelius.com/) —
         [proof](https://stackoverflow.com/jobs/304001/devops-engineer-network-experience-male-akelius-gmbh)
         ,
-        [jobs](https://stackoverflow.com/jobs/companies/akelius-gmbh#jobs-items)
+        [jobs](https://www.akelius.com/en/career/position)
     * [Alpaca Technology, Inc.](https://www.alpaca.technology/) —
         [proof](https://www.alpaca.technology/careers/automator-python-back-end/)
         ,
