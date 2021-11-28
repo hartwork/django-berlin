@@ -137,7 +137,7 @@ Something is missing?  Create a pull request!
     * [Ammonit Measurement GmbH](https://www.ammonit.com/) —
         [proof](https://www.ammonit.com/en/ammonit/career)
         ,
-        [jobs](https://www.ammonit.com/en/ammonit/career)
+        [jobs](https://www.ammonit.com/en/about-us/career/)
     * [Amnesty International Deutschland e. V.](https://www.amnesty.de/) —
         [proof](https://amnesty.jobbase.io/job/l99sgfpn)
         ,
