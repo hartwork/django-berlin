@@ -205,6 +205,12 @@ Something is missing?  Create a pull request!
         [github](https://github.com/babbel)
         ,
         [jobs](https://jobs.babbel.com/en/)
+    * [Back Market (Jung SAS)](https://www.backmarket.de/) —
+        [proof](https://www.welcometothejungle.com/en/companies/back-market/tech)
+        ,
+        [github](https://github.com/BackMarket)
+        ,
+        [jobs](https://www.backmarket.de/wir-stellen-ein.html)
     * [BankenScore (Glenside Internet GmbH)](https://www.bankenscore.de/) —
         [proof](https://bankenscore.join.com/jobs/35770-senior-python-developer)
         ,
