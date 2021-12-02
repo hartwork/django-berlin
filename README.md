@@ -1147,6 +1147,8 @@ Something is missing?  Create a pull request!
         [jobs](https://stackfuel.com/careers/)
     * [Staffery GmbH](https://www.staffery.com/) —
         [proof](https://autopilot-api.staffery.com/)
+        ,
+        [jobs](https://www.staffery.com/staffery/career)
     * [staiy (Metch GmbH)](https://staiy.com/) —
         say "no" to unpaid internships! —
         [proof](https://www.xing.com/jobs/berlin-django-development-intern-62254597)
