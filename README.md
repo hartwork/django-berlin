@@ -1318,6 +1318,8 @@ Something is missing?  Create a pull request!
         ,
         [jobs](https://www.vyble.io/karriere/)
 * __W__
+    * [wayvs GmbH](https://www.wayvs.app/) —
+        [proof](https://www.simplyhired.de/job/OLGlSFuFubonrJXGxbe8AuKmJhk9x1ODO-aJfszspl9ReZIv_qYM0w)
     * [WBS Training AG](https://www.wbs-gruppe.de/) —
         [proof](https://www.wbs-gruppe.de/job-details/jobs/Job/detail/persis_000942/)
         ,
