@@ -1108,11 +1108,11 @@ Something is missing?  Create a pull request!
         ,
         [jobs](https://angel.co/company/heyskillme/jobs)
     * [smava GmbH](https://www.smava.de/) —
-        [proof](https://www.smava.de/jobs/en/jobs/python-data-engineer-marketing-automation-m-f-6346376/)
+        [proof](https://www.smava.de/jobs/de/jobs?gh_jid=4816473003)
         ,
         [github](https://github.com/smava)
         ,
-        [jobs](https://www.smava.de/jobs/de/stellenangebote/?cat=sam42_it)
+        [jobs](https://www.smava.de/jobs/de/jobs/?category=Engineering%20%26%20Product&location=Berlin)
     * [Solandeo GmbH](https://www.solandeo.com/) —
         [proof](https://www.solandeo.com/wp-content/uploads/2018-09-17-Ausschreibung-Senior-Developer-Python.pdf)
         ,
