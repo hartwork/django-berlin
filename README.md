@@ -1052,6 +1052,8 @@ Something is missing?  Create a pull request!
         [proof](https://de.bebee.com/job/85483c7abb6d174656b38b4da55412c7)
         ,
         [github](https://github.com/rotki)
+        ,
+        [jobs](https://rotki.com/jobs)
     * [Runtime Services GmbH](https://www.runtime.de/) —
         [proof](https://www.runtime.de/job/frontend-backend-softwareentwickler-javascript-and-python-mwd-1675258972)
         ,
