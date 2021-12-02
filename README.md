@@ -1126,7 +1126,7 @@ Something is missing?  Create a pull request!
         ,
         [github](https://github.com/sourcefabric)
         ,
-        [jobs](https://www.sourcefabric.org/en/home/jobs/)
+        [jobs](https://www.sourcefabric.org/about/jobs)
     * [Spacebase GmbH](https://www.spacebase.com/) —
         [proof](https://spacebase.softgarden.io/job/2866473/)
         ,
