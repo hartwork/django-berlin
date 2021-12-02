@@ -1073,10 +1073,10 @@ Something is missing?  Create a pull request!
         [github](https://github.com/secretescapes)
         ,
         [jobs](https://careers.secretescapes.de/jobs/)
-    * [~sedna GmbH](https://www.sedna.de/) —
+    * [sedna GmbH](https://www.sedna.de/) —
         [proof](https://www.sedna.de/en/opening5/)
         ,
-        [jobs](https://www.sedna.de/en/join_us/)
+        [jobs](https://www.sedna.de/jobs/)
     * [Seerene GmbH](https://www.seerene.com/) (Potsdam) —
         [proof](https://tp.seerene.com/admin/login/?next=/admin/)
         ,
