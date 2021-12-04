@@ -789,6 +789,10 @@ Something is missing?  Create a pull request!
         [github](https://github.com/merantix)
         ,
         [jobs](https://merantix.bamboohr.co.uk/jobs/)
+    * [Mercedes-Benz Vans Mobility GmbH](https://www.daimler.com/career/about-us/locations/location-detail-page-173760.html) —
+        [proof](https://jobs.daimler.com/job/EN_317920/senior-full-stack-developer-m-w-d-bei-der-mercedes-benz-vans-mobility-gmbh.html)
+        ,
+        [jobs](https://www.daimler.com/career/job-search/?action=doSearch&job_genesis_id=6639&job_location=7117&job_location_name=Berlin%2C+Mercedes-Benz+Vans+Mobility+GmbH&job_global_location=DE10243B)
     * [Metr (Building Management Systems GmbH)](https://metr.systems/) —
         [proof](https://metr.recruitee.com/l/en/o/backend-software-developer-mfx)
         ,
