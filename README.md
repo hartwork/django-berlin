@@ -553,6 +553,8 @@ Something is missing?  Create a pull request!
         [proof](https://glassdollar.com/hiring-product-engineer)
         ,
         [jobs](https://glassdollar.com/co-creating)
+    * [Gloria's Service](https://glorias-service.de/) —
+        [proof](https://www.simplyhired.de/job/5zuRTWs6fOAJW_F9WssGupTNjPPpefiYx0I2t6QMiQWuJ-s4Cxn-Hw)
     * [Gnosis Ltd.](https://gnosis.io/) —
         [proof](https://boards.greenhouse.io/gnosis/jobs/5685245002)
         ,
