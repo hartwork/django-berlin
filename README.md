@@ -260,6 +260,10 @@ Something is missing?  Create a pull request!
         [proof](https://www.simplyhired.de/job/Db0ZUkDJAC11JDPV9nUreVs8GQj-1O3SV82W6Dx3wKyR4lsInC_dlw)
         ,
         [jobs](https://botanicly.join.com/)
+    * [BP Mediawork GmbH](https://www.bpmediawork.de/) —
+        [proof](https://www.simplyhired.de/job/DVuhihJzZTzNaUCaIiBeMv-XwX6IkDll3H0alWacJYxYkMZ4upQCUA)
+        ,
+        [jobs](https://www.bpmediawork.de/jobs/)
 * __C__
     * [Camping.info GmbH](https://camping.info/) —
         [proof](https://de.indeed.com/Zeige-Job?jk=8988934b627ffad8)
