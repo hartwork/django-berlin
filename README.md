@@ -553,6 +553,12 @@ Something is missing?  Create a pull request!
         [proof](https://glassdollar.com/hiring-product-engineer)
         ,
         [jobs](https://glassdollar.com/co-creating)
+    * [Glooko Inc.](https://glooko.com/) —
+        [proof](https://glooko.com/careers/job-listing?id=3768438)
+        ,
+        [github](https://github.com/glooko)
+        ,
+        [jobs](https://glooko.com/careers/)
     * [Gloria's Service](https://glorias-service.de/) —
         [proof](https://www.simplyhired.de/job/5zuRTWs6fOAJW_F9WssGupTNjPPpefiYx0I2t6QMiQWuJ-s4Cxn-Hw)
     * [Gnosis Ltd.](https://gnosis.io/) —
