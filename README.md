@@ -1329,6 +1329,10 @@ Something is missing?  Create a pull request!
         [github](https://github.com/vimcar)
         ,
         [jobs](https://vimcar.de/career)
+    * [Violence Prevention Network gGmbH](https://violence-prevention-network.de/) —
+        [proof](https://violence-prevention-network.de/ueber-uns/stellenausschreibungen/sh-knix-p041/)
+        ,
+        [jobs](https://violence-prevention-network.de/ueber-uns/stellenausschreibungen/)
     * [VisioLab UG](https://visiolab.io/) —
         [proof](https://www.xing.com/jobs/berlin-senior-software-engineer-70617382)
         ,
