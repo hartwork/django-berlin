@@ -225,6 +225,10 @@ Something is missing?  Create a pull request!
         [proof](https://www.bbq.de/ueber-bbq/arbeiten-bei-bbq/dozent-programmierung-python/)
         ,
         [jobs](https://www.bbq.de/ueber-bbq/arbeiten-bei-bbq/)
+    * [Ben (Thanks Ben Ltd.)](https://www.thanksben.com/) —
+        [proof](https://careers.thanksben.com/jobs/1488224-frontend-developer)
+        ,
+        [jobs](https://careers.thanksben.com/jobs)
     * [Ben Fleet Services GmbH](https://www.benfleetservices.com/) —
         [proof](https://ben-fleet-services-gmbh.jobs.personio.de/job/305720)
         ,
