@@ -1263,6 +1263,10 @@ Something is missing?  Create a pull request!
         [github](https://github.com/travelperk)
         ,
         [jobs](https://www.travelperk.com/careers/)
+    * [twinwin GmbH](https://www.twinwin.org/) —
+        [proof](https://twinwin.join.com/jobs/3801475-full-stack-developer-machine-learning-engineer-python-js-ts)
+        ,
+        [jobs](https://www.twinwin.org/de/karriere)
     * [Two Bulls Germany GmbH](https://www.twobulls.com/) —
         [proof](https://dasauge.de/-two-bulls-germany-gmbh/)
         ,
