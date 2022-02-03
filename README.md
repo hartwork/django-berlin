@@ -311,6 +311,10 @@ Something is missing?  Create a pull request!
         [github](https://github.com/circularfashion)
         ,
         [jobs](https://circular.fashion/jobs/)
+    * [Clade AG/GmbH](https://clade.io/) —
+        [proof](https://clade.jobs.personio.de/job/571943?display=de)
+        ,
+        [jobs](https://clade.jobs.personio.de/)
     * [(The) Climate Choice UG](https://theclimatechoice.com/) —
         [proof](https://www.simplyhired.de/job/RLEbrTj8ENbBcTZOir7OyCXTk53usvYs4SiGy5wUTp6do5Ccpj9nxQ)
         ,
