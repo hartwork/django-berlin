@@ -455,6 +455,12 @@ Something is missing?  Create a pull request!
         [proof](https://equalto.jobs.personio.de/job/368439)
         ,
         [jobs](https://equalto.jobs.personio.de/)
+    * [ETAS GmbH](https://www.etas.com/) —
+        [proof](https://www.bosch.de/karriere/job/REF108574P-student-for-python-development-m-f-d/)
+        ,
+        [github](https://github.com/etas)
+        ,
+        [jobs](https://www.bosch.de/karriere/jobs/?searchTerm=etas%201994%20django&location=Berlin,Deutschland)
     * [Evana AG](https://evana.ai/) —
         [proof](https://evana.ai/karriere/?gh_jid=4001846101)
         ,
