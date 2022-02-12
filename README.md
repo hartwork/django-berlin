@@ -1129,6 +1129,12 @@ Something is missing?  Create a pull request!
         [github](https://github.com/shore-gmbh)
         ,
         [jobs](https://shorepos.shore.com/de/jobs/)
+    * [ShowHeroes SE](https://showheroes.com/) —
+        [proof](https://www.xing.com/jobs/berlin-senior-qa-automation-engineer-81261993)
+        ,
+        [github](https://github.com/showheroes)
+        ,
+        [jobs](https://showheroes-group.com/career/)
     * [SinnerSchrader AG](https://sinnerschrader.com/) —
         [proof](https://sinnerschrader.jobs/de/django-backend-developer-mw/)
         ,
