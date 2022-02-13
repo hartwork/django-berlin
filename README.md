@@ -1247,6 +1247,8 @@ Something is missing?  Create a pull request!
         [proof](https://www.xing.com/jobs/berlin-senior-software-engineer-dynamic-b2b-platform-start-52823700)
         ,
         [jobs](https://de.testxchange.com/unternehmen/karriere/)
+    * [The Contemporary Software Society UG (TCSS)](https://tcss.tech/) —
+        [proof](https://www.xing.com/jobs/berlin-blockchain-engineer-backend-frontend-onchain-81456980)
     * [Thermondo GmbH](https://www.thermondo.de/) —
         [proof](https://github.com/Thermondo)
         ,
