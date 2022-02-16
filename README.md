@@ -249,6 +249,12 @@ Something is missing?  Create a pull request!
         [jobs](https://bitcap.com/careers/)
     * [Blindside HB GmbH](https://www.blindside.pro/) —
         [proof](https://www.simplyhired.de/job/WdVSzKBM-DC5nbn7xCqJqoqUBqbqMGO2wRzOplFzcQFUdwrzY3qeVA)
+    * [Blueshoe GmbH](https://www.blueshoe.de/) —
+        [proof](https://www.blueshoe.de/jobs/python-entwickler/)
+        ,
+        [github](https://github.com/Blueshoe)
+        ,
+        [jobs](https://www.blueshoe.de/jobs/)
     * [Bold Business Group](https://www.boldbusiness.com/) —
         [proof](https://jobs.lever.co/boldbusiness/88868c53-4d9c-4bfb-b018-70a171ca033c)
         ,
