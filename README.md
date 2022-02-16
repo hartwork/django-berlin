@@ -426,6 +426,8 @@ Something is missing?  Create a pull request!
         [github](https://github.com/dubsmash)
         ,
         [jobs](https://dubsmash.com/jobs)
+    * [DuDeChem GmbH](https://www.dudechem.com/) —
+        [proof](https://www.simplyhired.de/job/FZOHOKGgBm-HYis-jJEtfIigKODFNykIbYvZOPP4K1yrtKmY3zBt7A)
 * __E__
     * [Eberlein und Kunz GbR](http://eberlein-und-kunz-gbr.de/) —
         [proof](https://www.simplyhired.de/job/lCIEn7DzlAfpj8CU45PGVjf29O0tHqSP4dGcfOFtk0w8BdN4_8BsDg)
