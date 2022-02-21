@@ -1169,6 +1169,8 @@ Something is missing?  Create a pull request!
         [proof](https://angel.co/company/heyskillme/jobs/583212-backend-developer)
         ,
         [jobs](https://angel.co/company/heyskillme/jobs)
+    * [Smart City Factory GmbH](https://new.smart-city-factory.com/) —
+        [proof](https://www.linkedin.com/jobs/view/2924156202)
     * [smava GmbH](https://www.smava.de/) —
         [proof](https://www.smava.de/jobs/de/jobs?gh_jid=4816473003)
         ,
