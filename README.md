@@ -1224,6 +1224,10 @@ Something is missing?  Create a pull request!
         [github](https://github.com/stanwood)
         ,
         [jobs](https://www.stanwood.de/jobs/)
+    * [stellenonline.de AG](https://stellenonline.de/) —
+        [proof](https://jobs.stellenonline.de/index.php/adonly/inserat/full-stack-entwickler-devops-mwd-karlsruhe-oder-homeoffice-stellenonlinede-aktiengesellschaft-94826/)
+        ,
+        [jobs](https://stellenonline.de/career)
     * [Strato AG](https://www.strato.de/) —
         [proof](https://www.simplyhired.de/job/xY1VOjyRbwo4xfQVfauWtOFjiSk_V2Mcc0386sgx93x6Cu6f3CY_5g)
         ,
