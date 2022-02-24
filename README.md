@@ -406,6 +406,12 @@ Something is missing?  Create a pull request!
         [proof](https://www.designerdock.com/fuer-bewerber/stellenangebote/jobs/show/berlin/b34592-1/)
         ,
         [jobs](https://www.designerdock.com/fuer-bewerber/stellenangebote/)
+    * [Deutsche Telekom AG](https://www.telekom.com/) —
+        [proof](https://www.telekom.com/de/karriere/jobsuche/jobangebot/devops-engineer-m-w-d-cloud-security_189684)
+        ,
+        [github](https://github.com/telekom)
+        ,
+        [jobs](https://www.telekom.com/de/karriere)
     * [devolute GmbH](https://www.devolute.org/) —
         [proof](https://www.devolute.org/de/agentur/python-django-agentur-in-berlin)
         ,
