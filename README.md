@@ -912,6 +912,10 @@ Something is missing?  Create a pull request!
         [proof](https://www.simplyhired.de/job/FNKxi9bpcVDFtrXrQKrDOPVy-LfniJbLDAlQGUtZe4QLTYSbd_i6ew)
         ,
         [jobs](https://neuraum.com/#_jobs)
+    * [New Horizons (Horizons Global Technology Pte. Ltd.)](https://nhglobalpartners.com/) —
+        [proof](https://nhglobalpartners-team.freshteam.com/jobs/LiiPwUGFvw89/back-end-principal-engineer-remote)
+        ,
+        [jobs](https://nhglobalpartners-team.freshteam.com/jobs)
     * [Next Level Commerce (Klingel Gruppe, K Mail Order GmbH & Co. KG)](https://nextlevelcommerce.de/) —
         [proof](https://nextlevelcommerce.jobs.personio.de/job/483672)
         ,
