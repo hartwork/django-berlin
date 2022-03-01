@@ -215,6 +215,10 @@ Something is missing?  Create a pull request!
         [proof](https://bankenscore.join.com/jobs/35770-senior-python-developer)
         ,
         [jobs](https://www.bankenscore.de/karriere)
+    * [Barycenter Technologies UG (BaryTech)](https://www.barytech.com/) —
+        [proof](https://www.simplyhired.de/job/otCsFOYgsg0d_S2MmncD_FamQku90o3fBWQcDtMqV-uBwKl06osKdw)
+        ,
+        [jobs](https://www.barytech.com/career-at-barytech/)
     * [BaseCase (Certara Germany GmbH)](https://basecase.com/) —
         [proof](https://basecasecareers.recruiterbox.com/jobs/fk01x71/)
         ,
