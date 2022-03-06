@@ -792,6 +792,10 @@ Something is missing?  Create a pull request!
         [proof](https://www.xing.com/jobs/berlin-senior-backend-developer-66516482)
         ,
         [github](https://github.com/lemon-markets)
+    * [Letarez GmbH](https://letarez.com/) —
+        [proof](https://www.xing.com/jobs/berlin-django-backend-developer-82405564)
+        ,
+        [jobs](https://join.com/companies/letarez)
     * [Levity (colabel Inc.)](https://www.levity.ai/) —
         [proof](https://www.levity.ai/jobs/senior-full-stack-infrastructure)
         ,
