@@ -341,6 +341,12 @@ Something is missing?  Create a pull request!
         [proof](http://berlinstartupjobs.com/de/engineering/software-developer-devops-python-close2real/)
         ,
         [jobs](https://blueocean-jobs.personio.de/)
+    * [Codepan GmbH](https://www.codepan.com/) —
+        [proof](https://join.com/companies/codepan/4150812-senior-technical-lead-f-m-d)
+        ,
+        [github](https://github.com/code-pan)
+        ,
+        [jobs](https://join.com/companies/codepan)
     * [Codility Ltd.](https://www.codility.com/) —
         [proof](https://apply.workable.com/codility/j/E858642FCE/)
         ,
