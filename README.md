@@ -1165,6 +1165,8 @@ Something is missing?  Create a pull request!
         [proof](https://tp.seerene.com/admin/login/?next=/admin/)
         ,
         [jobs](https://seerene-gmbh-jobs.personio.de/?language=en)
+    * [Selfmade Energy (TiRo CheckEnergy GmbH)](https://selfmade-energy.com/) —
+        [proof](https://www.simplyhired.de/job/P0_uSGuCm24V532ofXV0JQkoNQxjL-O8gB8bk2dqeJ_YBHCXzydB0w)
     * [sennder GmbH](https://www.sennder.com/) —
         [proof](https://sennder.heavenhr.com/jobs/_etBiQIb70a-FLZPH5P4jow_/apply)
         ,
