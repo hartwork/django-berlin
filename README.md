@@ -785,6 +785,10 @@ Something is missing?  Create a pull request!
         [proof](https://www.simplyhired.de/job/yj5ti7U63pZLoRKETpGZe9btw3PNUpk5iUlyuTIR3joOUSZC1rOFsg)
         ,
         [jobs](https://kreatize.com/career/)
+    * [Kulturprojekte Berlin GmbH](https://www.kulturprojekte.berlin/) —
+        [proof](https://www.kulturprojekte.berlin/job/praktikum-mit-dem-schwerpunkt-kulturfoerderung-im-berliner-beratungszentrum-fuer-kulturfoerderung-und-kreativwirtschaft/)
+        ,
+        [jobs](https://www.kulturprojekte.berlin/jobs/)
     * [Kupfer Software GmbH](https://www.kupfer-software.de/) —
         [proof](https://angel.co/company/kupfer-software/jobs/592017-engineering-lead)
         ,
