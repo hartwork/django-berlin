@@ -971,6 +971,10 @@ Something is missing?  Create a pull request!
         [proof](https://www.connecticum.de/jobboerse/python-django-softwareentwickler-stellenangebot-792388.html)
         ,
         [jobs](https://www.osb-ag.de/karriere/stellenangebote.html?fulltext=django&workLocation=berlin)
+    * [Otovo GmbH](https://www.otovo.de/) —
+        [proof](https://careers.otovo.com/job-list/software-engineer-new-markets-team)
+        ,
+        [jobs](https://careers.otovo.com/)    
     * [Oviavo GmbH](https://oviavo.com/) —
         [proof](https://www.xing.com/jobs/berlin-senior-frontend-developer-67459501)
     * [Oxfam Deutschland e.V.](https://www.oxfam.de/) —
