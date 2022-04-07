@@ -249,6 +249,12 @@ Something is missing?  Create a pull request!
         [proof](https://www.simplyhired.de/job/AoMJkqzMGhM5IkcSqzs0ILnfs0Ipa9nq0JBiekQX-TsfDVIw2a4D4Q)
         ,
         [jobs](https://betterguards.de/en/contact/)
+    * [Bettermarks GmbH](https://bettermarks.com/) —
+        [proof](https://www.simplyhired.de/job/x79rZIOZ4XZKFacDXrODh6m95wFrufar0dB0DuZQMjlNZv0kE_U2KQ)
+        ,
+        [github](https://github.com/bettermarks)
+        ,
+        [jobs](https://de.bettermarks.com/jobs/)
     * [Big Picture GmbH](http://www.big-picture.de/) —
         [proof](https://www.simplyhired.de/job/C5y82ivRB1K_nvq48JwLen2i06ZHrsWvrhTN5BGABHv3uAv6RN6n1w)
     * [Bit Capital GmbH](https://bitcap.com/) —
