@@ -78,6 +78,12 @@ Something is missing?  Create a pull request!
         [jobs](https://stackoverflow.com/jobs/companies/actio)
     * Actonlytics (part of [itembase GmbH](https://www.itembase.com/)) —
         [proof](https://www.rockitdigital.de/full-stack-developer-web-developer-python-django-for-actonlytics-berlin-8a892fe02d)
+    * [Ada Health GmbH](https://ada.com/) —
+        [proof](https://ada.com/careers/job/?id=6065766002)
+        ,
+        [github](https://github.com/adahealth)
+        ,
+        [jobs](https://ada.com/careers/)
     * [adjust GmbH](https://www.adjust.com/) —
         [proof](https://boards.greenhouse.io/adjust/jobs/4210344002)
         ,
