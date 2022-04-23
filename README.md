@@ -1479,6 +1479,8 @@ Something is missing?  Create a pull request!
         [proof](https://www.yoona.ai/careers)
         ,
         [jobs](https://www.yoona.ai/careers)
+    * [YouCan!](https://youcan-app.de/) —
+        [proof](https://www.simplyhired.de/job/QghlBd34n8xBF7-C1yD8YIjucrNRgQqeBMx5bL0An9g2bUIiTk5MzA)
 * __Z__
     * [Zageno Inc.](https://zageno.de/) —
         [proof](https://www.simplyhired.de/job/QnSzgBAYjsOzdzcOj-P74eBwkfpfxMtli-0U0O_9u0xkZbXCrn99sQ)
