@@ -156,6 +156,8 @@ Something is missing?  Create a pull request!
         [jobs](https://www.amnesty.de/amnesty/jobs-ausschreibungen)
     * [Appmelder (WLT We Love Trees UG)](https://www.appmelder.de/) —
         [proof](https://www.xing.com/jobs/berlin-werkstudent-python-django-entwicklung-legal-tech-baeume-retten-69835649)
+    * [Apryl (Oviavo GmbH)](https://get-apryl.com/) —
+        [proof](https://www.simplyhired.de/job/WoN-XS02M9pSdv0FqmDPKhfXPZgS34aVFASgrZbKynz4AS2sqwvzdw)
     * [Architrave GmbH](https://www.architrave.de/) —
         [proof](https://architrave.bamboohr.co.uk/jobs/view.php?id=69)
         ,
@@ -993,8 +995,6 @@ Something is missing?  Create a pull request!
         [github](https://github.com/otovo)
         ,
         [jobs](https://careers.otovo.com/)
-    * [Oviavo GmbH](https://oviavo.com/) —
-        [proof](https://www.xing.com/jobs/berlin-senior-frontend-developer-67459501)
     * [Oxfam Deutschland e.V.](https://www.oxfam.de/) —
         [proof](https://www.oxfam.de/ueber-uns/jobs/job/2019-10-20-softwareentwicklerin-datenbanken)
         ,
