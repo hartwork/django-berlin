@@ -1481,6 +1481,8 @@ Something is missing?  Create a pull request!
         [jobs](https://www.yoona.ai/careers)
     * [YouCan!](https://youcan-app.de/) —
         [proof](https://www.simplyhired.de/job/QghlBd34n8xBF7-C1yD8YIjucrNRgQqeBMx5bL0An9g2bUIiTk5MzA)
+    * [You&Vi UG](https://www.youandvi.com/) —
+        [proof](https://www.simplyhired.de/job/ousnNxC8g6fG0hJOyIdEcwkDgypwR2xS9ZHcogrK5BRWnczvvI9KHg)
 * __Z__
     * [Zageno Inc.](https://zageno.de/) —
         [proof](https://www.simplyhired.de/job/QnSzgBAYjsOzdzcOj-P74eBwkfpfxMtli-0U0O_9u0xkZbXCrn99sQ)
