@@ -721,6 +721,10 @@ Something is missing?  Create a pull request!
         [github](https://github.com/incapptic)
         ,
         [jobs](https://www.incapptic.com/company-careers/)
+    * [Ines Analytics GmbH](https://www.ines-analytics.com/) —
+        [proof](https://www.xing.com/jobs/berlin-senior-backend-frontend-fullstack-developer-python-django-javascript-react-84804802)
+        ,
+        [jobs](https://www.ines-analytics.com/jobs)
     * [InFarm - Indoor Urban Farming GmbH](https://infarm.com/) —
         [proof](https://cultivator.infarm.com/admin/)
         ,
