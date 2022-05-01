@@ -812,6 +812,10 @@ Something is missing?  Create a pull request!
         ,
         [jobs](https://angel.co/company/kupfer-software/jobs)
 * __L__
+    * [(The) Landbanking Group GmbH](https://thelandbankinggroup.com/) —
+        [proof](https://thelandbankinggroup.recruitee.com/o/senior-software-engineer-mfx-2)
+        ,
+        [jobs](https://thelandbankinggroup.recruitee.com/)
     * [Leaf Labs GmbH](https://www.leaflabs.eu/) —
         [proof](https://leaflabs.join.com/jobs/1816703-junior-full-stack-engineer)
         ,
