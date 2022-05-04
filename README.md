@@ -43,6 +43,12 @@ Something is missing?  Create a pull request!
         [proof](https://news.ycombinator.com/item?id=8822940)
         ,
         [github](https://github.com/42reports)
+    * [7Learnings GmbH](https://7learnings.com/) —
+        [proof](https://www.simplyhired.de/job/2d9PpTkS9M9_ENiLATb3nFhI_KO1LfJjSQrCF_gL2OnLkmg9fpe5dw)
+        ,
+        [github](https://github.com/7Learnings)
+        ,
+        [jobs](https://7learnings.com/career/)
     * [8fit GmbH](https://8fit.com) —
         [proof](https://www.facebook.com/berlinstartupjobs/posts/1606458446068530)
         ,
