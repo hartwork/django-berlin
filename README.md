@@ -373,14 +373,14 @@ Something is missing?  Create a pull request!
         [github](https://github.com/Codility/)
         ,
         [jobs](https://apply.workable.com/codility/)
-    * [Common Sense Intelligence GmbH](https://www.cs-intelligence.com/) —
-        [proof](https://www.linkedin.com/jobs/view/2533150606)
     * [colormass GmbH](http://colormass.com/) —
         [proof](http://colormass.com/jobs/front-end-developer-angular-typescript-css/)
         ,
         [github](https://github.com/colormass)
         ,
         [jobs](http://colormass.com/jobs/)
+    * [Common Sense Intelligence GmbH](https://www.cs-intelligence.com/) —
+        [proof](https://www.linkedin.com/jobs/view/2533150606)
     * [Conversario (ferret go GmbH)](https://www.ferret-go.com/) —
         [proof](https://www.xing.com/jobs/berlin-backend-developer-python-61241930)
         ,
