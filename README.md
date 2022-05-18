@@ -306,6 +306,10 @@ Something is missing?  Create a pull request!
         [proof](https://www.simplyhired.de/job/tr1BL2Yurw0Lco9qSz9nxdEK6_R56EMaTlRjz3Fv4Q4nyK6r1Qyd3w)
         ,
         [jobs](https://www.bugshell.com/career.html)
+    * [BVCD Service GmbH (Bundesverbandes der Campingwirtschaft in Deutschland e.V.)](https://www.bvcd.de/) —
+        [proof](https://www.simplyhired.de/job/Vipr3QUBv6GAT2egdK4KiwA9JmScEAvCzdTf38FUiyF3w0WiLb3Vfg)
+        ,
+        [jobs](https://www.bvcd.de/leistungen/stellenboerse.html)
 * __C__
     * [Camping.info GmbH](https://camping.info/) —
         [proof](https://de.indeed.com/Zeige-Job?jk=8988934b627ffad8)
