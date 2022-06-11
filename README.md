@@ -854,6 +854,8 @@ Something is missing?  Create a pull request!
         [github](https://github.com/liqd)
         ,
         [jobs](https://liqd.net/en/join-us/)
+    * [Localiser RLI GmbH](https://www.localiser.de/) —
+        [proof](https://www.xing.com/jobs/berlin-programmierer-86622376)
     * [Lumenaza GmbH](https://www.lumenaza.de/) —
         [proof](https://www.lumenaza.de/media/filer_public/05/dc/05dc69ca-a821-4741-8d26-a036d8c7c468/170519_stellenausschreibung_entwickler.pdf)
         ,
