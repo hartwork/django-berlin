@@ -1494,6 +1494,9 @@ Something is missing?  Create a pull request!
         [github](https://github.com/wechange-eg)
         ,
         [jobs](https://wechange.de/cms/jobs/)
+    * [WellYou (Workout for Happiness UG)](https://www.well-you.com/) —
+        say "no" to unpaid internships! —
+        [proof](https://www.simplyhired.de/job/CpC0qzOdMbe2lGkwvr3nXjF6SsQ03u8bG-6t3mdJTadNrkXRU0AAeg)
     * [What a Location .io GmbH](https://www.whatalocation.io/) —
         [proof](https://de.linkedin.com/jobs/view/backend-python-and-gis-developer-human-at-what-a-location!-2800934038)
     * [Würth (Adolf Würth GmbH & Co. KG)](https://www.wuerth.com/) —
