@@ -1038,6 +1038,10 @@ Something is missing?  Create a pull request!
         [github](https://github.com/Perdoo)
         ,
         [jobs](https://www.perdoo.com/careers/)
+    * [Peers Solutions GmbH](https://peers-solutions.com/) —
+        [proof](https://peerssolutions.recruitee.com/o/senior-backend-engineer-mwd)
+        ,
+        [jobs](https://peerssolutions.recruitee.com/)
     * [Phiture GmbH](https://www.phiture.com/) —
         [proof](https://www.phiture.com/career.html#workingstudentfullstackdeveloper)
         ,
