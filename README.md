@@ -405,6 +405,12 @@ Something is missing?  Create a pull request!
         [proof](https://www.stepstone.de/stellenangebote--Software-Engineer-m-w-d-Rights-Management-Berlin-Cornelsen-Verlag-GmbH--6286453-inline.html)
         ,
         [jobs](https://www.cornelsen.de/karriere/stellenangebote)
+    * [Corsearch Europe SA](https://www.corsearch.com/) —
+        [proof](https://incopro.applytojob.com/apply/yZNAVvmlLL/Python-Software-Engineer-Germany)
+        ,
+        [github](https://github.com/corsearch)
+        ,
+        [jobs](https://corsearch.com/company/careers/)
     * [CosmoCode GmbH](https://www.cosmocode.de/) —
         [proof](https://www.simplyhired.de/job/KmrDeIvl61aVgLU_ciTRDprKkHAlwrICMRzrZv6yVe-8fSYn0Nn1dA)
         ,
