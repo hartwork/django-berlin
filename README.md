@@ -1011,6 +1011,10 @@ Something is missing?  Create a pull request!
         [github](https://github.com/open-craft)
         ,
         [jobs](https://weworkremotely.com/company/opencraft)
+    * [Orbica UG](https://orbica.de/) —
+        [proof](https://www.linkedin.com/jobs/view/3122139702)
+        ,
+        [jobs](https://orbica.de/jobs-karriere)
     * [orderbird AG](https://www.orderbird.com/) —
         [proof](https://www.orderbird.com/en/careers/python-developer-f-m)
         ,
