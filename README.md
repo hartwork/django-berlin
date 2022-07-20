@@ -1565,7 +1565,7 @@ Job websites with jobs filtered by Django and Berlin:
 * [BerlinStartupJobs.com](http://berlinstartupjobs.com/de/skill-areas/django/)
 * [bund.de Service Online](https://www.service.bund.de/Content/DE/Stellen/Suche/Formular.html?city_zipcode=Berlin&templateQueryString=django)
 * [Careerjet.de](https://www.careerjet.de/suchen/stellenangebote?s=django&l=berlin)
-* [Creative City Berlin](https://www.creative-city-berlin.de/de/search/?q=django&t=job&submit=Suche)
+* [Creative City Berlin](https://www.creative-city-berlin.de/de/search/job-offers/?query=django)
 * [dasauge](https://dasauge.de/jobs/stellenangebote/?begriff=django&plz=berlin)
 * [djangojobs.net](https://djangojobs.net/jobs/?location=Berlin%2CGermany)
 * [e-fellows.net](https://jobs.e-fellows.net/Suchergebnis.html?jsjn=django&jsjo=berlin)
