@@ -1613,7 +1613,7 @@ Job websites with jobs filtered by Django and Berlin:
 * [stellenonline.de](https://www.stellenonline.de/search?q=django&l=Berlin)
 * [stellenwerk](https://www.stellenwerk-berlin.de/jobboerse?keywords=django)
 * [StepStone](https://www.stepstone.de/5/ergebnisliste.html?what=django&where=berlin&radius=30&searchOrigin=Homepage_top-search)
-* [Taledo](https://www.taledo.com/jobs?keyword=django&locations[]=2950159)
+* [Taledo](https://app.taledo.com/jobs?keyword=django&locale=en&locations[]=N240109189&nav=all)
 * [Tip Top Job](https://www.tiptopjob.com/search/tiptopresults.asp?Keyword=django&country=DEU&sub_location=C-15687)
 * [Trovit](https://de.trovit.com/jobs/index.php/cod.search_jobs/what_d.django/where_d.berlin)
 * [Unicum Karrierezentrum](https://karriere.unicum.de/jobs?search=django&job_geo_location=Berlin%2C+Deutschland)
