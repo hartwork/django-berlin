@@ -1513,6 +1513,10 @@ Something is missing?  Create a pull request!
         [proof](https://www.simplyhired.de/job/CpC0qzOdMbe2lGkwvr3nXjF6SsQ03u8bG-6t3mdJTadNrkXRU0AAeg)
     * [What a Location .io GmbH](https://www.whatalocation.io/) —
         [proof](https://de.linkedin.com/jobs/view/backend-python-and-gis-developer-human-at-what-a-location!-2800934038)
+    * [Workist GmbH](https://www.workist.com/) —
+        [proof](https://workist-gmbh.jobs.personio.de/job/301768?display=en)
+        ,
+        [jobs](https://workist-gmbh.jobs.personio.de/)
     * [Würth (Adolf Würth GmbH & Co. KG)](https://www.wuerth.com/) —
         [proof](https://career.wuerth.com/sap(bD1kZSZjPTAwMQ==)/bc/bsp/sap/zerc_rea/jobs.htm?comp=1&id=027FA86165021EDB8FC01776812E8068)
         ,
