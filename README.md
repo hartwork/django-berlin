@@ -999,6 +999,10 @@ Something is missing?  Create a pull request!
         [github](https://github.com/kolonialno)
         ,
         [jobs](https://careers.oda.com/jobs)
+    * [OFEK e.V. Beratungsstelle bei antisemitischer Gewalt und Diskriminierung](https://ofek-beratung.de/) —
+        [proof](https://ofek-beratung.de/wp-content/uploads/2022/09/Frontend-Developer-2.pdf)
+        ,
+        [jobs](https://ofek-beratung.de/jobs)
     * [Oetker Digital GmbH](https://www.oetkerdigital.com/) —
         [proof](https://oetkerdigital.dvinci-easy.com/en/jobs/20166/team-lead-backend-engineering)
         ,
