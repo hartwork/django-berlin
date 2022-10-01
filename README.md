@@ -90,6 +90,10 @@ Something is missing?  Create a pull request!
         [github](https://github.com/adahealth)
         ,
         [jobs](https://ada.com/careers/)
+    * [adelphi consult GmbH / adelphi research gGmbH](https://www.adelphi.de/) —
+        [proof](https://careers.adelphi.de/jobposting/b699be38dcd5a4a9035ed80328d6d39a765b2c45)
+        ,
+        [jobs](https://www.adelphi.de/de/profil/karriere/stellenangebote)
     * [adjust GmbH](https://www.adjust.com/) —
         [proof](https://boards.greenhouse.io/adjust/jobs/4210344002)
         ,
