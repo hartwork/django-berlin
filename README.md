@@ -1303,6 +1303,12 @@ Something is missing?  Create a pull request!
         [proof](https://www.xing.com/jobs/berlin-python-developer-berlin-41273060)
         ,
         [github](https://github.com/spreecode)
+    * [SPRK.global GmbH](https://sprk.global/) —
+        [proof](https://sprk.jobs.personio.de/job/839049?display=de)
+        ,
+        [github](https://github.com/SPRK-global)
+        ,
+        [jobs](https://sprk.jobs.personio.de/)
     * [sprylab technologies GmbH](http://www.sprylab.com/) —
         [proof](https://sprylab.com/en/python-backend-developer-m-f-d/)
         ,
