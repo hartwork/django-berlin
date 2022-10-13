@@ -1365,12 +1365,6 @@ Something is missing?  Create a pull request!
         [github](https://github.com/tarent)
         ,
         [jobs](https://www.tarent.de/en/jobs/)
-    * [Tastenexpress](https://tastenexpress.de/) —
-        [proof](https://www.simplyhired.de/job/rnFAzzuaqn4E5Ei_qyDi3RNtfQEiF-Q5LDTRWcunohHX6GkX127B6Q)
-        ,
-        [github](https://github.com/TastenExpress)
-        ,
-        [jobs](https://join.com/companies/tastenexpress)
     * [Teraki GmbH](https://www.teraki.com/) —
         [proof](https://www.glassdoor.de/job-listing/senior-backend-developer-teraki-gmbh-JV_IC2622109_KO0,24_KE25,36.htm?jl=2801616918)
         ,
