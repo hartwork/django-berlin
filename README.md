@@ -842,6 +842,10 @@ Something is missing?  Create a pull request!
         [proof](https://thelandbankinggroup.recruitee.com/o/senior-software-engineer-mfx-2)
         ,
         [jobs](https://thelandbankinggroup.recruitee.com/)
+    * [lawpilots GmbH](https://lawpilots.com/) —
+        [proof](https://stackshare.io/lawpilots/lawpilots-com)
+        ,
+        [jobs](https://lawpilots.jobs.personio.de/)
     * ~[Leaf Labs GmbH](https://www.leaflabs.eu/) —
         [proof](https://leaflabs.join.com/jobs/1816703-junior-full-stack-engineer)
         ,
