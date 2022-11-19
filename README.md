@@ -1379,6 +1379,8 @@ Something is missing?  Create a pull request!
         [github](https://github.com/tarent)
         ,
         [jobs](https://www.tarent.de/en/jobs/)
+    * [te.ma gGmbH](https://te.ma/) —
+        [proof](https://te.ma/page/web-full-stack-developer/)
     * [Teraki GmbH](https://www.teraki.com/) —
         [proof](https://www.glassdoor.de/job-listing/senior-backend-developer-teraki-gmbh-JV_IC2622109_KO0,24_KE25,36.htm?jl=2801616918)
         ,
