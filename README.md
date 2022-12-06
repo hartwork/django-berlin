@@ -574,6 +574,10 @@ Something is missing?  Create a pull request!
         [github](https://github.com/factworks)
         ,
         [jobs](https://www.factworks.com/career#jobs)
+    * [Fifty2 Technology GmbH](https://www.fifty2.eu/) —
+        [proof](https://www.workwise.io/job/50914-senior-full-stack-developer-m-f-d)
+        ,
+        [jobs](https://www.fifty2.eu/career/)
     * [FinCompare GmbH](https://fincompare.de/) —
         [proof](https://stackoverflow.com/jobs/companies/fincompare-gmbh)
         ,
