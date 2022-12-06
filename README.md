@@ -1259,6 +1259,12 @@ Something is missing?  Create a pull request!
         [jobs](https://scoutbee.workable.com/)
     * [Scrambl. AG](https://www.scrambl.org/) —
         [proof](https://www.simplyhired.de/job/AmINQyuiA8gPaPmoIF_KzapJyYZngvkTsyub8ot595z2g0dAiU84yQ)
+    * [Seafair Inc.](https://www.seafair.io/) —
+        [proof](https://angel.co/company/seafair-io/jobs/1559409-senior-full-stack-engineer)
+        ,
+        [github](https://github.com/Seafair)
+        ,
+        [jobs](https://angel.co/company/seafair-io)
     * [Secret Escapes Ltd](https://www.secretescapes.de/) —
         [proof](https://careers.secretescapes.de/job/?job_id=1593308)
         ,
