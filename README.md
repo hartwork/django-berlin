@@ -1088,6 +1088,12 @@ Something is missing?  Create a pull request!
         [github](https://github.com/Perdoo)
         ,
         [jobs](https://www.perdoo.com/careers/)
+    * [Perpetua](https://perpetua.io/) —
+        [proof](https://jobs.lever.co/perpetualabs.com/ee90b8c5-7c08-4caf-ac2f-4013823cdc31)
+        ,
+        [github](https://github.com/perpetua1)
+        ,
+        [jobs](https://jobs.lever.co/perpetualabs.com)
     * [Phiture GmbH](https://www.phiture.com/) —
         [proof](https://www.phiture.com/career.html#workingstudentfullstackdeveloper)
         ,
