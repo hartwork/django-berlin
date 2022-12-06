@@ -35,6 +35,8 @@ Something is missing?  Create a pull request!
         [jobs](https://2txt.de/jobs/)
     * [3S Antriebe GmbH](https://3s-antriebe.de/) —
         [proof](https://www.xing.com/jobs/berlin-werk-stu-dent-soft-ware-ent-wick-lung-48885586)
+        ,
+        [jobs](https://www.3s-antriebe.de/ueber-uns/karriere/)
     * [3yourmind GmbH](https://www.3yourmind.com/) —
         [proof](https://www.3yourmind.com/career/django-engineer)
         ,
