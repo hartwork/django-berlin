@@ -1078,16 +1078,16 @@ Something is missing?  Create a pull request!
         [github](https://github.com/peopledoc)
         ,
         [jobs](https://www.people-doc.de/peopledoc/karriere)
+    * [Peers Solutions GmbH](https://peers-solutions.com/) —
+        [proof](https://peerssolutions.recruitee.com/o/senior-backend-engineer-mwd)
+        ,
+        [jobs](https://peerssolutions.recruitee.com/)
     * [Perdoo GmbH](https://www.perdoo.com/) —
         [proof](https://djangojobs.net/jobs/483/lead-backend-engineer-perdoo/)
         ,
         [github](https://github.com/Perdoo)
         ,
         [jobs](https://www.perdoo.com/careers/)
-    * [Peers Solutions GmbH](https://peers-solutions.com/) —
-        [proof](https://peerssolutions.recruitee.com/o/senior-backend-engineer-mwd)
-        ,
-        [jobs](https://peerssolutions.recruitee.com/)
     * [Phiture GmbH](https://www.phiture.com/) —
         [proof](https://www.phiture.com/career.html#workingstudentfullstackdeveloper)
         ,
