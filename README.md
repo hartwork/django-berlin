@@ -215,7 +215,7 @@ Something is missing?  Create a pull request!
     * [Auxolar GmbH](https://www.auxolar.de/) —
         [proof](https://auxolar.recruitee.com/o/back-end-engineer-mfd)
         ,
-        [jobs](https://www.auxolar.de/#career)
+        [jobs](https://auxolar.de/ueber-uns/karriere/)
     * [Avantgarde Gesellschaft für Kommunikation MbH](https://avantgarde.net/) —
         [proof](https://www.bebee.com/de/job/senior-python-django-backend-30894995)
         ,
