@@ -788,6 +788,12 @@ Something is missing?  Create a pull request!
         [github](https://github.com/moberries)
         ,
         [jobs](https://app.moberries.com/company/1536692)
+    * [jobpal Ltd.](https://jobpal.ai/) —
+        [proof](https://jobpal.ai/admin/login/?next=/admin/)
+        ,
+        [github](https://github.com/jobpal)
+        ,
+        [jobs](https://jobpal.ai/en/careers/)
     * ~[Jobspotting (SmartRecruiters GmbH)](https://jobspotting.com/) —
         [proof](https://jobspotting.com/admin/)
         ,
