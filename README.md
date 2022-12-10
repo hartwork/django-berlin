@@ -1220,6 +1220,12 @@ Something is missing?  Create a pull request!
         [github](https://github.com/rl-institut)
         ,
         [jobs](https://reiner-lemoine-institut.de/aktuelles/stellenangebote/)
+    * [Revel Transit Inc.](https://gorevel.com/) —
+        [proof](https://boards.greenhouse.io/revel/jobs/4752392004)
+        ,
+        [github](https://github.com/revel-transit)
+        ,
+        [jobs](https://gorevel.com/careers)
     * [Riemser Pharma GmbH](https://www.riemser.com/) —
         [proof](https://www.riemser.com/karriere/stellenangebote/full-stack-developer-mwd/)
         ,
