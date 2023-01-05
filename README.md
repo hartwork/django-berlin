@@ -1177,14 +1177,14 @@ Something is missing?  Create a pull request!
         [proof](https://de.jooble.org/desc/-2366626165844613292)
         ,
         [github](https://github.com/qdrant)
-    * [Qualitas Energy Deutschland GmbH (ex Q-Energy Deutschland GmbH)](https://qualitasenergy.com/) —
-        [proof](https://q-energy.jobs.personio.de/job/922558)
-        ,
-        [jobs](https://q-energy.jobs.personio.de/)
     * [Quadriga Media Berlin GmbH](https://www.quadriga.eu/) —
         [proof](https://www.quadriga.eu/en/career/jobs/?gh_jid=4946473002)
         ,
         [jobs](https://www.quadriga.eu/en/career/jobs/)
+    * [Qualitas Energy Deutschland GmbH (ex Q-Energy Deutschland GmbH)](https://qualitasenergy.com/) —
+        [proof](https://q-energy.jobs.personio.de/job/922558)
+        ,
+        [jobs](https://q-energy.jobs.personio.de/)
     * [Qudosoft GmbH & Co. KG](https://www.qudosoft.de/) —
         [proof](https://www.qudosoft.de/job/software-engineer-mit-fokus-data-engineering-d-m-w/)
         ,
