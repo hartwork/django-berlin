@@ -486,7 +486,7 @@ Something is missing?  Create a pull request!
         [proof](https://dive-solutions.de/wp-content/uploads/2019/08/2019_08-22_Stellenausschreibung_Backend-Developer.pdf)
         ,
         [jobs](https://dive-solutions.de/de/career/)
-    * [Divio Technologies AB](https://www.divio.com/) —
+    * [Divio Technologies AB](https://www.divio.com/) (100% remote) —
         [proof](https://apply.workable.com/divio/j/595B7A8715/)
         ,
         [github](https://github.com/divio)
