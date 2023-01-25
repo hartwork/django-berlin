@@ -435,6 +435,8 @@ Something is missing?  Create a pull request!
         [proof](https://www.cross4channel.de/fileadmin/user_upload/1.2_Software-Entwickler___Linux-Administrator_01.10.2019.pdf)
         ,
         [jobs](https://www.cross4channel.de/ueber-uns/#karriere)
+    * [cryptoscape.ai](https://cryptoscape.ai/) —
+        [proof](https://www.xing.com/jobs/berlin-backend-soft-ware-engin-eer-95512382)
     * [Cyren GmbH](https://www.cyren.de/) —
         [proof](https://www.cyren.com/about-cyren/careers)
         ,
