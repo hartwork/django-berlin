@@ -1529,6 +1529,10 @@ Something is missing?  Create a pull request!
         [jobs](https://www.valid-digital.com/karriere.html)
     * [Valearnis (ManezCo Pty. Ltd.)](https://valearnis.com/) —
         [proof](https://www.simplyhired.de/job/FpwuLfGvpaHNciarmeTP25b1-k1C4YD_Yh-iANGZJaUT2ot091CqHg)
+    * [VCDB VerkehrsConsult Dresden-Berlin GmbH](https://www.vcdb.de/) —
+        [proof](https://www.vcdb.de/de/ueber-uns/karriere/detailseite/softwareentwickler-m-w-d/)
+        ,
+        [jobs](https://www.vcdb.de/de/ueber-uns/karriere/)
     * [vdpExpertise GmbH](https://www.vdpexpertise.de/) —
         [proof](https://jobspotting.com/en/company/vdpexpertise/job/python-django-developer-m-w--d8a071cc5c0144a780af1b3123ec09f0)
         ,
