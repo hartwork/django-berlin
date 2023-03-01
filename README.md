@@ -763,6 +763,10 @@ Something is missing?  Create a pull request!
         [proof](https://de.indeed.com/Zeige-Job?jk=7ec322d16c8f38ee)
         ,
         [jobs](https://www.ice-gateway.com/jobs/)
+    * [iGaming.com Group GmbH](https://www.igaming.com/) —
+        [proof](https://igaming.jobs.personio.de/job/309884)
+        ,
+        [jobs](https://www.igaming.com/career/)
     * [ImmoSky Deutschland GmbH](https://www.immosky.de/) —
         [proof](https://www.simplyhired.de/job/QF0u5aO1k15ADMZqp35SIgKYQDjWvRXEfCDH021fnaEmHfgjpkr32w)
         ,
