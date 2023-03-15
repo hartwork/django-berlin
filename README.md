@@ -1504,6 +1504,12 @@ Something is missing?  Create a pull request!
         ,
         [jobs](https://www.twotickets.de/jobs/)
 * __U__
+    * [Uberspace](https://uberspace.de/) (100% remote) —
+        [proof](https://uberspace.de/de/about/job/)
+        ,
+        [github](https://github.com/Uberspace)
+        ,
+        [jobs](https://uberspace.de/de/about/job/)
     * [ucair GmbH](https://ucair.de/) —
         [proof](https://www.xing.com/jobs/berlin-junior-fullstack-developer-45934031)
         ,
