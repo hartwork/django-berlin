@@ -1557,6 +1557,10 @@ Something is missing?  Create a pull request!
         [proof](https://www.simplyhired.de/job/Enh1fmviU0ifq4jkj0jSPuxRGBZVdJ_bbLJRQk2WOlrL_B9w_RKwvg)
         ,
         [jobs](https://www.vector-logistics.ch/de/kontakt/offene-stellen)
+    * [Veeam Software Group GmbH](https://www.veeam.com/) —
+        [proof](https://careers.veeam.com/vacancies/quality-assurance/developer_in_qa_with_python-743999893198111)
+        ,
+        [jobs](https://careers.veeam.com/vacancies?query=django&location=Germany&city=Berlin)
     * [viasto GmbH](https://www.viasto.com/) —
         [proof](https://viasto.softgarden.io/job/5328014/)
         ,
