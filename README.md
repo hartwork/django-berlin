@@ -1485,8 +1485,10 @@ Something is missing?  Create a pull request!
         [proof](https://careers.tracksfortrucks.com/jobs/280143-python-javascript-fullstack-developer-m-f-d)
         ,
         [jobs](https://careers.tracksfortrucks.com/jobs?department_id=49313)
-    * [trawa (Future Energy Services GmbH)](https://www.trawa.io/) —
+    * [trawa (Future Energy Services GmbH)](https://www.trawa.de/) —
         [proof](https://www.simplyhired.de/job/F9PZyTt4LF78MZB3cVcSjFQmq4zyHyhCLw5XqVnSJ0XxXA7w1Cl28w)
+        ,
+        [jobs](https://www.trawa.de/jobs)
     * [TravelPerk SLU](https://www.travelperk.com/) —
         [proof](https://www.travelperk.com/job-application/?gh_jid=2322926)
         ,
