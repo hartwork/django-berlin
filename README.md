@@ -1475,6 +1475,10 @@ Something is missing?  Create a pull request!
         [proof](https://www.toladata.com/job-senior-full-stack-developer-m-f-d-full-time/)
         ,
         [jobs](https://www.toladata.com/open-positions/)
+    * [tonies GmbH](https://tonies.com/) (100% remote) —
+        [proof](https://tonies.jobs.personio.de/job/1057260?display=en)
+        ,
+        [jobs](https://tonies.com/de-de/jobs-en/)
     * [Tracebloc GmbH](https://www.tracebloc.io/) —
         [proof](https://www.xing.com/jobs/berlin-sr-python-backend-engineer-5y-64941125)
     * [Tracks GmbH](https://www.tracksfortrucks.com/) —
