@@ -127,7 +127,7 @@ Something is missing?  Create a pull request!
         ,
         [github](https://github.com/agile42com)
         ,
-        [jobs](https://www.agile42.com/de/career/)
+        [jobs](https://www.agile42.com/en/career)
     * [Aidorando GmbH](https://aidorando.com/) —
         [proof](https://www.simplyhired.de/job/x-IheF1juicc6vviEGX3Ikb8zEvmUYhqHXNKHfa-hhrcA4vUtFVdig)
     * [Airbus S.A.S.](https://www.airbus.com/) —
