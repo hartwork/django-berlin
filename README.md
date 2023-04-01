@@ -209,7 +209,7 @@ Something is missing?  Create a pull request!
         ,
         [github](https://github.com/Assistr)
         ,
-        [jobs](http://www.assistme.io/team?tojobs=true)
+        [jobs](https://www.assistme.io/karriere/)
     * [atene KOM GmbH](https://atenekom.eu/) —
         [proof](https://dasauge.de/jobs/stellenangebote/fest/e508593)
         ,
