@@ -193,7 +193,7 @@ Something is missing?  Create a pull request!
         ,
         [github](https://github.com/architrave-de)
         ,
-        [jobs](https://www.architrave.de/jobs/)
+        [jobs](https://career.architrave.de/)
     * [Ariana Digital Health Solutions GmbH](https://hiariana.com/) —
         [proof](https://de.jooble.org/desc/-2582901826609927421)
         ,
