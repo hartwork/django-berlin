@@ -63,7 +63,7 @@ Something is missing?  Create a pull request!
     * [aam it GmbH](https://www.aam-it.eu/de/) —
         [proof](https://www.aam-it.eu/de/karriere/stellenangebote/details/senior-python-entwickler-m-w-msa.html)
         ,
-        [jobs](https://www.aam-it.eu/de/karriere/stellenangebote/bundesland/Berlin.html#goto)
+        [jobs](https://www.aam-it.eu/de/karriere/stellenangebote.html)
     * [Ableton AG](https://www.ableton.com/) —
         [proof](https://www.ableton.com/en/jobs/apply/220553/)
         ,
