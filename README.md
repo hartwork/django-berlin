@@ -186,6 +186,8 @@ Something is missing?  Create a pull request!
         [proof](https://www.xing.com/jobs/berlin-werkstudent-python-django-entwicklung-legal-tech-baeume-retten-69835649)
     * [Apryl (Oviavo GmbH)](https://get-apryl.com/) —
         [proof](https://www.simplyhired.de/job/WoN-XS02M9pSdv0FqmDPKhfXPZgS34aVFASgrZbKynz4AS2sqwvzdw)
+        ,
+        [jobs](https://apryl.co/careers/)
     * [Architrave GmbH](https://www.architrave.de/) —
         [proof](https://architrave.bamboohr.co.uk/jobs/view.php?id=69)
         ,
