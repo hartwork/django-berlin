@@ -693,7 +693,7 @@ Something is missing?  Create a pull request!
     * [future demand GmbH](https://future-demand.com/) —
         [proof](https://future-demand-jobs.personio.de/job/105600)
         ,
-        [jobs](https://future-demand.com/#joinus)
+        [jobs](https://www.future-demand.com/join)
     * [Fyrfeed (Winstate AI Solutions GmbH)](https://fyrfeed.com/) —
         [proof](https://fyrfeed.com/wp-content/uploads/2021/03/django-python.pdf)
         ,
