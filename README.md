@@ -426,7 +426,7 @@ Something is missing?  Create a pull request!
     * [Concular GmbH](https://concular.de/) —
         [proof](https://www.simplyhired.de/job/ldgtUXSFhEmaFSuH5gJWAuC6CS3hDHgtSpg5Tn_nn9x1GOuMgNiupQ)
         ,
-        [jobs](https://concular.de/en/jobs/)
+        [jobs](https://concular.de/circular-jobs/)
     * [Conversario (ferret go GmbH)](https://www.ferret-go.com/) —
         [proof](https://www.xing.com/jobs/berlin-backend-developer-python-61241930)
         ,
