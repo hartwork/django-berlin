@@ -358,7 +358,7 @@ Something is missing?  Create a pull request!
     * [Catenion GmbH](https://catenion.com/) —
         [proof](https://de.indeed.com/Zeige-Job?jk=99440a3964c357f6)
         ,
-        [jobs](https://catenion.com/careers/working-at-catenion/)
+        [jobs](https://catenion.com/careers/)
     * [Chancen eG/GmbH](https://chancen-eg.de/) —
         [proof](https://www.xing.com/jobs/berlin-internship-web-development-berlin-67274610)
         ,
