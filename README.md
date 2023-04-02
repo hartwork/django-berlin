@@ -454,7 +454,7 @@ Something is missing?  Create a pull request!
         ,
         [github](https://github.com/corsearch)
         ,
-        [jobs](https://corsearch.com/company/careers/)
+        [jobs](https://careers.corsearch.com/)
     * [CosmoCode GmbH](https://www.cosmocode.de/) —
         [proof](https://www.simplyhired.de/job/KmrDeIvl61aVgLU_ciTRDprKkHAlwrICMRzrZv6yVe-8fSYn0Nn1dA)
         ,
