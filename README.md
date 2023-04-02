@@ -408,7 +408,7 @@ Something is missing?  Create a pull request!
         ,
         [github](https://github.com/Codility/)
         ,
-        [jobs](https://apply.workable.com/codility/)
+        [jobs](https://www.codility.com/about-us/#careers)
     * [colormass GmbH](http://colormass.com/) —
         [proof](http://colormass.com/jobs/front-end-developer-angular-typescript-css/)
         ,
