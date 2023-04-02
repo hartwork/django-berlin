@@ -541,6 +541,8 @@ Something is missing?  Create a pull request!
 * __E__
     * [Eberlein und Kunz GbR](http://eberlein-und-kunz-gbr.de/) —
         [proof](https://www.simplyhired.de/job/lCIEn7DzlAfpj8CU45PGVjf29O0tHqSP4dGcfOFtk0w8BdN4_8BsDg)
+        ,
+        [jobs](https://de.indeed.com/Jobs?q=Eberlein+und+Kunz+GbR)
     * [Edu-Werkstatt GmbH](https://edu-werkstatt.berlin/) —
         [proof](https://www.xing.com/jobs/berlin-full-stack-entwickler-schwerpunkt-django-60842985)
         ,
