@@ -382,7 +382,7 @@ Something is missing?  Create a pull request!
     * [(The) Climate Choice UG](https://theclimatechoice.com/) —
         [proof](https://www.simplyhired.de/job/RLEbrTj8ENbBcTZOir7OyCXTk53usvYs4SiGy5wUTp6do5Ccpj9nxQ)
         ,
-        [jobs](https://careers.smartrecruiters.com/THECLIMATECHOICEUGhaftungsbeschrnkt)
+        [jobs](https://jobs.theclimatechoice.com/de/)
     * [ClimatePartner GmbH](https://www.climatepartner.com/) —
         [proof](https://www.climatepartner.com/de/karriere?jh=n98j73jlq1m5rqv7nicsnqed1poiwjh)
         ,
