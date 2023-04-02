@@ -686,10 +686,10 @@ Something is missing?  Create a pull request!
         [proof](https://www.simplyhired.de/job/vCiT5SgtzCp9qs16x-aidioS8WTOWPmyQIkOodQGR3ll4AhTRJuJfw)
         ,
         [jobs](https://www.freitag.de/jobs)
-    * [frogs42 – Gesellschaft für künstliche Intelligenz mbH](https://www.frogs42.com/) —
+    * [Ella Lab – Gesellschaft für künstliche Intelligenz mbH (frogs42)](https://ella-lab.io/) —
         [proof](https://www.simplyhired.de/job/M8AqO3ZD5VSOh9DGmMwySa_Nqwur02NtDU9BOb-o2H0CLVF5W6dfEw)
         ,
-        [jobs](https://www.frogs42.com/#jobs)
+        [jobs](https://ella-lab.io/jobs/)
     * [future demand GmbH](https://future-demand.com/) —
         [proof](https://future-demand-jobs.personio.de/job/105600)
         ,
