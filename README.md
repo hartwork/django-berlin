@@ -567,6 +567,8 @@ Something is missing?  Create a pull request!
         [proof](https://www.gruenderszene.de/jobboerse/jobs/enote-gmbh-senior-java-python-software-engineer-backend)
         ,
         [github](https://github.com/eNote-GmbH)
+        ,
+        [jobs](https://enote.com/career)
     * [Envio Systems GmbH](https://enviosystems.com/) —
         [proof](https://enviosystems.bamboohr.com/jobs/view.php?id=33)
         ,
