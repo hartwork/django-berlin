@@ -624,10 +624,10 @@ Something is missing?  Create a pull request!
         [github](https://github.com/Formlabs)
         ,
         [jobs](https://formlabs.com/company/careers/berlin/)
-    * [Fraend GmbH](https://www.fraend.com/) —
+    * ~[Fraend GmbH](https://www.fraend.com/) —
         [proof](https://angel.co/fraend/jobs/546163-senior-software-engineer-django)
         ,
-        [jobs](https://angel.co/fraend/jobs)
+        [jobs](https://angel.co/fraend/jobs)~
     * [FragDenStaat](https://fragdenstaat.de/) —
         [proof](https://fragdenstaat.de/info/ueber/jobs-mitmachen/)
         ,
