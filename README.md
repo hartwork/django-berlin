@@ -495,7 +495,7 @@ Something is missing?  Create a pull request!
     * [dentalXr.ai (Charité – Universitätsmedizin Berlin)](https://dentalxr.ai/) —
         [proof](https://dentalxrai.recruitee.com/o/passionate-software-engineer-join-an-innovative-growing-team)
         ,
-        [jobs](https://dentalxrai.recruitee.com/)
+        [jobs](https://www.dentalxr.ai/en/company/#personio-iframe)
     * [Designerdock Berlin GmbH](https://www.designerdock.com/) —
         [proof](https://www.designerdock.com/fuer-bewerber/stellenangebote/jobs/show/berlin/b34592-1/)
         ,
