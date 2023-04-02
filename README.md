@@ -421,6 +421,8 @@ Something is missing?  Create a pull request!
         [jobs](https://www.committance.com/jobs)
     * [Common Sense Intelligence GmbH](https://www.cs-intelligence.com/) —
         [proof](https://www.linkedin.com/jobs/view/2533150606)
+        ,
+        [jobs](https://www.cs-intelligence.com/karriere#offene-stellen)
     * [Concular GmbH](https://concular.de/) —
         [proof](https://www.simplyhired.de/job/ldgtUXSFhEmaFSuH5gJWAuC6CS3hDHgtSpg5Tn_nn9x1GOuMgNiupQ)
         ,
