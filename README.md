@@ -743,6 +743,8 @@ Something is missing?  Create a pull request!
         [jobs](https://www.goldland-media.com/jobs/)
     * [Goldmarie Finanzen GmbH](https://goldmarie-finanzen.de/) —
         [proof](https://www.simplyhired.de/job/NqEZcfB3neE24ohvYgvlCtg5MKYJt8BZI0yWmMmH6TyKgqTMCEa0Dg)
+        ,
+        [jobs](https://goldmarie-finanzen.zohorecruit.eu/jobs/Careers)
     * [Grover Group GmbH](https://www.grover.com/) —
         [proof](https://jobs.grover.com/o/backend-developer-mwd)
         ,
