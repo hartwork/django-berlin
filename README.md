@@ -818,7 +818,7 @@ Something is missing?  Create a pull request!
         ,
         [github](https://github.com/i2x-gmbh)
         ,
-        [jobs](https://i2x.recruitee.com/)
+        [jobs](https://i2x.ai/jobs/)
     * [IAV GmbH Ingenieurgesellschaft Auto und Verkehr](https://www.iav.com/) —
         [proof](https://www.careerjet.de/jobview/26806595e13840cbc12acf82f1726ea7.html)
         ,
