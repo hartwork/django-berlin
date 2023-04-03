@@ -787,7 +787,7 @@ Something is missing?  Create a pull request!
     * [Hive (Borg Collective GmbH)](https://hive.one/) —
         [proof](https://hive.one/admin/login/?next=/admin/)
         ,
-        [jobs](https://hive.one/jobs/)
+        [jobs](https://apply.workable.com/borg/)
     * [Hivebuy (Sumerai GmbH)](https://hivebuy.de/) —
         [proof](https://berlinstartupjobs.com/engineering/senior-back-end-engineer-python-hivebuy/)
     * [Home Klick GmbH](https://home-klick.de/) —
