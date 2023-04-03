@@ -822,7 +822,7 @@ Something is missing?  Create a pull request!
     * [IAV GmbH Ingenieurgesellschaft Auto und Verkehr](https://www.iav.com/) —
         [proof](https://www.careerjet.de/jobview/26806595e13840cbc12acf82f1726ea7.html)
         ,
-        [jobs](https://www.iav.com/karriere/jobs/berlin/search/django)
+        [jobs](https://www.iav.com/en/apply/)
     * [iGaming.com Group GmbH](https://www.igaming.com/) —
         [proof](https://igaming.jobs.personio.de/job/309884)
         ,
