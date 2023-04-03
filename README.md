@@ -807,7 +807,7 @@ Something is missing?  Create a pull request!
         ,
         [github](https://github.com/Humanitec)
         ,
-        [jobs](https://humanitec.com/open-positions)
+        [jobs](https://humanitec.com/careers)
     * [Humboldt-Universität zu Berlin](https://www.hu-berlin.de/) —
         [proof](https://www.stepstone.de/stellenangebote--Beschaeftigter-i-d-IT-Systemtechnik-m-w-d-Berlin-Humboldt-Universitaet-zu-Berlin--5705353-inline.html)
         ,
