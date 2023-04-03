@@ -846,7 +846,7 @@ Something is missing?  Create a pull request!
         ,
         [github](https://github.com/infarm/)
         ,
-        [jobs](https://www.infarm.com/en/join-us)
+        [jobs](https://www.infarm.com/careers)
     * ~[Inventorum GmbH](https://inventorum.com/) —
         [proof](https://inventorum.com/wp-content/uploads/2018/04/Experienced_Backend_Developer_2018.pdf)
         ,
