@@ -1485,6 +1485,8 @@ Something is missing?  Create a pull request!
         [jobs](https://angel.co/company/heyskillme/jobs)
     * [Smart City Factory GmbH (ex ICE Gateway GmbH)](https://new.smart-city-factory.com/) —
         [proof](https://www.linkedin.com/jobs/view/2924156202)
+        ,
+        [jobs](https://smart-city-factory.com/career/)
     * [smart IoT GmbH](https://www.smart-iot.solutions/) (100% remote) —
         [proof](https://join.com/companies/smart-iot/9675742-backend-developer)
         ,
