@@ -713,7 +713,7 @@ Something is missing?  Create a pull request!
         [github](https://github.com/gettechtalent)
         ,
         [jobs](http://www.gettechtalent.com/career.html)
-    * [GlassDollar UG](https://glassdollar.com/) —
+    * [GlassDollar GmbH](https://glassdollar.com/) —
         [proof](https://glassdollar.com/hiring-product-engineer)
         ,
         [jobs](https://glassdollar.com/co-creating)
