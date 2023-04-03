@@ -708,10 +708,10 @@ Something is missing?  Create a pull request!
         [proof](https://hardskills.com/careers/senior-backend-engineer-core-platform-python-django-berlin)
         ,
         [jobs](https://hardskills.com/careers)
-    * [Harper (Marvin GmbH)](https://www.trustharper.com/) —
+    * ~[Harper (Marvin GmbH)](https://www.trustharper.com/) —
         [proof](https://www.jobfluent.com/jobs/junior-full-stack-python-developer-berlin-81414d)
         ,
-        [jobs](https://www.jobfluent.com/company/harper)
+        [jobs](https://www.jobfluent.com/company/harper)~
     * [Harting Stiftung & Co. KG](https://www.harting.com/) —
         [proof](https://www.harting.com/CAREER/de/jobs?jh=cchhke12kgm7faopcgbp6qzym4vva2x)
         ,
