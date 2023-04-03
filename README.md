@@ -738,10 +738,10 @@ Something is missing?  Create a pull request!
         [proof](https://jobsinberlin.de/jobs/werkstudent-als-webdeveloper-im-vertrieb-berlin?jobid=1177994)
         ,
         [jobs](http://www.homepowersolutions.de/jobs)
-    * [House of gigs](https://houseofgigs.io/) —
+    * ~[House of gigs](https://houseofgigs.io/) —
         [proof](https://jobs.smartrecruiters.com/houseofgigs/743999677981503-software-engineer)
         ,
-        [jobs](https://careers.smartrecruiters.com/houseofgigs)
+        [jobs](https://careers.smartrecruiters.com/houseofgigs)~
     * [Humanitec GmbH](https://humanitec.com/) —
         [proof](https://github.com/Humanitec/django-oauth-toolkit-jwt)
         ,
