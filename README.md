@@ -763,10 +763,6 @@ Something is missing?  Create a pull request!
         [proof](https://www.careerjet.de/jobview/26806595e13840cbc12acf82f1726ea7.html)
         ,
         [jobs](https://www.iav.com/karriere/jobs/berlin/search/django)
-    * [ICE Gateway GmbH](https://www.ice-gateway.com/) —
-        [proof](https://de.indeed.com/Zeige-Job?jk=7ec322d16c8f38ee)
-        ,
-        [jobs](https://www.ice-gateway.com/jobs/)
     * [iGaming.com Group GmbH](https://www.igaming.com/) —
         [proof](https://igaming.jobs.personio.de/job/309884)
         ,
@@ -1349,7 +1345,7 @@ Something is missing?  Create a pull request!
         [proof](https://angel.co/company/heyskillme/jobs/583212-backend-developer)
         ,
         [jobs](https://angel.co/company/heyskillme/jobs)
-    * [Smart City Factory GmbH](https://new.smart-city-factory.com/) —
+    * [Smart City Factory GmbH (ex ICE Gateway GmbH)](https://new.smart-city-factory.com/) —
         [proof](https://www.linkedin.com/jobs/view/2924156202)
     * [smava GmbH](https://www.smava.de/) —
         [proof](https://www.smava.de/jobs/de/jobs?gh_jid=4816473003)
