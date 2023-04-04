@@ -885,6 +885,8 @@ Something is missing?  Create a pull request!
 * __K__
     * [Kaiko Systems GmbH](https://www.kaikosystems.com/) —
         [proof](https://www.xing.com/jobs/berlin-junior-engineer-67274579)
+        ,
+        [jobs](https://kaikosystems.jobs.personio.de/)
     * [Kaiser+Kraft GmbH](https://www.kaiserkraft.de/) —
         [proof](https://recruitingapp-5053.de.umantis.com/Vacancies/1050/Description/31?srcText=karriereseite)
         ,
