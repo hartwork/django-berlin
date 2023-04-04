@@ -941,10 +941,10 @@ Something is missing?  Create a pull request!
         [proof](https://www.kulturprojekte.berlin/job/praktikum-mit-dem-schwerpunkt-kulturfoerderung-im-berliner-beratungszentrum-fuer-kulturfoerderung-und-kreativwirtschaft/)
         ,
         [jobs](https://www.kulturprojekte.berlin/jobs/)
-    * [Kupfer Software GmbH](https://www.kupfer-software.de/) —
+    * ~[Kupfer Software GmbH](https://www.kupfer-software.de/) —
         [proof](https://angel.co/company/kupfer-software/jobs/592017-engineering-lead)
         ,
-        [jobs](https://angel.co/company/kupfer-software/jobs)
+        [jobs](https://angel.co/company/kupfer-software/jobs)~
     * [kuyua GmbH](https://www.kuyua.com/) (100% remote) —
         [proof](https://www.linkedin.com/jobs/view/3777525570/)
         ,
