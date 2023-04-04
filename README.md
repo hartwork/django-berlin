@@ -936,7 +936,7 @@ Something is missing?  Create a pull request!
     * [Kreatize GmbH](https://kreatize.com/) —
         [proof](https://www.simplyhired.de/job/yj5ti7U63pZLoRKETpGZe9btw3PNUpk5iUlyuTIR3joOUSZC1rOFsg)
         ,
-        [jobs](https://kreatize.com/career/)
+        [jobs](https://kreatize.com/careers/#vacancies)
     * [Kulturprojekte Berlin GmbH](https://www.kulturprojekte.berlin/) —
         [proof](https://www.kulturprojekte.berlin/job/praktikum-mit-dem-schwerpunkt-kulturfoerderung-im-berliner-beratungszentrum-fuer-kulturfoerderung-und-kreativwirtschaft/)
         ,
