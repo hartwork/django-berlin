@@ -896,7 +896,7 @@ Something is missing?  Create a pull request!
         ,
         [github](https://github.com/Kaptio)
         ,
-        [jobs](https://kaptio.com/jobs/)
+        [jobs](https://apply.workable.com/kaptio/)
     * [kaputt.de GmbH](https://www.kaputt.de/) —
         [proof](https://www.kaputt.de/jobs/#seniorfullstack)
         ,
