@@ -916,7 +916,7 @@ Something is missing?  Create a pull request!
         ,
         [github](https://github.com/kitchenstories)
         ,
-        [jobs](https://kitchen-stories-jobs.personio.de/#department-97736)
+        [jobs](https://kitchen-stories.jobs.personio.de/)
     * [Kiwi.Ki GmbH](https://kiwi.ki/) —
         [proof](https://angel.co/kiwi-ki-1/jobs/41767-backend-engineer-iot)
         ,
