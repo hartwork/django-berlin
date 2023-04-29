@@ -531,6 +531,10 @@ Something is missing?  Create a pull request!
         [proof](https://www.creative-city-berlin.de/de/jobs/job/7712467/)
         ,
         [jobs](https://emma-blossom.com/#jobs)
+    * [Enda GmbH & Co. KG](https://enda.eu/) —
+        [proof](https://enda.eu/jobs)
+        ,
+        [jobs](https://enda.eu/jobs)
     * [eNote GmbH](https://enote.com/) —
         [proof](https://www.gruenderszene.de/jobboerse/jobs/enote-gmbh-senior-java-python-software-engineer-backend)
         ,
