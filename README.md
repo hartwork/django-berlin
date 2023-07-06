@@ -1485,6 +1485,10 @@ Something is missing?  Create a pull request!
         [proof](https://careers.tracksfortrucks.com/jobs/280143-python-javascript-fullstack-developer-m-f-d)
         ,
         [jobs](https://careers.tracksfortrucks.com/jobs?department_id=49313)
+    * [Trailstone Renewables GmbH (Trailstone Group)](https://www.trailstonegroup.com/) —
+        [proof](https://www.trailstonegroup.com/careers/5154463)
+        ,
+        [jobs](https://www.trailstonegroup.com/careers)
     * [trawa (Future Energy Services GmbH)](https://www.trawa.de/) —
         [proof](https://www.simplyhired.de/job/F9PZyTt4LF78MZB3cVcSjFQmq4zyHyhCLw5XqVnSJ0XxXA7w1Cl28w)
         ,
