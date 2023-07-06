@@ -1489,16 +1489,16 @@ Something is missing?  Create a pull request!
         [proof](https://www.trailstonegroup.com/careers/5154463)
         ,
         [jobs](https://www.trailstonegroup.com/careers)
-    * [trawa (Future Energy Services GmbH)](https://www.trawa.de/) —
-        [proof](https://www.simplyhired.de/job/F9PZyTt4LF78MZB3cVcSjFQmq4zyHyhCLw5XqVnSJ0XxXA7w1Cl28w)
-        ,
-        [jobs](https://www.trawa.de/jobs)
     * [TravelPerk SLU](https://www.travelperk.com/) —
         [proof](https://www.travelperk.com/job-application/?gh_jid=2322926)
         ,
         [github](https://github.com/travelperk)
         ,
         [jobs](https://www.travelperk.com/careers/)
+    * [trawa (Future Energy Services GmbH)](https://www.trawa.de/) —
+        [proof](https://www.simplyhired.de/job/F9PZyTt4LF78MZB3cVcSjFQmq4zyHyhCLw5XqVnSJ0XxXA7w1Cl28w)
+        ,
+        [jobs](https://www.trawa.de/jobs)
     * [twinwin GmbH](https://www.twinwin.org/) —
         [proof](https://twinwin.join.com/jobs/3801475-full-stack-developer-machine-learning-engineer-python-js-ts)
         ,
