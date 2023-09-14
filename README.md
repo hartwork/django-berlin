@@ -1542,6 +1542,12 @@ Something is missing?  Create a pull request!
         [github](https://github.com/umg)
         ,
         [jobs](https://www.universal-music.de/company/jobs-karriere)
+    * [Uptime.com](https://uptime.com/) —
+        [proof](https://apply.workable.com/uptime-dot-c-om/j/FA675E5BC0/)
+        ,
+        [github](https://github.com/uptime-com)
+        ,
+        [jobs](https://uptime.com/careers)
     * [Upvest GmbH](https://upvest.co/) —
         [proof](https://www.xing.com/jobs/berlin-senior-python-developer-full-time-43458050)
         ,
