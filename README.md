@@ -1269,6 +1269,12 @@ Something is missing?  Create a pull request!
         ,
         [jobs](https://www.runtime.de/jobsuche/?title=django&ort=berlin)
 * __S__
+    * [SafeGlobal (Safe Ecosystem Foundation)](https://safe.global/) —
+        [proof](https://jobs.ashbyhq.com/safe.global/7c14ed12-8c12-4885-8a80-fd7bdc42a5d3)
+        ,
+        [github](https://github.com/safe-global)
+        ,
+        [jobs](https://safe.global/careers#positions)
     * [Sanakey Systems GmbH](https://www.sanakey.de/) —
         [proof](https://de.jobtome.com/stellenangebot/backend-entwickler/e16669913f03a68fda8489ef1546fd1f)
         ,
