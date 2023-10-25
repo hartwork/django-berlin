@@ -1011,6 +1011,12 @@ Something is missing?  Create a pull request!
         [proof](https://berlinstartupjobs.com/engineering/senior-full-stack-engineer-react-django-100-remote-meetanyway/)
         ,
         [jobs](https://berlinstartupjobs.com/companies/meetanyway/)
+    * [Memfault Inc.](https://memfault.com/) —
+        [proof](https://jobs.lever.co/memfault/dc00834d-588d-41f0-84b2-39f8bed62b98)
+        ,
+        [github](https://github.com/memfault)
+        ,
+        [jobs](https://memfault.com/careers/)
     * [Menzel IT GmbH](https://menzelit.net/) —
         [proof](https://menzelit.net/wp-content/uploads/2019/08/stellenanzeige-werkstudierende.pdf)
         ,
