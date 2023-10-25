@@ -413,6 +413,12 @@ Something is missing?  Create a pull request!
         [github](https://github.com/ferretgo)
         ,
         [jobs](https://www.ferret-go.com/de/jobs.html)
+    * [Coqui](https://coqui.ai/) —
+        [proof](https://coqui.ai/job/senior-full-stack-engineer)
+        ,
+        [github](https://github.com/coqui-ai)
+        ,
+        [jobs](https://coqui.ai/jobs)
     * [Core Unit Bioinformatics (CUBI)](https://www.cubi.bihealth.org/) (part of [Berlin Institut für Gesundheitsforschung (BIH)](https://www.bihealth.org/)) —
         [proof](https://www.xing.com/jobs/berlin-paid-sum-mer-intern-ships-python-soft-ware-engin-eer-ing-pro-gram-ming-46924178)
         ,
