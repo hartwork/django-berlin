@@ -640,6 +640,12 @@ Something is missing?  Create a pull request!
         [github](https://github.com/fraunhoferhhi)
         ,
         [jobs](https://recruiting.fraunhofer.de/Jobs/2?lang=eng&location=Berlin)
+    * [freiheit.software UG & Co. KG](https://freiheit.software/) —
+        [proof](https://freiheit-software.scope-recruiting.de/?page=job&id=23057&location=10015)
+        ,
+        [github](https://github.com/freiheit-software)
+        ,
+        [jobs](https://freiheit.software/jobs)
     * [(der) Freitag Mediengesellschaft mbh & Co. KG](https://www.freitag.de/) —
         [proof](https://www.simplyhired.de/job/vCiT5SgtzCp9qs16x-aidioS8WTOWPmyQIkOodQGR3ll4AhTRJuJfw)
         ,
