@@ -999,6 +999,10 @@ Something is missing?  Create a pull request!
         [proof](https://jobs.daimler.com/job/EN_317920/senior-full-stack-developer-m-w-d-bei-der-mercedes-benz-vans-mobility-gmbh.html)
         ,
         [jobs](https://www.daimler.com/career/job-search/?action=doSearch&job_genesis_id=6639&job_location=7117&job_location_name=Berlin%2C+Mercedes-Benz+Vans+Mobility+GmbH&job_global_location=DE10243B)
+    * [metergrid GmbH](https://metergrid.de/) —
+        [proof](https://metergrid.workwise.io/job/27106-senior-python-django-entwickler)
+        ,
+        [jobs](https://metergrid.workwise.io/jobsuche)
     * [Metr (Building Management Systems GmbH)](https://metr.systems/) —
         [proof](https://metr.recruitee.com/l/en/o/backend-software-developer-mfx)
         ,
