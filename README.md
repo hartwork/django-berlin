@@ -1063,6 +1063,12 @@ Something is missing?  Create a pull request!
         [github](https://github.com/OetkerDigital)
         ,
         [jobs](https://www.oetkerdigital.com/#/jobs)
+    * [One Click LCA Ltd.](https://www.oneclicklca.com/) (100% remote) —
+        [proof](https://careers.oneclicklca.com/jobs/3294243-experienced-full-stack-developer-with-django-for-a-sustainability-saas)
+        ,
+        [github](https://github.com/One-Click-LCA)
+        ,
+        [jobs](https://careers.oneclicklca.com/jobs/)
     * [OpenCraft GmbH](https://opencraft.com/) —
         [proof](https://de.jooble.org/desc/1274823385053000778)
         ,
