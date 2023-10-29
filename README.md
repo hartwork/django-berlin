@@ -1707,6 +1707,10 @@ Something is missing?  Create a pull request!
         [proof](https://careers.veeam.com/vacancies/quality-assurance/developer_in_qa_with_python-743999893198111)
         ,
         [jobs](https://careers.veeam.com/vacancies?query=django&location=Germany&city=Berlin)
+    * [VentoryOne GmbH](https://ventory.one/) —
+        [proof](https://join.com/companies/ventoryone/9561234-new-full-stack-django-developer-remote-job)
+        ,
+        [jobs](https://join.com/companies/ventoryone)
     * [viasto GmbH](https://www.viasto.com/) —
         [proof](https://viasto.softgarden.io/job/5328014/)
         ,
