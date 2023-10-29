@@ -1174,6 +1174,12 @@ Something is missing?  Create a pull request!
         [github](https://github.com/port-zero)
         ,
         [jobs](https://port-zero.com/jobs/)
+    * [pragmatic industries GmbH](https://pragmaticindustries.com/) (100% remote) —
+        [proof](https://pragmaticindustries.com/jobs/senior-softwareentwickler-m-w-d/)
+        ,
+        [github](https://github.com/pragmaticindustries)
+        ,
+        [jobs](https://pragmaticindustries.com/karriere/)
     * [Precision Medicine Group, LLC](https://www.precisionmedicinegrp.com/) —
         [proof](https://careers.precisiongroupcompanies.com/career-search/posting/software-engineer-/4010575004/)
         ,
