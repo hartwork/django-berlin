@@ -1186,6 +1186,10 @@ Something is missing?  Create a pull request!
         ,
         [jobs](https://www.oxfam.de/ueber-uns/jobs/stellen)
 * __P__
+    * [PartsCloud GmbH](https://partscloud.com/) (100% remote) —
+        [proof](https://partscloud.jobs.personio.de/job/1280543)
+        ,
+        [jobs](https://partscloud.com/careers)
     * [PeopleDoc Germany GmbH](https://www.people-doc.de/) —
         [proof](https://boards.greenhouse.io/peopledocberlin/jobs/948962)
         ,
