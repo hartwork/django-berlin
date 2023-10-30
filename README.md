@@ -922,6 +922,8 @@ Something is missing?  Create a pull request!
         [github](https://github.com/liqd)
         ,
         [jobs](https://liqd.net/en/join-us/)
+    * [Livemax GmbH](https://www.live-max.de/) (100% remote) —
+        [proof](https://www.simplyhired.de/job/4p_kc-bC1ZVqDuBjdffqRdzmfVZsC4UpXOn-cEgdcsK0FMn7-BiErQ)
     * [Localiser RLI GmbH](https://www.localiser.de/) —
         [proof](https://www.xing.com/jobs/berlin-programmierer-86622376)
     * [Lumenaza GmbH](https://www.lumenaza.de/) —
