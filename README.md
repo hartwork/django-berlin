@@ -335,6 +335,10 @@ Something is missing?  Create a pull request!
         [proof](https://www.simplyhired.de/job/XF1v6SNWxUbAjwcNEdegIyLKBXPaxjQ_EdKsKIYKgotctUCjQhiS5A)
         ,
         [jobs](https://cara.care/careers/)
+    * [Casculate GmbH](https://www.casculate.com/) (100% remote) —
+        [proof](https://www.simplyhired.de/job/FanjNOn2fBWWu_6zwcY5__DazrPBqimDdJFfZKzORxGuIKFNH23qqA)
+        ,
+        [jobs](https://www.casculate.com/de/jobs)
     * [castLabs GmbH](https://castlabs.com/) —
         [proof](https://www.remotepython.com/jobs/606f2965227446efa4159f0ec4981544/)
         ,
