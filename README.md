@@ -1089,6 +1089,12 @@ Something is missing?  Create a pull request!
         [github](https://github.com/open-craft)
         ,
         [jobs](https://weworkremotely.com/company/opencraft)
+    * [openESG GmbH](https://openesg.de/) (100% remote) —
+        [proof](https://join.com/companies/openesg/9539709-junior-software-engineer-m-w-d)
+        ,
+        [github](https://github.com/openESG-gmbh)
+        ,
+        [jobs](https://openesg.de/karriere/)
     * [Orbica UG](https://orbica.de/) —
         [proof](https://www.linkedin.com/jobs/view/3122139702)
         ,
