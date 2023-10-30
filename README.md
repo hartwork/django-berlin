@@ -1361,6 +1361,10 @@ Something is missing?  Create a pull request!
         [github](https://github.com/sennder)
         ,
         [jobs](https://sennder.heavenhr.com/jobs)
+    * [Sherpany Deutschland GmbH](https://www.sherpany.com/) (100% remote) —
+        [proof](https://sherpany.breezy.hr/p/b518332288ee01-senior-full-stack-engineer-front-end-heavy-europe)
+        ,
+        [jobs](https://www.sherpany.com/en/careers/open-positions/)
     * [Shore GmbH](https://www.shore.com/) —
         [proof](https://www.simplyhired.de/job/acVgBlkmbRDEl6d0ueU0cXwqQuiJhNqT_ZRxmnBx0fcLzFCiR8yXEw)
         ,
