@@ -879,6 +879,12 @@ Something is missing?  Create a pull request!
         [proof](https://de.linkedin.com/jobs/view/back-end-developer-at-konetik-1616511617)
         ,
         [github](https://github.com/iotlabsltd)
+    * [Konfuzio (Helm & Nagel GmbH)](https://konfuzio.com/) (100% remote) —
+        [proof](https://www.simplyhired.de/job/Otd7-zUhG4ElmqXyJM5M_mqxIE4tq1--0mje308y8jB3YUhC0rRehQ)
+        ,
+        [github](https://github.com/konfuzio-ai)
+        ,
+        [jobs](https://konfuzio.com/de/jobs/)
     * [Kreatize GmbH](https://kreatize.com/) —
         [proof](https://www.simplyhired.de/job/yj5ti7U63pZLoRKETpGZe9btw3PNUpk5iUlyuTIR3joOUSZC1rOFsg)
         ,
