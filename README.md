@@ -1176,6 +1176,10 @@ Something is missing?  Create a pull request!
         [github](https://github.com/plentific)
         ,
         [jobs](https://plentific.com/careers/)
+    * [PMC Project Management & Consulting Services GmbH](https://www.pmc-services.de/) (100% remote) —
+        [proof](https://pmc-services.softgarden.io/job/37253650/-Lead-Backend-Developer-m-w-d-?l=de)
+        ,
+        [jobs](https://www.pmc-services.de/jobs/)
     * [polit-X (Hauptstädtische Verlags- & Beratungsgesellschaft HBVG mbH)](https://polit-x.de/) —
         [proof](https://polit-x.de/de/jobs/offer/11/entwicklungit-full-stack-developer-mwd)
         ,
