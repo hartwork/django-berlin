@@ -926,6 +926,10 @@ Something is missing?  Create a pull request!
         [proof](https://www.simplyhired.de/job/4p_kc-bC1ZVqDuBjdffqRdzmfVZsC4UpXOn-cEgdcsK0FMn7-BiErQ)
     * [Localiser RLI GmbH](https://www.localiser.de/) —
         [proof](https://www.xing.com/jobs/berlin-programmierer-86622376)
+    * [Lomavis (Lomalab Technologies GmbH)](https://lomavis.com/) (100% remote) —
+        [proof](https://lomavis.com/karriere/python-full-stack-developer-django)
+        ,
+        [jobs](https://lomavis.com/ressourcen/karriere)
     * [Lumenaza GmbH](https://www.lumenaza.de/) —
         [proof](https://www.lumenaza.de/media/filer_public/05/dc/05dc69ca-a821-4741-8d26-a036d8c7c468/170519_stellenausschreibung_entwickler.pdf)
         ,
