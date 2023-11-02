@@ -1070,6 +1070,10 @@ Something is missing?  Create a pull request!
         [proof](https://nextmatter.bamboohr.com/jobs/view.php?id=27)
         ,
         [jobs](https://nextmatter.com/careers/)
+    * [Nuvisan GmbH](https://www.nuvisan.de/) —
+        [proof](https://nuvisan.softgarden.io/job/35428711/Full-Stack-Software-Developer-DevOps-Engineer-f-m-d-?l=en)
+        ,
+        [jobs](https://nuvisan.softgarden.io/en/vacancies)
 * __O__
     * [Oculid UG](http://www.oculid.com/) —
         [proof](https://www.simplyhired.de/job/LvhGcbd6tiDGJGu0R8NTzaeDQ5vbVPMNZnHRFGs5BrUQGfZNYYo8wQ)
