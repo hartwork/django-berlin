@@ -405,6 +405,10 @@ Something is missing?  Create a pull request!
         [github](https://github.com/colormass)
         ,
         [jobs](http://colormass.com/jobs/)
+    * [committance AG](https://www.committance.com/) (100% remote) —
+        [proof](https://www.committance.com/jobs/python-und-django-developer)
+        ,
+        [jobs](https://www.committance.com/jobs)
     * [Common Sense Intelligence GmbH](https://www.cs-intelligence.com/) —
         [proof](https://www.linkedin.com/jobs/view/2533150606)
     * [Concular GmbH](https://concular.de/) —
