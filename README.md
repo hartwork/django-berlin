@@ -1502,6 +1502,10 @@ Something is missing?  Create a pull request!
         [proof](https://www.studysmarter.de/karriere/backend-engineer/)
         ,
         [jobs](https://www.studysmarter.de/karriere/)
+    * [Summ AI GmbH](https://summ-ai.com/) (100% remote) —
+        [proof](https://www.linkedin.com/jobs/view/backend-full-stack-developer-d-f-m-django-react-at-summ-ai-3749012737/)
+        ,
+        [jobs](https://www.linkedin.com/company/summ-ai/jobs/)
     * [SumUp Payments Limited](https://sumup.com/) —
         [proof](https://www.xing.com/jobs/berlin-front-end-developer-57099796)
         ,
