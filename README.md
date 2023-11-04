@@ -581,6 +581,12 @@ Something is missing?  Create a pull request!
         [github](https://github.com/evana-ag)
         ,
         [jobs](https://evana.ai/karriere/)
+    * [Eventbrite Inc.](https://www.eventbrite.com/) (100% remote) —
+        [proof](https://www.eventbritecareers.com/jobs/senior-software-engineer-remote-spain-e0d24d41-e973-41a9-b46d-9749a07bdfdd)
+        ,
+        [github](https://github.com/eventbrite)
+        ,
+        [jobs](https://www.eventbritecareers.com/)
     * [Evernest GmbH](https://www.evernest.com/) —
         [proof](https://web.evernest.com/karriere/002-backend-engineer-python)
         ,
