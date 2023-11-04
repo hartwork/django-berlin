@@ -1355,6 +1355,12 @@ Something is missing?  Create a pull request!
         [proof](https://www.meetup.com/django-user-group-berlin/messages/boards/thread/46622052)
         ,
         [github](https://github.com/sapiu)
+    * [Scandit AG](https://www.scandit.com/) (100% remote) —
+        [proof](https://www.scandit.com/careers/job-description/?gh_jid=5131286)
+        ,
+        [github](https://github.com/Scandit)
+        ,
+        [jobs](https://www.scandit.com/de/careers/current-openings/)
     * [Scholz & Volkmer GmbH](https://www.s-v.de/) —
         [proof](https://www.s-v.de/de/jobs/senior-backend-developer-wm-5a26d2d6106c870047d46f85/)
         ,
