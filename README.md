@@ -1710,6 +1710,10 @@ Something is missing?  Create a pull request!
         ,
         [jobs](https://www.vyble.io/karriere/)
 * __W__
+    * [Wasteer GmbH](https://www.wasteer.de/) —
+        [proof](https://www.linkedin.com/jobs/view/3761082707/)
+        ,
+        [jobs](https://wasteer.notion.site/Job-Board-50a68c469df143cfa25b9a75827dde8a)
     * [wayvs GmbH](https://www.wayvs.app/) —
         [proof](https://www.simplyhired.de/job/OLGlSFuFubonrJXGxbe8AuKmJhk9x1ODO-aJfszspl9ReZIv_qYM0w)
     * [WBS Training AG](https://www.wbs-gruppe.de/) —
