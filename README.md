@@ -705,6 +705,12 @@ Something is missing?  Create a pull request!
         [proof](https://glassdollar.com/hiring-product-engineer)
         ,
         [jobs](https://glassdollar.com/co-creating)
+    * [Global Disinformation Index (GDI)](https://www.disinformationindex.org/) (100% remote) —
+        [proof](https://www.simplyhired.de/job/0IL0zzJJUxOSwHumI85aHbbqsiq6NqP5_uOiGBOm1FmS8xBZJ-aU9w)
+        ,
+        [github](https://github.com/disinformation-index)
+        ,
+        [jobs](https://www.disinformationindex.org/careers/)
     * [Glooko Inc.](https://glooko.com/) —
         [proof](https://glooko.com/careers/job-listing?id=3768438)
         ,
