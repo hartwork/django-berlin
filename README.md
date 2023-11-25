@@ -752,6 +752,10 @@ Something is missing?  Create a pull request!
         [proof](https://www.harting.com/CAREER/de/jobs?jh=cchhke12kgm7faopcgbp6qzym4vva2x)
         ,
         [jobs](https://www.harting.com/CAREER/de/jobs)
+    * [heatbeat engineering GmbH](https://heatbeat.de/) (100% remote) —
+        [proof](https://static-files-hbe-production.s3.amazonaws.com/media/public/2023-11-Ausschreibung_WebDev_en.pdf)
+        ,
+        [jobs](https://heatbeat.de/en/careers/)
     * [Heinrich-Hertz-Institut (Fraunhofer HHI)](https://www.hhi.fraunhofer.de/) —
         [proof](https://jobs.fraunhofer.de/job/Berlin-Senior-Software-Entwicklerin-10587/999057301/)
         ,
