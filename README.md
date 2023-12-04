@@ -931,6 +931,10 @@ Something is missing?  Create a pull request!
         [proof](https://angel.co/company/kupfer-software/jobs/592017-engineering-lead)
         ,
         [jobs](https://angel.co/company/kupfer-software/jobs)
+    * [kuyua GmbH](https://www.kuyua.com/) (100% remote) —
+        [proof](https://www.linkedin.com/jobs/view/3777525570/)
+        ,
+        [jobs](https://www.linkedin.com/company/kuyua/jobs/)
 * __L__
     * [(The) Landbanking Group GmbH](https://thelandbankinggroup.com/) —
         [proof](https://thelandbankinggroup.recruitee.com/o/senior-software-engineer-mfx-2)
