@@ -82,6 +82,10 @@ Something is missing?  Create a pull request!
         [github](https://github.com/acolorbright)
         ,
         [jobs](https://www.acolorbright.com/en/join-us)
+    * [aconium GmbH](https://aconium.eu/) —
+        [proof](https://aconium.eu/project/softwareentwicklerin-python/)
+        ,
+        [jobs](https://aconium.eu/das-unternehmen/karriere/)
     * [Actio (Happy Habits Solution GmbH)](https://actio.com/) —
         [proof](https://de.jooble.org/desc/-1655743389678961635)
         ,
