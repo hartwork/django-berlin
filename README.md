@@ -1330,6 +1330,10 @@ Something is missing?  Create a pull request!
         [github](https://github.com/Ramboll)
         ,
         [jobs](https://ramboll.com/careers)
+    * [Rausgegangen GmbH](https://rausgegangen.de/) (100% remote) —
+        [proof](https://rausgegangen.jobs.personio.de/job/1364037)
+        ,
+        [jobs](https://rausgegangen.de/en/jobs/)
     * [RecTag UG](https://rectag.eu/) —
         [proof](https://de.indeed.com/Zeige-Job?jk=f923e5bd5dd4d8f9)
     * [Reelport GmbH](https://www.reelport.com/) —
