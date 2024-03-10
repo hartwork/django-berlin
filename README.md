@@ -1629,6 +1629,10 @@ Something is missing?  Create a pull request!
         [jobs](https://tonies.com/de-de/jobs-en/)
     * [Tracebloc GmbH](https://www.tracebloc.io/) —
         [proof](https://www.xing.com/jobs/berlin-sr-python-backend-engineer-5y-64941125)
+    * [Tracify GmbH](https://www.tracify.ai/) (100% remote) —
+        [proof](https://tracify.jobs.personio.com/job/1407483?display=en)
+        ,
+        [jobs](https://www.tracify.ai/careers)
     * [Tracks GmbH](https://www.tracksfortrucks.com/) —
         [proof](https://careers.tracksfortrucks.com/jobs/280143-python-javascript-fullstack-developer-m-f-d)
         ,
