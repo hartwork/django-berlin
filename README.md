@@ -1238,6 +1238,10 @@ Something is missing?  Create a pull request!
         [github](https://github.com/PitcherAG)
         ,
         [jobs](https://www.pitcher.com/careers)
+    * [Plan D GmbH](https://www.plan-d.com/) —
+        [proof](https://plandgmbh.recruitee.com/o/python-engineer-django)
+        ,
+        [jobs](https://www.plan-d.com/de/karriere)
     * [Planet Labs Inc.](https://www.planet.com/) —
         [proof](https://www.planet.com/company/careers/?office=View%20All&department=Software%20Engineering&job=1610436)
         ,
