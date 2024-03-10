@@ -538,6 +538,10 @@ Something is missing?  Create a pull request!
         [jobs](https://dubsmash.com/jobs)~
     * [DuDeChem GmbH](https://www.dudechem.com/) —
         [proof](https://www.simplyhired.de/job/FZOHOKGgBm-HYis-jJEtfIigKODFNykIbYvZOPP4K1yrtKmY3zBt7A)
+    * [dvlp.energy GmbH](https://www.dvlp.energy/) —
+        [proof](https://www.dvlp.energy/job/software-engineer)
+        ,
+        [jobs](https://www.dvlp.energy/jobs)
 * __E__
     * [Eberlein und Kunz GbR](http://eberlein-und-kunz-gbr.de/) —
         [proof](https://www.simplyhired.de/job/lCIEn7DzlAfpj8CU45PGVjf29O0tHqSP4dGcfOFtk0w8BdN4_8BsDg)
