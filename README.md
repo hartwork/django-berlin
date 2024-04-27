@@ -337,7 +337,7 @@ Something is missing?  Create a pull request!
     * ~[Dubsmash (Mobile Motion GmbH)](https://dubsmash.com/) —
         [proof](https://www.linkedin.com/in/tim-specht#experience)
         ,
-        [github](https://github.com/dubsmash)
+        [github](https://github.com/dubsmash)~
     * [DuDeChem GmbH](https://www.dudechem.com/) —
         [proof](https://www.simplyhired.de/job/FZOHOKGgBm-HYis-jJEtfIigKODFNykIbYvZOPP4K1yrtKmY3zBt7A)
     * [dvlp.energy GmbH](https://www.dvlp.energy/) —
@@ -423,7 +423,7 @@ Something is missing?  Create a pull request!
         ,
         [github](https://github.com/Formlabs)
     * ~[Fraend GmbH](https://www.fraend.com/) —
-        [proof](https://angel.co/fraend/jobs/546163-senior-software-engineer-django)
+        [proof](https://angel.co/fraend/jobs/546163-senior-software-engineer-django)~
     * [FragDenStaat](https://fragdenstaat.de/) —
         [proof](https://fragdenstaat.de/info/ueber/jobs-mitmachen/)
         ,
@@ -477,11 +477,11 @@ Something is missing?  Create a pull request!
         [proof](https://jobs.grover.com/o/backend-developer-mwd)
 * __H__
     * ~[Hades Technologies Ltd.](https://www.hades.ai/) —
-        [proof](https://apply.workable.com/hades/j/4755C16D55/)
+        [proof](https://apply.workable.com/hades/j/4755C16D55/)~
     * [Hardskills GmbH](https://hardskills.com/) —
         [proof](https://hardskills.com/careers/senior-backend-engineer-core-platform-python-django-berlin)
     * ~[Harper (Marvin GmbH)](https://www.trustharper.com/) —
-        [proof](https://www.jobfluent.com/jobs/junior-full-stack-python-developer-berlin-81414d)
+        [proof](https://www.jobfluent.com/jobs/junior-full-stack-python-developer-berlin-81414d)~
     * [Harting Stiftung & Co. KG](https://www.harting.com/) —
         [proof](https://www.harting.com/CAREER/de/jobs?jh=cchhke12kgm7faopcgbp6qzym4vva2x)
     * [heatbeat engineering GmbH](https://heatbeat.de/) (100% remote) —
@@ -505,7 +505,7 @@ Something is missing?  Create a pull request!
     * [HPS Home Power Solutions GmbH](http://www.homepowersolutions.de/) —
         [proof](https://jobsinberlin.de/jobs/werkstudent-als-webdeveloper-im-vertrieb-berlin?jobid=1177994)
     * ~[House of gigs](https://houseofgigs.io/) —
-        [proof](https://jobs.smartrecruiters.com/houseofgigs/743999677981503-software-engineer)
+        [proof](https://jobs.smartrecruiters.com/houseofgigs/743999677981503-software-engineer)~
     * [Humanitec GmbH](https://humanitec.com/) —
         [proof](https://github.com/Humanitec/django-oauth-toolkit-jwt)
         ,
@@ -536,7 +536,7 @@ Something is missing?  Create a pull request!
     * ~[Inventorum GmbH](https://inventorum.com/) —
         [proof](https://inventorum.com/wp-content/uploads/2018/04/Experienced_Backend_Developer_2018.pdf)
         ,
-        [github](https://github.com/Inventorum)
+        [github](https://github.com/Inventorum)~
     * [Iponweb Limited](https://www.iponweb.com/) —
         [proof](https://www.iponweb.com/careers/631/)
         ,
@@ -551,7 +551,7 @@ Something is missing?  Create a pull request!
         ,
         [github](https://github.com/jobpal)
     * ~[Jobspotting (SmartRecruiters GmbH)](https://jobspotting.com/) —
-        [proof](https://jobspotting.com/admin/)
+        [proof](https://jobspotting.com/admin/)~
     * [Jonas & der Wolf](https://www.jonasundderwolf.de/) —
         [proof](https://www.djangoproject.com/foundation/corporate-members/)
         ,
@@ -572,7 +572,7 @@ Something is missing?  Create a pull request!
         ,
         [github](https://github.com/kayak)
     * ~[Kelvyn Systems Monitoring GmbH](https://www.kelvyn.de/) —
-        [proof](https://kelvyn.recruitee.com/o/tech-co-founder-cto-senior-software-engineer-fmd)
+        [proof](https://kelvyn.recruitee.com/o/tech-co-founder-cto-senior-software-engineer-fmd)~
     * [Kitchenful](http://kitchenful.com/) —
         [proof](https://www.simplyhired.de/job/P-CXrRafDB7a3_zW4LwXURyOlRQQn5Leaaxr44Qzn3_8KptciIl4KQ)
     * [Kitchen Stories (AJNS New Media GmbH)](https://www.kitchenstories.com/) —
@@ -596,7 +596,7 @@ Something is missing?  Create a pull request!
     * [Kulturprojekte Berlin GmbH](https://www.kulturprojekte.berlin/) —
         [proof](https://www.kulturprojekte.berlin/job/praktikum-mit-dem-schwerpunkt-kulturfoerderung-im-berliner-beratungszentrum-fuer-kulturfoerderung-und-kreativwirtschaft/)
     * ~[Kupfer Software GmbH](https://www.kupfer-software.de/) —
-        [proof](https://angel.co/company/kupfer-software/jobs/592017-engineering-lead)
+        [proof](https://angel.co/company/kupfer-software/jobs/592017-engineering-lead)~
     * [kuyua GmbH](https://www.kuyua.com/) (100% remote) —
         [proof](https://www.linkedin.com/jobs/view/3777525570/)
 * __L__
@@ -605,7 +605,7 @@ Something is missing?  Create a pull request!
     * [lawpilots GmbH](https://lawpilots.com/) —
         [proof](https://stackshare.io/lawpilots/lawpilots-com)
     * ~[Leaf Labs GmbH](https://www.leaflabs.eu/) —
-        [proof](https://leaflabs.join.com/jobs/1816703-junior-full-stack-engineer)
+        [proof](https://leaflabs.join.com/jobs/1816703-junior-full-stack-engineer)~
     * [lemon.markets GmbH](https://lemon.markets/) —
         [proof](https://www.xing.com/jobs/berlin-senior-backend-developer-66516482)
         ,
@@ -813,7 +813,7 @@ Something is missing?  Create a pull request!
     * ~[ProfitBricks GmbH](https://www.profitbricks.de/) —
         [proof](https://profitbricks.softgarden.io/job/1211128/?l=de)
         ,
-        [github](https://github.com/profitbricks)
+        [github](https://github.com/profitbricks)~
     * [Prospeum GmbH](https://prospeum.com/) (100% remote) —
         [proof](https://join.com/companies/prospeum/6790061-senior-backend-django-developer-fulltime-m-f-d)
     * [Pulilab](http://www.pulilab.com/) —
