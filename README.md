@@ -21,28 +21,18 @@ Something is missing?  Create a pull request!
         [proof](https://neuvoo.de/view/?id=531b98ba8ad0)
         ,
         [github](https://github.com/ionos-enterprise/)
-        ,
-        [jobs](https://jobs.ionos.de/?linkId=hd.more.jobs)
     * [123makler (ewit GmbH)](https://www.123makler.de/) —
         [proof](https://www.simplyhired.de/job/YT7_OMNpEi1NBIlMwlTlK8m6FxEKePwSOCSDjanKExSQZ88YxNTPnQ)
         ,
         [github](https://github.com/123makler)
-        ,
-        [jobs](https://www.123makler.de/karriere/)
     * [2txt – natural language generation GmbH](https://2txt.de/) —
         [proof](http://berlinstartupjobs.com/de/engineering/backend-software-developer-2txt-nlg-gmbh/)
-        ,
-        [jobs](https://2txt.de/jobs/)
     * [3S Antriebe GmbH](https://3s-antriebe.de/) —
         [proof](https://www.xing.com/jobs/berlin-werk-stu-dent-soft-ware-ent-wick-lung-48885586)
-        ,
-        [jobs](https://www.3s-antriebe.de/ueber-uns/karriere/)
     * [3yourmind GmbH](https://www.3yourmind.com/) —
         [proof](https://www.3yourmind.com/career/django-engineer)
         ,
         [github](https://github.com/3YOURMIND)
-        ,
-        [jobs](https://www.3yourmind.com/career)
     * [42reports GmbH (Dilax Intelcom GmbH)](https://www.42reports.com/) —
         [proof](https://news.ycombinator.com/item?id=8822940)
         ,
@@ -51,603 +41,375 @@ Something is missing?  Create a pull request!
         [proof](https://www.simplyhired.de/job/2d9PpTkS9M9_ENiLATb3nFhI_KO1LfJjSQrCF_gL2OnLkmg9fpe5dw)
         ,
         [github](https://github.com/7Learnings)
-        ,
-        [jobs](https://7learnings.com/career/)
     * [8fit GmbH](https://8fit.com) —
         [proof](https://www.facebook.com/berlinstartupjobs/posts/1606458446068530)
         ,
         [github](https://github.com/8fit)
-        ,
-        [jobs](https://8fit.com/careers/)
 * __A__
     * [aam it GmbH](https://www.aam-it.eu/de/) —
         [proof](https://www.aam-it.eu/de/karriere/stellenangebote/details/senior-python-entwickler-m-w-msa.html)
-        ,
-        [jobs](https://www.aam-it.eu/de/karriere/stellenangebote.html)
     * [Ableton AG](https://www.ableton.com/) —
         [proof](https://www.ableton.com/en/jobs/apply/220553/)
         ,
         [github](https://github.com/Ableton)
-        ,
-        [jobs](https://www.ableton.com/de/jobs/)
     * [Abstract Technology GmbH](https://abstract-technology.de/) —
         [proof](https://stellenangebot.monster.de/frontend-als-auch-backend-entwickler-berlin-berlin-de-abstract-technology-gmbh/97049fe2-e125-4a4f-9a45-2109fbdaef37)
         ,
         [github](https://github.com/Abstract-Tech)
-        ,
-        [jobs](https://abstract-technology.de/unternehmen/unserteam/Karriere)
     * [A Color Bright GmbH](https://www.acolorbright.com/) —
         [proof](https://www.acolorbright.com/jobs/developer/)
         ,
         [github](https://github.com/acolorbright)
-        ,
-        [jobs](https://www.acolorbright.com/en/join-us)
     * [aconium GmbH](https://aconium.eu/) —
         [proof](https://aconium.eu/project/softwareentwicklerin-python/)
-        ,
-        [jobs](https://aconium.eu/das-unternehmen/karriere/)
     * [Actio (Happy Habits Solution GmbH)](https://actio.com/) —
         [proof](https://de.jooble.org/desc/-1655743389678961635)
-        ,
-        [jobs](https://stackoverflow.com/jobs/companies/actio)
     * [Acto GmbH](https://actogmbh.com/) (100% remote) —
         [proof](https://join.com/companies/acto/9632146-python-data-engineer-or-full-time-open-ended-all-genders-as-soon-as-possible)
-        ,
-        [jobs](https://join.com/companies/acto)
     * Actonlytics (part of [itembase GmbH](https://www.itembase.com/)) —
         [proof](https://www.rockitdigital.de/full-stack-developer-web-developer-python-django-for-actonlytics-berlin-8a892fe02d)
     * [Ada Health GmbH](https://ada.com/) —
         [proof](https://ada.com/careers/job/?id=6065766002)
         ,
         [github](https://github.com/adahealth)
-        ,
-        [jobs](https://ada.com/careers/)
     * [adelphi consult GmbH / adelphi research gGmbH](https://www.adelphi.de/) —
         [proof](https://careers.adelphi.de/jobposting/b699be38dcd5a4a9035ed80328d6d39a765b2c45)
-        ,
-        [jobs](https://www.adelphi.de/de/profil/karriere/stellenangebote)
     * [adjust GmbH](https://www.adjust.com/) —
         [proof](https://boards.greenhouse.io/adjust/jobs/4210344002)
         ,
         [github](https://github.com/adjust)
-        ,
-        [jobs](https://www.adjust.com/company/careers)
     * [Advertima AG](https://www.advertima.com/) —
         [proof](https://advertima.softgarden.io/job/4891238?l=en)
         ,
         [github](https://github.com/advertima)
-        ,
-        [jobs](https://www.advertima.com/company/career-opportunity/)
     * [AFTS UG](https://afts.biz/) —
         [proof](https://stellenangebot.monster.de/junior-full-stack-developer-mit-interesse-an-blockchain-berlin-berlin-de-afts-ug/353161f6-f11d-454d-a913-2befdf7c979e)
-        ,
-        [jobs](https://afts.biz/#jobs)
     * [agile42 GmbH](https://www.agile42.com/de/) —
         [proof](https://www.pycon.it/media/conference/slides/out-of-sight-out-of-mind-survival-tricks-and-tools-for-remote-developers.pdf)
         ,
         [github](https://github.com/agile42com)
-        ,
-        [jobs](https://www.agile42.com/en/career)
     * [Aidorando GmbH](https://aidorando.com/) —
         [proof](https://www.simplyhired.de/job/x-IheF1juicc6vviEGX3Ikb8zEvmUYhqHXNKHfa-hhrcA4vUtFVdig)
     * [Airbus S.A.S.](https://www.airbus.com/) —
         [proof](https://www.airbus.com/careers/search-and-apply/search-for-vacancies/job-detail.html?uuid=856)
         ,
         [github](https://github.com/AirbusRecruitment)
-        ,
-        [jobs](https://www.airbus.com/careers.html)
     * [Airteam Aerial Intelligence GmbH](https://www.airteam.ai/) —
         [proof](https://airteam.heavenhr.com/jobs/_Bx5Kb0LBugj5GJsavA0yUw_/apply)
-        ,
-        [jobs](https://airteam.heavenhr.com/jobs)
     * [Akelius GmbH](https://www.akelius.com/) —
         [proof](https://stackoverflow.com/jobs/304001/devops-engineer-network-experience-male-akelius-gmbh)
-        ,
-        [jobs](https://www.akelius.com/en/career/position)
     * [Align Technology GmbH](https://www.aligntech.com/) —
         [proof](https://jobs.aligntech.com/jobs/34961)
         ,
         [github](https://github.com/aligntech)
-        ,
-        [jobs](https://jobs.aligntech.com/jobs?keywords=django&location=berlin)
     * [Alpaca Technology, Inc.](https://www.alpaca.technology/) —
         [proof](https://www.alpaca.technology/careers/automator-python-back-end/)
-        ,
-        [jobs](https://www.alpaca.technology/careers)
     * [Alphabet Type GmbH](https://www.alphabet-type.com/) —
         [proof](https://www.alphabet-type.com/admin/login/?next=/admin/)
         ,
         [github](https://github.com/AlphabetType)
     * [Amaris Consulting (Amaris Group SA)](https://www.amaris.com/) —
         [proof](https://careers.amaris.com/amaris-careers-page/home/home-page-v2/job-offer-overview1/job-offer-detail1?jobId=18757)
-        ,
-        [jobs](https://careers.amaris.com/)
     * [Amazon Deutschland Services GmbH](https://smile.amazon.de/) —
         [proof](https://www.amazon.jobs/de/jobs/761817/business-intelligence-internships-start-summer-fall)
         ,
         [github](https://github.com/amzn)
-        ,
-        [jobs](https://www.amazon.jobs/de/search?base_query=django&loc_query=berlin&country=DEU&city=Berlin&region=Berlin&county=Berlin)
     * [Ambient Innovation GmbH](https://ambient.digital/) —
         [proof](https://ambient.digital/menschen/talente/pythonwebentwicklerin-remote-wmd/)
-        ,
-        [jobs](https://ambient.digital/menschen/talente/)
     * [Ammonit Measurement GmbH](https://www.ammonit.com/) —
         [proof](https://www.ammonit.com/en/ammonit/career)
-        ,
-        [jobs](https://www.ammonit.com/en/about-us/career/)
     * [Amnesty International Deutschland e. V.](https://www.amnesty.de/) —
         [proof](https://amnesty.jobbase.io/job/l99sgfpn)
         ,
         [github](https://github.com/AmnestyInternational)
-        ,
-        [jobs](https://www.amnesty.de/amnesty/jobs-ausschreibungen)
     * [Appmelder (WLT We Love Trees UG)](https://www.appmelder.de/) —
         [proof](https://www.xing.com/jobs/berlin-werkstudent-python-django-entwicklung-legal-tech-baeume-retten-69835649)
     * [Apryl (Oviavo GmbH)](https://get-apryl.com/) —
         [proof](https://www.simplyhired.de/job/WoN-XS02M9pSdv0FqmDPKhfXPZgS34aVFASgrZbKynz4AS2sqwvzdw)
-        ,
-        [jobs](https://apryl.co/careers/)
     * [Architrave GmbH](https://www.architrave.de/) —
         [proof](https://architrave.bamboohr.co.uk/jobs/view.php?id=69)
         ,
         [github](https://github.com/architrave-de)
-        ,
-        [jobs](https://career.architrave.de/)
     * [Ariana Digital Health Solutions GmbH](https://hiariana.com/) —
         [proof](https://de.jooble.org/desc/-2582901826609927421)
-        ,
-        [jobs](https://ariana-health.breezy.hr/)
     * [Artory GmbH](https://www.artory.com/) —
         [proof](https://news.ycombinator.com/item?id=17225311)
         ,
         [github](https://github.com/Artory)
-        ,
-        [jobs](https://artory.workable.com/)
     * [AssistMe (Assistr Digital Health Systems GmbH)](https://www.assistme.io/) —
         [proof](https://www.linkedin.com/in/nourchawich/)
         ,
         [github](https://github.com/Assistr)
-        ,
-        [jobs](https://www.assistme.io/karriere/)
     * [atene KOM GmbH](https://atenekom.eu/) —
         [proof](https://dasauge.de/jobs/stellenangebote/fest/e508593)
-        ,
-        [jobs](https://atenekom.eu/das-unternehmen/karriere/)
     * [AtomLeap GmbH](https://www.atomleap.com/) —
         [proof](https://www.xing.com/jobs/berlin-full-stack-software-engineer-43432855)
     * [Audeering GmbH](https://www.audeering.com/) —
         [proof](https://www.simplyhired.de/job/XJaPSFouT7GbBWT3X5auyXbadnfDcv4yIILJE5pU3qBgT5-EJ-1ujQ)
         ,
         [github](https://github.com/audeering)
-        ,
-        [jobs](https://www.audeering.com/who-we-are/career/)
     * [Auto1 Group GmbH](https://www.auto1-group.com/) —
         [proof](https://www.auto1-group.com/de/jobs/job-senior-business-engineer-logistics-d-f-m-7185/)
         ,
         [github](https://github.com/auto1-oss)
-        ,
-        [jobs](https://www.auto1-group.com/de/jobs/?locations=Berlin)
     * [Auxolar GmbH](https://www.auxolar.de/) —
         [proof](https://auxolar.recruitee.com/o/back-end-engineer-mfd)
-        ,
-        [jobs](https://auxolar.de/ueber-uns/karriere/)
     * [Avantgarde Gesellschaft für Kommunikation MbH](https://avantgarde.net/) —
         [proof](https://www.bebee.com/de/job/senior-python-django-backend-30894995)
-        ,
-        [jobs](https://avantgarde.net/careers/jobs/stellenangebote.html)
     * [avodaq AG](https://www.avodaq.com/) —
         [proof](https://avodaq.softgarden.io/job/4057332)
-        ,
-        [jobs](https://www.avodaq.com/de/#jobs/jobangebote)
 * __B__
     * [Babbel (Lesson Nine GmbH)](https://www.babbel.com/) —
         [proof](https://de.indeed.com/Zeige-Job?jk=f3dda0abaad6398a)
         ,
         [github](https://github.com/babbel)
-        ,
-        [jobs](https://jobs.babbel.com/en/)
     * [Back Market (Jung SAS)](https://www.backmarket.de/) —
         [proof](https://www.welcometothejungle.com/en/companies/back-market/tech)
         ,
         [github](https://github.com/BackMarket)
-        ,
-        [jobs](https://www.backmarket.de/wir-stellen-ein.html)
     * [BankenScore (Glenside Internet GmbH)](https://www.bankenscore.de/) —
         [proof](https://bankenscore.join.com/jobs/35770-senior-python-developer)
-        ,
-        [jobs](https://www.bankenscore.de/karriere)
     * [Barycenter Technologies UG (BaryTech)](https://www.barytech.com/) —
         [proof](https://www.simplyhired.de/job/otCsFOYgsg0d_S2MmncD_FamQku90o3fBWQcDtMqV-uBwKl06osKdw)
-        ,
-        [jobs](https://www.barytech.com/career-at-barytech/)
     * [BaseCase (Certara Germany GmbH)](https://basecase.com/) —
         [proof](https://basecasecareers.recruiterbox.com/jobs/fk01x71/)
         ,
         [github](https://github.com/BaseCaseGmbH)
-        ,
-        [jobs](https://basecase.com/company/careers)
     * [BBQ – Baumann Bildung und Qualifizierung GmbH](https://www.bbq.de/) —
         [proof](https://www.bbq.de/ueber-bbq/arbeiten-bei-bbq/dozent-programmierung-python/)
-        ,
-        [jobs](https://www.bbq.de/ueber-bbq/arbeiten-bei-bbq/)
     * [Ben (Thanks Ben Ltd.)](https://www.thanksben.com/) —
         [proof](https://careers.thanksben.com/jobs/1488224-frontend-developer)
-        ,
-        [jobs](https://careers.thanksben.com/jobs)
     * [Ben Fleet Services GmbH](https://www.benfleetservices.com/) —
         [proof](https://ben-fleet-services-gmbh.jobs.personio.de/job/305720)
-        ,
-        [jobs](https://ben-fleet-services-gmbh.jobs.personio.de/)
     * [Benocs GmbH](https://www.benocs.com/) —
         [proof](https://www.simplyhired.de/job/eeW8HwiBUe7eca_iKCjMTB5o9XQLoHi7KOW_zdDl3PQOw4ayzKpVsQ)
-        ,
-        [jobs](https://www.benocs.com/career/)
     * [Berylls Strategy Advisors GmbH](https://www.berylls.com/) —
         [proof](https://berylls.jobs.personio.de/job/356278)
-        ,
-        [jobs](https://berylls.jobs.personio.de/)
     * [Betterguards Technology GmbH](https://betterguards.de/) —
         [proof](https://www.simplyhired.de/job/AoMJkqzMGhM5IkcSqzs0ILnfs0Ipa9nq0JBiekQX-TsfDVIw2a4D4Q)
-        ,
-        [jobs](https://betterguards.de/en/contact/)
     * [Bettermarks GmbH](https://bettermarks.com/) —
         [proof](https://www.simplyhired.de/job/x79rZIOZ4XZKFacDXrODh6m95wFrufar0dB0DuZQMjlNZv0kE_U2KQ)
         ,
         [github](https://github.com/bettermarks)
-        ,
-        [jobs](https://de.bettermarks.com/jobs/)
     * [Big Picture GmbH](http://www.big-picture.de/) —
         [proof](https://www.simplyhired.de/job/C5y82ivRB1K_nvq48JwLen2i06ZHrsWvrhTN5BGABHv3uAv6RN6n1w)
     * [Bit Capital GmbH](https://bitcap.com/) —
         [proof](https://ioniq.com/careers/data-engineer-m-f-d-bit-capital/a12e9ed6-4a06-4651-89bd-6ba8e2a2f9fe/)
-        ,
-        [jobs](https://bitcap.com/careers/)
     * [Blindside HB GmbH](https://www.blindside.pro/) —
         [proof](https://www.simplyhired.de/job/WdVSzKBM-DC5nbn7xCqJqoqUBqbqMGO2wRzOplFzcQFUdwrzY3qeVA)
     * [Blueshoe GmbH](https://www.blueshoe.de/) —
         [proof](https://www.blueshoe.de/jobs/python-entwickler/)
         ,
         [github](https://github.com/Blueshoe)
-        ,
-        [jobs](https://www.blueshoe.de/jobs/)
     * [Bold Business Group](https://www.boldbusiness.com/) —
         [proof](https://jobs.lever.co/boldbusiness/88868c53-4d9c-4bfb-b018-70a171ca033c)
-        ,
-        [jobs](https://www.boldbusiness.com/careers/)
     * [Bonial International GmbH](https://www.bonial.com/) —
         [proof](https://stackoverflow.com/jobs/390255/senior-python-engineer-m-f-d-bonial-international-gmbh)
         ,
         [github](https://github.com/bonial)
-        ,
-        [jobs](https://www.bonial.com/de/karriere/)
     * [Botanicly GmbH](https://www.botanicly.de/) —
         say "no" to unpaid internships! —
         [proof](https://www.simplyhired.de/job/Db0ZUkDJAC11JDPV9nUreVs8GQj-1O3SV82W6Dx3wKyR4lsInC_dlw)
-        ,
-        [jobs](https://botanicly.join.com/)
     * [BP Mediawork GmbH](https://www.bpmediawork.de/) —
         [proof](https://www.simplyhired.de/job/DVuhihJzZTzNaUCaIiBeMv-XwX6IkDll3H0alWacJYxYkMZ4upQCUA)
-        ,
-        [jobs](https://www.bpmediawork.de/jobs/)
     * [BugShell GmbH](https://www.bugshell.com/) —
         [proof](https://www.simplyhired.de/job/tr1BL2Yurw0Lco9qSz9nxdEK6_R56EMaTlRjz3Fv4Q4nyK6r1Qyd3w)
-        ,
-        [jobs](https://www.bugshell.com/career.html)
     * [BVCD Service GmbH (Bundesverbandes der Campingwirtschaft in Deutschland e.V.)](https://www.bvcd.de/) —
         [proof](https://www.simplyhired.de/job/Vipr3QUBv6GAT2egdK4KiwA9JmScEAvCzdTf38FUiyF3w0WiLb3Vfg)
-        ,
-        [jobs](https://www.bvcd.de/leistungen/stellenboerse.html)
 * __C__
     * [Camping.info GmbH](https://camping.info/) —
         [proof](https://de.indeed.com/Zeige-Job?jk=8988934b627ffad8)
     * [Cara Care (HiDoc Technologies GmbH)](https://cara.care/) —
         [proof](https://www.simplyhired.de/job/XF1v6SNWxUbAjwcNEdegIyLKBXPaxjQ_EdKsKIYKgotctUCjQhiS5A)
-        ,
-        [jobs](https://cara.care/careers/)
     * [Casculate GmbH](https://www.casculate.com/) (100% remote) —
         [proof](https://www.simplyhired.de/job/FanjNOn2fBWWu_6zwcY5__DazrPBqimDdJFfZKzORxGuIKFNH23qqA)
-        ,
-        [jobs](https://www.casculate.com/de/jobs)
     * [castLabs GmbH](https://castlabs.com/) —
         [proof](https://www.remotepython.com/jobs/606f2965227446efa4159f0ec4981544/)
         ,
         [github](https://github.com/castlabs)
-        ,
-        [jobs](https://castlabs.com/company/jobs/)
     * [Catenion GmbH](https://catenion.com/) —
         [proof](https://de.indeed.com/Zeige-Job?jk=99440a3964c357f6)
-        ,
-        [jobs](https://catenion.com/careers/)
     * [Chancen eG/GmbH](https://chancen-eg.de/) —
         [proof](https://www.xing.com/jobs/berlin-internship-web-development-berlin-67274610)
-        ,
-        [jobs](https://chancen-eg.de/karriere)
     * [charly education (PlusPeter GmbH)](https://www.charly.education/) —
         [proof](https://www.pluspeter.com/job/back_end_engineer/)
         ,
         [github](https://github.com/PlusPeter)
-        ,
-        [jobs](https://www.charly.education/jobs)
     * [circular.fashion UG](https://circular.fashion/) —
         [proof](https://circular.fashion/jobs/)
         ,
         [github](https://github.com/circularfashion)
-        ,
-        [jobs](https://circular.fashion/jobs/)
     * [Clade AG/GmbH](https://clade.io/) —
         [proof](https://clade.jobs.personio.de/job/571943?display=de)
-        ,
-        [jobs](https://clade.jobs.personio.de/)
     * [(The) Climate Choice UG](https://theclimatechoice.com/) —
         [proof](https://www.simplyhired.de/job/RLEbrTj8ENbBcTZOir7OyCXTk53usvYs4SiGy5wUTp6do5Ccpj9nxQ)
-        ,
-        [jobs](https://jobs.theclimatechoice.com/de/)
     * [ClimatePartner GmbH](https://www.climatepartner.com/) —
         [proof](https://www.climatepartner.com/de/karriere?jh=n98j73jlq1m5rqv7nicsnqed1poiwjh)
-        ,
-        [jobs](https://www.climatepartner.com/de/karriere)
     * [CloudBees, Inc.](https://www.cloudbees.com/) —
         [proof](https://boards.greenhouse.io/cloudbees/jobs/2217438)
         ,
         [github](https://github.com/cloudbees)
-        ,
-        [jobs](https://www.cloudbees.com/careers)
     * [close2real (BlueOcean Perspectives GmbH)](https://close2real.de/) —
         [proof](http://berlinstartupjobs.com/de/engineering/software-developer-devops-python-close2real/)
-        ,
-        [jobs](https://blueocean-jobs.personio.de/)
     * [Codepan GmbH](https://www.codepan.com/) —
         [proof](https://join.com/companies/codepan/4150812-senior-technical-lead-f-m-d)
         ,
         [github](https://github.com/code-pan)
-        ,
-        [jobs](https://join.com/companies/codepan)
     * [Codility Ltd.](https://www.codility.com/) —
         [proof](https://apply.workable.com/codility/j/E858642FCE/)
         ,
         [github](https://github.com/Codility/)
-        ,
-        [jobs](https://www.codility.com/about-us/#careers)
     * [colormass GmbH](http://colormass.com/) —
         [proof](http://colormass.com/jobs/front-end-developer-angular-typescript-css/)
         ,
         [github](https://github.com/colormass)
-        ,
-        [jobs](http://colormass.com/jobs/)
     * [committance AG](https://www.committance.com/) (100% remote) —
         [proof](https://www.committance.com/jobs/python-und-django-developer)
-        ,
-        [jobs](https://www.committance.com/jobs)
     * [Common Sense Intelligence GmbH](https://www.cs-intelligence.com/) —
         [proof](https://www.linkedin.com/jobs/view/2533150606)
-        ,
-        [jobs](https://www.cs-intelligence.com/karriere#offene-stellen)
     * [Concular GmbH](https://concular.de/) —
         [proof](https://www.simplyhired.de/job/ldgtUXSFhEmaFSuH5gJWAuC6CS3hDHgtSpg5Tn_nn9x1GOuMgNiupQ)
-        ,
-        [jobs](https://concular.de/circular-jobs/)
     * [Conversario (ferret go GmbH)](https://www.ferret-go.com/) —
         [proof](https://www.xing.com/jobs/berlin-backend-developer-python-61241930)
         ,
         [github](https://github.com/ferretgo)
-        ,
-        [jobs](https://www.ferret-go.com/de/jobs.html)
     * [Coqui](https://coqui.ai/) —
         [proof](https://coqui.ai/job/senior-full-stack-engineer)
         ,
         [github](https://github.com/coqui-ai)
-        ,
-        [jobs](https://coqui.ai/jobs)
     * [Core Unit Bioinformatics (CUBI)](https://www.cubi.bihealth.org/) (part of [Berlin Institut für Gesundheitsforschung (BIH)](https://www.bihealth.org/)) —
         [proof](https://www.xing.com/jobs/berlin-paid-sum-mer-intern-ships-python-soft-ware-engin-eer-ing-pro-gram-ming-46924178)
         ,
         [github](https://github.com/bihealth)
-        ,
-        [jobs](https://www.bihealth.org/de/angebote/stellenangebote/)
     * [Cornelsen Verlag GmbH](https://www.cornelsen.de/) —
         [proof](https://www.stepstone.de/stellenangebote--Software-Engineer-m-w-d-Rights-Management-Berlin-Cornelsen-Verlag-GmbH--6286453-inline.html)
-        ,
-        [jobs](https://www.cornelsen.de/karriere/stellenangebote)
     * [Corsearch Europe SA](https://www.corsearch.com/) —
         [proof](https://incopro.applytojob.com/apply/yZNAVvmlLL/Python-Software-Engineer-Germany)
         ,
         [github](https://github.com/corsearch)
-        ,
-        [jobs](https://careers.corsearch.com/)
     * [CosmoCode GmbH](https://www.cosmocode.de/) —
         [proof](https://www.simplyhired.de/job/KmrDeIvl61aVgLU_ciTRDprKkHAlwrICMRzrZv6yVe-8fSYn0Nn1dA)
         ,
         [github](https://github.com/cosmocode)
-        ,
-        [jobs](https://www.cosmocode.de/en/jobs/)
     * [Covid IT Solutions GmbH](https://cov-it.de/) —
         [proof](https://de.linkedin.com/jobs/view/django-developer-at-covid-it-solutions-gmbh-2785832806)
     * [Cross4Channel (Gesellschaft für digitales Healthcare Marketing mbH)](https://www.cross4channel.de/) —
         [proof](https://www.cross4channel.de/fileadmin/user_upload/1.2_Software-Entwickler___Linux-Administrator_01.10.2019.pdf)
-        ,
-        [jobs](https://www.smarbeit.de/Cross4Channel)
     * [cryptoscape.ai](https://cryptoscape.ai/) —
         [proof](https://www.xing.com/jobs/berlin-backend-soft-ware-engin-eer-95512382)
     * [Cyren GmbH](https://www.cyren.de/) —
         [proof](https://www.cyren.com/about-cyren/careers)
-        ,
-        [jobs](https://www.cyren.com/about-cyren/careers)
 * __D__
     * [DCI — Digital Career Institute gGmbH](https://digitalcareerinstitute.org/) —
         [proof](https://dci.jobs.personio.de/job/344011)
         ,
         [github](https://github.com/DigitalCareerInstitute)
-        ,
-        [jobs](https://dci.jobs.personio.de/)
     * [DCSO Deutsche Cyber-Sicherheitsorganisation GmbH](https://dcso.de/) —
         [proof](https://dcso.de/wp-content/uploads/2018/09/Software_Engineer_TDH.pdf)
         ,
         [github](https://github.com/DCSO)
-        ,
-        [jobs](https://dcso.de/de/talente/)
     * [Delivery Hero SE](https://www.deliveryhero.com/) —
         [proof](https://de.indeed.com/viewjob?jk=4aa1d7b46fb98aa0)
         ,
         [github](https://github.com/deliveryhero)
-        ,
-        [jobs](https://www.deliveryhero.com/career/jobs/)
     * [dentalXr.ai (Charité – Universitätsmedizin Berlin)](https://dentalxr.ai/) —
         [proof](https://dentalxrai.recruitee.com/o/passionate-software-engineer-join-an-innovative-growing-team)
-        ,
-        [jobs](https://www.dentalxr.ai/en/company/#personio-iframe)
     * [Designerdock Berlin GmbH](https://www.designerdock.com/) —
         [proof](https://www.designerdock.com/fuer-bewerber/stellenangebote/jobs/show/berlin/b34592-1/)
-        ,
-        [jobs](https://www.designerdock.com/fuer-bewerber/stellenangebote/)
     * [Deutsche Telekom AG](https://www.telekom.com/) —
         [proof](https://www.telekom.com/de/karriere/jobsuche/jobangebot/devops-engineer-m-w-d-cloud-security_189684)
         ,
         [github](https://github.com/telekom)
-        ,
-        [jobs](https://www.telekom.com/de/karriere)
     * [devolute GmbH](https://www.devolute.org/) —
         [proof](https://www.devolute.org/de/agentur/python-django-agentur-in-berlin)
         ,
         [github](https://github.com/devolute)
-        ,
-        [jobs](https://www.devolute.org/de/karriere-und-jobs)
     * [digital dynamite GmbH](https://digitaldynamite.de/) —
         [proof](https://digitaldynamite.de/wp-content/uploads/2016/03/tools-tech.png?0f23fc)
-        ,
-        [jobs](https://digitaldynamite.de/jobs/)
     * [dive solutions GmbH](https://dive-solutions.de/) —
         [proof](https://dive-solutions.de/wp-content/uploads/2019/08/2019_08-22_Stellenausschreibung_Backend-Developer.pdf)
-        ,
-        [jobs](https://dive-solutions.de/de/career/)
     * [Divio Technologies AB](https://www.divio.com/) (100% remote) —
         [proof](https://apply.workable.com/divio/j/595B7A8715/)
         ,
         [github](https://github.com/divio)
-        ,
-        [jobs](https://www.divio.com/company/careers/)
     * [Dizzbo GmbH](https://www.dizzbo.com/) —
         [proof](https://www.moberries.com/job/1968170_senior-backend-engineer-mfd_dizzbo)
-        ,
-        [jobs](https://www.moberries.com/jobs/company/1538632)
     * ~[Dubsmash (Mobile Motion GmbH)](https://dubsmash.com/) —
         [proof](https://www.linkedin.com/in/tim-specht#experience)
         ,
         [github](https://github.com/dubsmash)
-        ,
-        [jobs](https://dubsmash.com/jobs)~
     * [DuDeChem GmbH](https://www.dudechem.com/) —
         [proof](https://www.simplyhired.de/job/FZOHOKGgBm-HYis-jJEtfIigKODFNykIbYvZOPP4K1yrtKmY3zBt7A)
     * [dvlp.energy GmbH](https://www.dvlp.energy/) —
         [proof](https://www.dvlp.energy/job/software-engineer)
-        ,
-        [jobs](https://www.dvlp.energy/jobs)
 * __E__
     * [Eberlein und Kunz GbR](http://eberlein-und-kunz-gbr.de/) —
         [proof](https://www.simplyhired.de/job/lCIEn7DzlAfpj8CU45PGVjf29O0tHqSP4dGcfOFtk0w8BdN4_8BsDg)
-        ,
-        [jobs](https://de.indeed.com/Jobs?q=Eberlein+und+Kunz+GbR)
     * [Edu-Werkstatt GmbH](https://edu-werkstatt.berlin/) —
         [proof](https://www.xing.com/jobs/berlin-full-stack-entwickler-schwerpunkt-django-60842985)
-        ,
-        [jobs](https://edu-werkstatt.berlin/#records)
     * [EichenGlobal GmbH](https://www.eichenglobal.com/) —
         [proof](https://de.jooble.org/desc/1486142686093249466)
     * [e-laborat](https://www.e-laborat.de/) —
         [proof](https://www.e-laborat.de/#agentur)
     * [Elbkind Reply GmbH](https://www.elbkind.de/) —
         [proof](https://www.elbkind.de/jobs/job-standort/berlin/junior-account-manager-4-2/)
-        ,
-        [jobs](https://www.elbkind.de/jobs/job-standort/berlin/)
     * [emma blossom GmbH](https://emma-blossom.com/) —
         [proof](https://www.creative-city-berlin.de/de/jobs/job/7712467/)
-        ,
-        [jobs](https://emma-blossom.com/#jobs)
     * [Enda GmbH & Co. KG](https://enda.eu/) —
         [proof](https://enda.eu/jobs)
-        ,
-        [jobs](https://enda.eu/jobs)
     * [eNote GmbH](https://enote.com/) —
         [proof](https://www.gruenderszene.de/jobboerse/jobs/enote-gmbh-senior-java-python-software-engineer-backend)
         ,
         [github](https://github.com/eNote-GmbH)
-        ,
-        [jobs](https://enote.com/career)
     * [Envio Systems GmbH](https://enviosystems.com/) —
         [proof](https://enviosystems.bamboohr.com/jobs/view.php?id=33)
         ,
         [github](https://enviosystems.com/)
-        ,
-        [jobs](https://enviosystems.com/careers/#jobs-section)
     * [Erdwärmebohrer, Die (bb&v handwerkerverbund GmbH)](https://erdwaermeinformation.de/) —
         [proof](https://www.simplyhired.de/job/OIwH-eX4h4ttqBNrfX5dae7nia0X_jgOE-vqB1wV0O9q8IOrB5IDLw)
     * [Ernst & Young GmbH](https://www.ey.com/) —
         [proof](https://www.stepstone.de/stellenangebote--Praktikant-w-m-d-Data-Science-Tax-Technology-and-Transformation-Berlin-Duesseldorf-Koeln-Stuttgart-Frankfurt-Muenchen-Ernst-Young-GmbH-Wirtschaftspruefungsgesellschaft--4600107-inline.html)
-        ,
-        [jobs](https://www.ey.com/de_de/careers/job-search)
     * [EqualTo GmbH](https://www.equalto.com/) —
         [proof](https://equalto.jobs.personio.de/job/368439)
-        ,
-        [jobs](https://equalto.jobs.personio.de/)
     * [ETAS GmbH](https://www.etas.com/) —
         [proof](https://www.bosch.de/karriere/job/REF108574P-student-for-python-development-m-f-d/)
         ,
         [github](https://github.com/etas)
-        ,
-        [jobs](https://www.bosch.de/karriere/jobs/?searchTerm=etas%201994%20django&location=Berlin,Deutschland)
     * [Evana AG](https://evana.ai/) —
         [proof](https://evana.ai/karriere/?gh_jid=4001846101)
         ,
         [github](https://github.com/evana-ag)
-        ,
-        [jobs](https://evana.ai/karriere/)
     * [Eventbrite Inc.](https://www.eventbrite.com/) (100% remote) —
         [proof](https://www.eventbritecareers.com/jobs/senior-software-engineer-remote-spain-e0d24d41-e973-41a9-b46d-9749a07bdfdd)
         ,
         [github](https://github.com/eventbrite)
-        ,
-        [jobs](https://www.eventbritecareers.com/)
     * [Evernest GmbH](https://www.evernest.com/) —
         [proof](https://web.evernest.com/karriere/002-backend-engineer-python)
         ,
         [github](https://github.com/everdevs)
-        ,
-        [jobs](https://web.evernest.com/karriere)
     * [Ewanto GmbH](https://ewanto.de/) —
         [proof](https://www.simplyhired.de/job/KnXX2hsGGKQio-JWcNpGzOy0arE6NOho1vraNEpVaZrGnbc0ZBI7BA)
     * [Exit Adventures GmbH](https://exit-vr.de/) (part of [Trotzkind GmbH](https://trotzkind.com/)) —
         [proof](https://exit-vr.de/wp-content/uploads/2019/04/Backend.pdf)
-        ,
-        [jobs](https://exit-vr.de/berlin/jobs/)
     * [ezeep Inc. (Cortado Holding AG, ThinPrint GmbH)](https://www.ezeep.com/de/) —
         [proof](https://github.com/ezeep/django-oauth2-provider)
         ,
         [github](https://github.com/ezeep)
-        ,
-        [jobs](https://cortado.softgarden.io/en/vacancies)
 * __F__
     * [Factworks GmbH](https://www.factworks.com/) —
         [proof](https://factworks.jacando.com/de/en/job/pxnFDHze)
         ,
         [github](https://github.com/factworks)
-        ,
-        [jobs](https://www.factworks.com/career#jobs)
     * [Fifty2 Technology GmbH](https://www.fifty2.eu/) —
         [proof](https://www.workwise.io/job/50914-senior-full-stack-developer-m-f-d)
-        ,
-        [jobs](https://www.fifty2.eu/career/)
     * [FinCompare GmbH](https://fincompare.de/) —
         [proof](https://stackoverflow.com/jobs/companies/fincompare-gmbh)
         ,
         [github](https://github.com/fincompare)
-        ,
-        [jobs](https://fincompare.de/jobs)
     * [FixMyCity GmbH](https://www.fixmycity.de/) —
         [proof](https://fixmyberlin.de/jobs)
         ,
         [github](https://github.com/FixMyBerlin/)
-        ,
-        [jobs](https://fixmyberlin.de/jobs)
     * [Flagsmith (Bullet Train Ltd)](https://flagsmith.com/) —
         [proof](https://www.simplyhired.de/job/EWM1NaYr0VYlJcAix8W4o61o3LZRGDsyroeTMVso3UgdHzCiTC6M6w)
         ,
@@ -656,279 +418,171 @@ Something is missing?  Create a pull request!
         [proof](https://careers.flowneuroscience.com/jobs/1285843-data-engineer-neurotech-startup)
         ,
         [github](https://github.com/flowns)
-        ,
-        [jobs](https://careers.flowneuroscience.com/jobs)
     * [Formlabs GmbH](https://formlabs.com/) —
         [proof](https://github.com/Formlabs/airbrake-django)
         ,
         [github](https://github.com/Formlabs)
-        ,
-        [jobs](https://formlabs.com/company/careers/berlin/)
     * ~[Fraend GmbH](https://www.fraend.com/) —
         [proof](https://angel.co/fraend/jobs/546163-senior-software-engineer-django)
-        ,
-        [jobs](https://angel.co/fraend/jobs)~
     * [FragDenStaat](https://fragdenstaat.de/) —
         [proof](https://fragdenstaat.de/info/ueber/jobs-mitmachen/)
         ,
         [github](https://github.com/okfde/froide)
-        ,
-        [jobs](https://fragdenstaat.de/info/ueber/jobs-mitmachen/)
     * [Fraunhofer-Institut für Nachrichtentechnik, Heinrich-Hertz-Institut, HHI](https://www.hhi.fraunhofer.de/) —
         [proof](https://recruiting.fraunhofer.de/Vacancies/52679/Description/2)
         ,
         [github](https://github.com/fraunhoferhhi)
-        ,
-        [jobs](https://recruiting.fraunhofer.de/Jobs/2?lang=eng&location=Berlin)
     * [freiheit.software UG & Co. KG](https://freiheit.software/) —
         [proof](https://freiheit-software.scope-recruiting.de/?page=job&id=23057&location=10015)
         ,
         [github](https://github.com/freiheit-software)
-        ,
-        [jobs](https://freiheit.software/jobs)
     * [(der) Freitag Mediengesellschaft mbh & Co. KG](https://www.freitag.de/) —
         [proof](https://www.simplyhired.de/job/vCiT5SgtzCp9qs16x-aidioS8WTOWPmyQIkOodQGR3ll4AhTRJuJfw)
-        ,
-        [jobs](https://www.freitag.de/jobs)
     * [Ella Lab – Gesellschaft für künstliche Intelligenz mbH (frogs42)](https://ella-lab.io/) —
         [proof](https://www.simplyhired.de/job/M8AqO3ZD5VSOh9DGmMwySa_Nqwur02NtDU9BOb-o2H0CLVF5W6dfEw)
-        ,
-        [jobs](https://ella-lab.io/jobs/)
     * [future demand GmbH](https://future-demand.com/) —
         [proof](https://future-demand-jobs.personio.de/job/105600)
-        ,
-        [jobs](https://www.future-demand.com/join)
     * [Fyrfeed (Winstate AI Solutions GmbH)](https://fyrfeed.com/) —
         [proof](https://fyrfeed.com/wp-content/uploads/2021/03/django-python.pdf)
-        ,
-        [jobs](https://fyrfeed.com/jobs)
 * __G__
     * [Gesellschaft für Innovative Marktforschung mbH](https://www.g-i-m.com/) —
         [proof](https://www.onlinebewerbungsserver.de/WJJobs/Job.aspx?c=_F0F_EB_1A_AD_D5vC_B0_FEb_0Ff_D5_A6wf_04_CFQ_1F_F6_3D_A0_B2j_F8_13_AA_B9ip_CBrfw_8Ei_D2_C4_85_F3_E3_13_81_91v_FB)
-        ,
-        [jobs](https://www.g-i-m.com/en/unternehmen/about-us/career.html)
     * [Getränke Hoffmann GmbH](https://www.getraenke-hoffmann.de/) —
         [proof](https://www.getraenke-hoffmann.de/sites/default/files/2021-06/FullStackDeveloperPython.pdf)
-        ,
-        [jobs](https://www.deinjobbeihoffmann.de/)
     * [GetTechTalent GmbH](http://www.gettechtalent.com/) —
         [proof](http://www.gettechtalent.com/django-developer-remote.html)
         ,
         [github](https://github.com/gettechtalent)
-        ,
-        [jobs](http://www.gettechtalent.com/career.html)
     * [GlassDollar GmbH](https://glassdollar.com/) —
         [proof](https://glassdollar.com/hiring-product-engineer)
-        ,
-        [jobs](https://glassdollar.com/co-creating)
     * [Global Disinformation Index (GDI)](https://www.disinformationindex.org/) (100% remote) —
         [proof](https://www.simplyhired.de/job/0IL0zzJJUxOSwHumI85aHbbqsiq6NqP5_uOiGBOm1FmS8xBZJ-aU9w)
         ,
         [github](https://github.com/disinformation-index)
-        ,
-        [jobs](https://www.disinformationindex.org/careers/)
     * [Glooko Inc.](https://glooko.com/) —
         [proof](https://glooko.com/careers/job-listing?id=3768438)
         ,
         [github](https://github.com/glooko)
-        ,
-        [jobs](https://glooko.com/careers/)
     * [Gloria's Service](https://glorias-service.de/) —
         [proof](https://www.simplyhired.de/job/5zuRTWs6fOAJW_F9WssGupTNjPPpefiYx0I2t6QMiQWuJ-s4Cxn-Hw)
     * [Gnosis Ltd.](https://gnosis.io/) —
         [proof](https://boards.greenhouse.io/gnosis/jobs/5685245002)
         ,
         [github](https://github.com/gnosis)
-        ,
-        [jobs](https://gnosis.io/careers/)
     * [Goldland Media GmbH](https://www.goldland-media.com/) —
         [proof](https://www.goldland-media.com/jobs/django-entwickler-webentwickler-mw/)
-        ,
-        [jobs](https://www.goldland-media.com/jobs/)
     * [Goldmarie Finanzen GmbH](https://goldmarie-finanzen.de/) —
         [proof](https://www.simplyhired.de/job/NqEZcfB3neE24ohvYgvlCtg5MKYJt8BZI0yWmMmH6TyKgqTMCEa0Dg)
-        ,
-        [jobs](https://goldmarie-finanzen.zohorecruit.eu/jobs/Careers)
     * [Grover Group GmbH](https://www.grover.com/) —
         [proof](https://jobs.grover.com/o/backend-developer-mwd)
-        ,
-        [jobs](https://jobs.grover.com/)
 * __H__
     * ~[Hades Technologies Ltd.](https://www.hades.ai/) —
         [proof](https://apply.workable.com/hades/j/4755C16D55/)
-        ,
-        [jobs](https://apply.workable.com/hades/)~
     * [Hardskills GmbH](https://hardskills.com/) —
         [proof](https://hardskills.com/careers/senior-backend-engineer-core-platform-python-django-berlin)
-        ,
-        [jobs](https://hardskills.com/careers)
     * ~[Harper (Marvin GmbH)](https://www.trustharper.com/) —
         [proof](https://www.jobfluent.com/jobs/junior-full-stack-python-developer-berlin-81414d)
-        ,
-        [jobs](https://www.jobfluent.com/company/harper)~
     * [Harting Stiftung & Co. KG](https://www.harting.com/) —
         [proof](https://www.harting.com/CAREER/de/jobs?jh=cchhke12kgm7faopcgbp6qzym4vva2x)
-        ,
-        [jobs](https://www.harting.com/CAREER/de/jobs)
     * [heatbeat engineering GmbH](https://heatbeat.de/) (100% remote) —
         [proof](https://static-files-hbe-production.s3.amazonaws.com/media/public/2023-11-Ausschreibung_WebDev_en.pdf)
-        ,
-        [jobs](https://heatbeat.de/en/careers/)
     * [Heinrich-Hertz-Institut (Fraunhofer HHI)](https://www.hhi.fraunhofer.de/) —
         [proof](https://jobs.fraunhofer.de/job/Berlin-Senior-Software-Entwicklerin-10587/999057301/)
         ,
         [github](https://github.com/fraunhoferhhi)
-        ,
-        [jobs](https://www.hhi.fraunhofer.de/jobs-und-karriere.html)
     * [Heinze GmbH](https://www.heinze.de/) —
         [proof](https://www.stepstone.de/stellenangebote--Full-Stack-Backend-Developer-m-w-d-bundesweit-Muenchen-Hattersheim-Celle-Berlin-Heinze-GmbH--7429569-inline.html)
     * [Hikaya LLC](https://hikaya.io/) —
         [proof](https://angel.co/company/hikaya/jobs/541463-backend-developer-intern)
         ,
         [github](https://github.com/hikaya-io)
-        ,
-        [jobs](https://angel.co/company/hikaya/jobs)
     * [Hive (Borg Collective GmbH)](https://hive.one/) —
         [proof](https://hive.one/admin/login/?next=/admin/)
-        ,
-        [jobs](https://apply.workable.com/borg/)
     * [Hivebuy (Sumerai GmbH)](https://hivebuy.de/) —
         [proof](https://berlinstartupjobs.com/engineering/senior-back-end-engineer-python-hivebuy/)
     * [Home Klick GmbH](https://home-klick.de/) —
         [proof](https://www.simplyhired.de/job/eCRINIQC-pjFJ72WCebJpNXOcwwA7ZAdlCytRqtHRa2iSAn27s-Clg)
-        ,
-        [jobs](https://homeklick.join.com/)
     * [HPS Home Power Solutions GmbH](http://www.homepowersolutions.de/) —
         [proof](https://jobsinberlin.de/jobs/werkstudent-als-webdeveloper-im-vertrieb-berlin?jobid=1177994)
-        ,
-        [jobs](https://hps-home-power-solutions-ag.jobs.personio.de/)
     * ~[House of gigs](https://houseofgigs.io/) —
         [proof](https://jobs.smartrecruiters.com/houseofgigs/743999677981503-software-engineer)
-        ,
-        [jobs](https://careers.smartrecruiters.com/houseofgigs)~
     * [Humanitec GmbH](https://humanitec.com/) —
         [proof](https://github.com/Humanitec/django-oauth-toolkit-jwt)
         ,
         [github](https://github.com/Humanitec)
-        ,
-        [jobs](https://humanitec.com/careers)
     * [Humboldt-Universität zu Berlin](https://www.hu-berlin.de/) —
         [proof](https://www.stepstone.de/stellenangebote--Beschaeftigter-i-d-IT-Systemtechnik-m-w-d-Berlin-Humboldt-Universitaet-zu-Berlin--5705353-inline.html)
-        ,
-        [jobs](https://www.hu-berlin.de/de/service/arbeit/stellen)
 * __I__
     * [i2x GmbH](https://i2x.ai/) —
         [proof](https://i2x.recruitee.com/o/backend-software-engineer-systems-architect-mf)
         ,
         [github](https://github.com/i2x-gmbh)
-        ,
-        [jobs](https://i2x.ai/jobs/)
     * [IAV GmbH Ingenieurgesellschaft Auto und Verkehr](https://www.iav.com/) —
         [proof](https://www.careerjet.de/jobview/26806595e13840cbc12acf82f1726ea7.html)
-        ,
-        [jobs](https://www.iav.com/en/apply/)
     * [iGaming.com Group GmbH](https://www.igaming.com/) —
         [proof](https://igaming.jobs.personio.de/job/309884)
-        ,
-        [jobs](https://www.igaming.com/career/)
     * [ImmoSky Deutschland GmbH](https://www.immosky.de/) —
         [proof](https://www.simplyhired.de/job/QF0u5aO1k15ADMZqp35SIgKYQDjWvRXEfCDH021fnaEmHfgjpkr32w)
-        ,
-        [jobs](https://www.immosky.de/weitere-themen/karriere-jobs/)
     * [incapptic Connect GmbH](https://www.incapptic.com/) —
         [proof](https://www.xing.com/jobs/berlin-senior-backend-developer-python-enterprise-software-startup-42441053)
         ,
         [github](https://github.com/incapptic)
-        ,
-        [jobs](https://www.incapptic.com/company-careers/)
     * [Ines Analytics GmbH](https://www.ines-analytics.com/) —
         [proof](https://www.xing.com/jobs/berlin-senior-backend-frontend-fullstack-developer-python-django-javascript-react-84804802)
-        ,
-        [jobs](https://www.ines-analytics.com/jobs)
     * [InFarm - Indoor Urban Farming GmbH](https://infarm.com/) —
         [proof](https://cultivator.infarm.com/admin/)
         ,
         [github](https://github.com/infarm/)
-        ,
-        [jobs](https://www.infarm.com/careers)
     * ~[Inventorum GmbH](https://inventorum.com/) —
         [proof](https://inventorum.com/wp-content/uploads/2018/04/Experienced_Backend_Developer_2018.pdf)
         ,
         [github](https://github.com/Inventorum)
-        ,
-        [jobs](https://inventorum.com/de/jobs/)~
     * [Iponweb Limited](https://www.iponweb.com/) —
         [proof](https://www.iponweb.com/careers/631/)
         ,
         [github](https://github.com/iponweb)
-        ,
-        [jobs](https://www.iponweb.com/careers/)
 * __J__
     * [Job Bot (MoBerries GmbH)](https://www.jobbot.me/) —
         [proof](https://angel.co/jobbot-me/jobs/442545-sr-backend-python-django-developer-m-f)
         ,
         [github](https://github.com/moberries)
-        ,
-        [jobs](https://app.moberries.com/company/1536692)
     * [jobpal Ltd.](https://jobpal.ai/) —
         [proof](https://jobpal.ai/admin/login/?next=/admin/)
         ,
         [github](https://github.com/jobpal)
-        ,
-        [jobs](https://jobpal.ai/en/careers/)
     * ~[Jobspotting (SmartRecruiters GmbH)](https://jobspotting.com/) —
         [proof](https://jobspotting.com/admin/)
-        ,
-        [jobs](http://berlinstartupjobs.com/companies/jobspotting/)~
     * [Jonas & der Wolf](https://www.jonasundderwolf.de/) —
         [proof](https://www.djangoproject.com/foundation/corporate-members/)
         ,
         [github](https://github.com/jonasundderwolf)
-        ,
-        [jobs](https://www.jonasundderwolf.de/jobs)
 * __K__
     * [Kaiko Systems GmbH](https://www.kaikosystems.com/) —
         [proof](https://www.xing.com/jobs/berlin-junior-engineer-67274579)
-        ,
-        [jobs](https://kaikosystems.jobs.personio.de/)
     * [Kaiser+Kraft GmbH](https://www.kaiserkraft.de/) —
         [proof](https://recruitingapp-5053.de.umantis.com/Vacancies/1050/Description/31?srcText=karriereseite)
-        ,
-        [jobs](https://openfortomorrow.com/jobs/)
     * [Kaptio Limited](https://kaptio.com/) —
         [proof](https://www.xing.com/jobs/berlin-senior-python-developer-52143963)
         ,
         [github](https://github.com/Kaptio)
-        ,
-        [jobs](https://apply.workable.com/kaptio/)
     * [kaputt.de GmbH](https://www.kaputt.de/) —
         [proof](https://www.kaputt.de/jobs/#seniorfullstack)
-        ,
-        [jobs](https://www.kaputt.de/jobs/)
     * [Kayak Europe GmbH](https://www.kayak.de/) —
         [proof](https://boards.greenhouse.io/kayak/jobs/4253556002)
         ,
         [github](https://github.com/kayak)
-        ,
-        [jobs](https://www.kayak.de/careers/berlin/all)
     * ~[Kelvyn Systems Monitoring GmbH](https://www.kelvyn.de/) —
         [proof](https://kelvyn.recruitee.com/o/tech-co-founder-cto-senior-software-engineer-fmd)
-        ,
-        [jobs](https://kelvyn.recruitee.com/)~
     * [Kitchenful](http://kitchenful.com/) —
         [proof](https://www.simplyhired.de/job/P-CXrRafDB7a3_zW4LwXURyOlRQQn5Leaaxr44Qzn3_8KptciIl4KQ)
     * [Kitchen Stories (AJNS New Media GmbH)](https://www.kitchenstories.com/) —
         [proof](https://groups.google.com/forum/#!topic/django-berlin/w84FS3OprQM)
         ,
         [github](https://github.com/kitchenstories)
-        ,
-        [jobs](https://kitchen-stories.jobs.personio.de/)
     * [Kiwi.Ki GmbH](https://kiwi.ki/) —
         [proof](https://angel.co/kiwi-ki-1/jobs/41767-backend-engineer-iot)
         ,
         [github](https://github.com/KIWIKIGMBH)
-        ,
-        [jobs](https://kiwi.ki/karriere/)
     * [Konetik Deutschland GmbH](http://www.konetik.com/) —
         [proof](https://de.linkedin.com/jobs/view/back-end-developer-at-konetik-1616511617)
         ,
@@ -937,383 +591,233 @@ Something is missing?  Create a pull request!
         [proof](https://www.simplyhired.de/job/Otd7-zUhG4ElmqXyJM5M_mqxIE4tq1--0mje308y8jB3YUhC0rRehQ)
         ,
         [github](https://github.com/konfuzio-ai)
-        ,
-        [jobs](https://konfuzio.com/de/jobs/)
     * [Kreatize GmbH](https://kreatize.com/) —
         [proof](https://www.simplyhired.de/job/yj5ti7U63pZLoRKETpGZe9btw3PNUpk5iUlyuTIR3joOUSZC1rOFsg)
-        ,
-        [jobs](https://kreatize.com/careers/#vacancies)
     * [Kulturprojekte Berlin GmbH](https://www.kulturprojekte.berlin/) —
         [proof](https://www.kulturprojekte.berlin/job/praktikum-mit-dem-schwerpunkt-kulturfoerderung-im-berliner-beratungszentrum-fuer-kulturfoerderung-und-kreativwirtschaft/)
-        ,
-        [jobs](https://www.kulturprojekte.berlin/jobs/)
     * ~[Kupfer Software GmbH](https://www.kupfer-software.de/) —
         [proof](https://angel.co/company/kupfer-software/jobs/592017-engineering-lead)
-        ,
-        [jobs](https://angel.co/company/kupfer-software/jobs)~
     * [kuyua GmbH](https://www.kuyua.com/) (100% remote) —
         [proof](https://www.linkedin.com/jobs/view/3777525570/)
-        ,
-        [jobs](https://www.linkedin.com/company/kuyua/jobs/)
 * __L__
     * [(The) Landbanking Group GmbH](https://thelandbankinggroup.com/) —
         [proof](https://thelandbankinggroup.recruitee.com/o/senior-software-engineer-mfx-2)
-        ,
-        [jobs](https://thelandbankinggroup.recruitee.com/)
     * [lawpilots GmbH](https://lawpilots.com/) —
         [proof](https://stackshare.io/lawpilots/lawpilots-com)
-        ,
-        [jobs](https://lawpilots.jobs.personio.de/)
     * ~[Leaf Labs GmbH](https://www.leaflabs.eu/) —
         [proof](https://leaflabs.join.com/jobs/1816703-junior-full-stack-engineer)
-        ,
-        [jobs](https://leaflabs.join.com/)~
     * [lemon.markets GmbH](https://lemon.markets/) —
         [proof](https://www.xing.com/jobs/berlin-senior-backend-developer-66516482)
         ,
         [github](https://github.com/lemon-markets)
     * [Letarez GmbH](https://letarez.com/) —
         [proof](https://www.xing.com/jobs/berlin-django-backend-developer-82405564)
-        ,
-        [jobs](https://join.com/companies/letarez)
     * [Levity (colabel Inc.)](https://www.levity.ai/) —
         [proof](https://www.levity.ai/jobs/senior-full-stack-infrastructure)
-        ,
-        [jobs](https://www.levity.ai/jobs#open-positions)
     * [Liquid Democracy e.V.](https://liqd.net/) —
         [proof](https://liqd.net/documents/29/job_djangoDeveloper.pdf)
         ,
         [github](https://github.com/liqd)
-        ,
-        [jobs](https://liqd.net/en/join-us/)
     * [Livemax GmbH](https://www.live-max.de/) (100% remote) —
         [proof](https://www.simplyhired.de/job/4p_kc-bC1ZVqDuBjdffqRdzmfVZsC4UpXOn-cEgdcsK0FMn7-BiErQ)
     * [Localiser RLI GmbH](https://www.localiser.de/) —
         [proof](https://www.xing.com/jobs/berlin-programmierer-86622376)
     * [Lomavis (Lomalab Technologies GmbH)](https://lomavis.com/) (100% remote) —
         [proof](https://lomavis.com/karriere/python-full-stack-developer-django)
-        ,
-        [jobs](https://lomavis.com/ressourcen/karriere)
     * [Lumenaza GmbH](https://www.lumenaza.de/) —
         [proof](https://www.lumenaza.de/media/filer_public/05/dc/05dc69ca-a821-4741-8d26-a036d8c7c468/170519_stellenausschreibung_entwickler.pdf)
-        ,
-        [jobs](https://www.lumenaza.de/de/ueber-uns/jobs/)
     * [Luna](https://www.meetluna.com/) —
         [proof](https://angel.co/meetluna/jobs/322506-full-stack-engineer)
         ,
         [github](https://github.com/lunalabs)
-        ,
-        [jobs](https://angel.co/meetluna/jobs/)
     * [Luvago GmbH](https://luvago.com/) —
         [proof](https://luvago.com/de/projekte/tu-berlin-quality-quiz/)
         ,
         [github](https://github.com/luvago)
-        ,
-        [jobs](https://luvago.com/de/karriere/)
 * __M__
     * [machtfit GmbH](https://www.machtfit.de/) —
         [proof](https://www.machtfit.de/media/jobs/Stellenausschreibung_Senior_Backend_Developer.pdf)
         ,
         [github](https://github.com/machtfit)
-        ,
-        [jobs](https://www.machtfit.de/jobs/)
     * [Max-Planck-Institut für Wissenschaftsgeschichte](https://www.mpiwg-berlin.mpg.de/) —
         [proof](https://www.simplyhired.de/job/VR3CIMsOoGkE1yeZXSMGB5JoWN2EuuMFqznE6tN2G4wxsJdT-5y-ww)
-        ,
-        [jobs](https://www.mpiwg-berlin.mpg.de/career)
     * [mc-quadrat Markenagentur und Kommunikationsberatung OHG](https://mc-quadrat.com/) —
         [proof](https://mc-quadrat.softgarden.io/job/2990979/Lead-Developer--w-m-x-)
-        ,
-        [jobs](https://mc-quadrat.com/jobs/)
     * [Medbelle (MB Global Health Ltd)](https://www.medbelle.com/) —
         [proof](https://berlinstartupjobs.com/de/engineering/qa-engineer-javascript-medbelle/)
         ,
         [github](https://github.com/Medbelle)
-        ,
-        [jobs](https://www.medbelle.com/careers)
     * [MeetAnyway GmbH](https://start.meetanyway.com/) —
         [proof](https://berlinstartupjobs.com/engineering/senior-full-stack-engineer-react-django-100-remote-meetanyway/)
-        ,
-        [jobs](https://berlinstartupjobs.com/companies/meetanyway/)
     * [Memfault Inc.](https://memfault.com/) —
         [proof](https://jobs.lever.co/memfault/dc00834d-588d-41f0-84b2-39f8bed62b98)
         ,
         [github](https://github.com/memfault)
-        ,
-        [jobs](https://memfault.com/careers/)
     * [Menzel IT GmbH](https://menzelit.net/) —
         [proof](https://menzelit.net/wp-content/uploads/2019/08/stellenanzeige-werkstudierende.pdf)
-        ,
-        [jobs](https://menzelit.net/karriere/)
     * [Merantix AG](https://www.merantix.com/) —
         [proof](https://news.ycombinator.com/item?id=16975786)
         ,
         [github](https://github.com/merantix)
-        ,
-        [jobs](https://merantix.bamboohr.co.uk/jobs/)
     * [Mercedes-Benz MBition GmbH](https://group.mercedes-benz.com/karriere/ueber-uns/standorte/standort-detailseite-240192.html) —
         [proof](https://jobtensor.com/job/INTERNAL-Senior-Site-Reliability-Engineer-all-genders-Berlin-018735a1a4e6)
-        ,
-        [jobs](https://group.mercedes-benz.com/karriere/jobsuche/?action=doSearch&job_global_location=DE10587K%2CDE10117F%2CDE10178D%2CDE71065J&job_genesis_id=2891&job_location_name=Berlin%2C+MBition+GmbH&audience=4)
     * [Mercedes-Benz Vans Mobility GmbH](https://www.daimler.com/career/about-us/locations/location-detail-page-173760.html) —
         [proof](https://jobs.daimler.com/job/EN_317920/senior-full-stack-developer-m-w-d-bei-der-mercedes-benz-vans-mobility-gmbh.html)
-        ,
-        [jobs](https://www.daimler.com/career/job-search/?action=doSearch&job_genesis_id=6639&job_location=7117&job_location_name=Berlin%2C+Mercedes-Benz+Vans+Mobility+GmbH&job_global_location=DE10243B)
     * [metergrid GmbH](https://metergrid.de/) —
         [proof](https://metergrid.workwise.io/job/27106-senior-python-django-entwickler)
-        ,
-        [jobs](https://metergrid.workwise.io/jobsuche)
     * [Metr (Building Management Systems GmbH)](https://metr.systems/) —
         [proof](https://metr.recruitee.com/l/en/o/backend-software-developer-mfx)
-        ,
-        [jobs](https://metr.recruitee.com/l/en)
     * [Mika (Fosanis GmbH)](https://www.mitmika.de/) —
         [proof](https://de.indeed.com/Zeige-Job?jk=ef36750662236e0f)
     * [Mimi Hearing Technologies GmbH](https://www.mimi.io/) —
         [proof](https://stackoverflow.com/jobs/companies/mimi-hearing-technologies-gmbh)
         ,
         [github](https://github.com/MimiHearingTechnologies)
-        ,
-        [jobs](https://www.mimi.io/en/jobs)
     * [mixd.tv](http://www.mixd.tv/) —
         [proof](https://djangojobs.net/jobs/194/senior-developer-team-lead-mixdtv/)
-        ,
-        [jobs](http://www.mixd.tv/careers.html)
     * [Mocentiv GmbH](https://mocentiv.io/) —
         [proof](https://angel.co/company/mocentiv/jobs/634307-backend-engineering-internship-python-and-django)
-        ,
-        [jobs](https://angel.co/company/mocentiv/jobs)
     * [Moccu GmbH & Co. KG](https://www.moccu.com/) —
         [proof](https://github.com/moccu)
         ,
         [github](https://github.com/moccu)
-        ,
-        [jobs](https://www.moccu.com/jobs/)
     * [momox GmbH](https://www.momox.de/) —
         [proof](https://momox-jobs.dvinci.de/de/p/english/jobs/191/python-backend-developer-mf-in-berlin)
         ,
         [github](https://github.com/Momox-GmbH)
-        ,
-        [jobs](https://momox-jobs.dvinci.de/de/p/english/jobs)
     * [Mozilla Foundation](https://foundation.mozilla.org/) —
         [proof](https://www.iamexpat.de/career/jobs-germany/berlin/it-technology/manager-web-development/470135)
         ,
         [github](https://github.com/mozilla)
-        ,
-        [jobs](https://careers.mozilla.org/)
     * [Mula GmbH](https://app.mula-berlin.de/) —
         [proof](https://www.linkedin.com/jobs/view/2476274975)
-        ,
-        [jobs](https://app.mula-berlin.de/en/jobs)
     * [Munich Innovation Labs GmbH](https://www.mi-labs.de/) —
         [proof](https://www.mi-labs.de/career/)
         ,
         [github](https://github.com/Munich-Innovation-Labs)
-        ,
-        [jobs](https://www.mi-labs.de/career/)
 * __N__
     * [Neufund (Fifth Force (Liechtenstein) GmbH)](https://neufund.org/) —
         [proof](https://de.indeed.com/Zeige-Job?jk=1ae6795c30b310df)
         ,
         [github](https://github.com/Neufund)
-        ,
-        [jobs](https://neufund.org/careers)
     * [Neuraum Ventures GmbH](https://neuraum.com/) —
         [proof](https://www.simplyhired.de/job/FNKxi9bpcVDFtrXrQKrDOPVy-LfniJbLDAlQGUtZe4QLTYSbd_i6ew)
-        ,
-        [jobs](https://neuraum.com/#_jobs)
     * [New Horizons (Horizons Global Technology Pte. Ltd.)](https://nhglobalpartners.com/) —
         [proof](https://nhglobalpartners-team.freshteam.com/jobs/LiiPwUGFvw89/back-end-principal-engineer-remote)
-        ,
-        [jobs](https://nhglobalpartners-team.freshteam.com/jobs)
     * [Next Level Commerce (Klingel Gruppe, K Mail Order GmbH & Co. KG)](https://nextlevelcommerce.de/) —
         [proof](https://nextlevelcommerce.jobs.personio.de/job/483672)
-        ,
-        [jobs](https://nextlevelcommerce.de/jobs/)
     * [Next Matter GmbH](https://nextmatter.com/) —
         [proof](https://nextmatter.bamboohr.com/jobs/view.php?id=27)
-        ,
-        [jobs](https://nextmatter.com/careers/)
     * [Nuvisan GmbH](https://www.nuvisan.de/) —
         [proof](https://nuvisan.softgarden.io/job/35428711/Full-Stack-Software-Developer-DevOps-Engineer-f-m-d-?l=en)
-        ,
-        [jobs](https://nuvisan.softgarden.io/en/vacancies)
 * __O__
     * [Oculid UG](http://www.oculid.com/) —
         [proof](https://www.simplyhired.de/job/LvhGcbd6tiDGJGu0R8NTzaeDQ5vbVPMNZnHRFGs5BrUQGfZNYYo8wQ)
-        ,
-        [jobs](http://www.oculid.com/#jobs)
     * [Oda Norway AS](https://oda.com/no/) —
         [proof](https://jobs.lever.co/oda/ec6958e0-acc2-41a4-898b-920b06e7552f)
         ,
         [github](https://github.com/kolonialno)
-        ,
-        [jobs](https://careers.oda.com/jobs)
     * [OFEK e.V. Beratungsstelle bei antisemitischer Gewalt und Diskriminierung](https://ofek-beratung.de/) —
         [proof](https://ofek-beratung.de/wp-content/uploads/2022/09/Frontend-Developer-2.pdf)
-        ,
-        [jobs](https://ofek-beratung.de/jobs)
     * [Oetker Digital GmbH](https://www.oetkerdigital.com/) —
         [proof](https://oetkerdigital.dvinci-easy.com/en/jobs/20166/team-lead-backend-engineering)
         ,
         [github](https://github.com/OetkerDigital)
-        ,
-        [jobs](https://www.oetkerdigital.com/#/jobs)
     * [One Click LCA Ltd.](https://www.oneclicklca.com/) (100% remote) —
         [proof](https://careers.oneclicklca.com/jobs/3294243-experienced-full-stack-developer-with-django-for-a-sustainability-saas)
         ,
         [github](https://github.com/One-Click-LCA)
-        ,
-        [jobs](https://careers.oneclicklca.com/jobs/)
     * [OpenCraft GmbH](https://opencraft.com/) —
         [proof](https://de.jooble.org/desc/1274823385053000778)
         ,
         [github](https://github.com/open-craft)
-        ,
-        [jobs](https://weworkremotely.com/company/opencraft)
     * [openESG GmbH](https://openesg.de/) (100% remote) —
         [proof](https://join.com/companies/openesg/9539709-junior-software-engineer-m-w-d)
         ,
         [github](https://github.com/openESG-gmbh)
-        ,
-        [jobs](https://openesg.de/karriere/)
     * [Orbica UG](https://orbica.de/) —
         [proof](https://www.linkedin.com/jobs/view/3122139702)
-        ,
-        [jobs](https://orbica.de/jobs-karriere)
     * [orderbird AG](https://www.orderbird.com/) —
         [proof](https://www.orderbird.com/en/careers/python-developer-f-m)
         ,
         [github](https://github.com/orderbird)
-        ,
-        [jobs](https://www.orderbird.com/de/karriere)
     * [OSB AG](https://www.osb-ag.de/) —
         [proof](https://www.connecticum.de/jobboerse/python-django-softwareentwickler-stellenangebot-792388.html)
-        ,
-        [jobs](https://www.osb-ag.de/karriere/stellenangebote.html?fulltext=django&workLocation=berlin)
     * [Otovo GmbH](https://www.otovo.de/) —
         [proof](https://careers.otovo.com/job-list/software-engineer-new-markets-team)
         ,
         [github](https://github.com/otovo)
-        ,
-        [jobs](https://careers.otovo.com/)
     * [Oxfam Deutschland e.V.](https://www.oxfam.de/) —
         [proof](https://www.oxfam.de/ueber-uns/jobs/job/2019-10-20-softwareentwicklerin-datenbanken)
-        ,
-        [jobs](https://www.oxfam.de/ueber-uns/jobs/stellen)
 * __P__
     * [PartsCloud GmbH](https://partscloud.com/) (100% remote) —
         [proof](https://partscloud.jobs.personio.de/job/1280543)
-        ,
-        [jobs](https://partscloud.com/careers)
     * [PeopleDoc Germany GmbH](https://www.people-doc.de/) —
         [proof](https://boards.greenhouse.io/peopledocberlin/jobs/948962)
         ,
         [github](https://github.com/peopledoc)
-        ,
-        [jobs](https://www.people-doc.de/peopledoc/karriere)
     * [Peers Solutions GmbH](https://peers-solutions.com/) —
         [proof](https://peerssolutions.recruitee.com/o/senior-backend-engineer-mwd)
-        ,
-        [jobs](https://peerssolutions.recruitee.com/)
     * [Perdoo GmbH](https://www.perdoo.com/) —
         [proof](https://djangojobs.net/jobs/483/lead-backend-engineer-perdoo/)
         ,
         [github](https://github.com/Perdoo)
-        ,
-        [jobs](https://www.perdoo.com/careers/)
     * [Perpetua](https://perpetua.io/) —
         [proof](https://jobs.lever.co/perpetualabs.com/ee90b8c5-7c08-4caf-ac2f-4013823cdc31)
         ,
         [github](https://github.com/perpetua1)
-        ,
-        [jobs](https://jobs.lever.co/perpetualabs.com)
     * [Phiture GmbH](https://www.phiture.com/) —
         [proof](https://www.phiture.com/career.html#workingstudentfullstackdeveloper)
-        ,
-        [jobs](https://www.phiture.com/career.html)
     * [Pincamp (ADAC Camping GmbH)](https://www.pincamp.de/) —
         [proof](https://stackshare.io/adac-camping-gmbh/pincamp)
-        ,
-        [jobs](https://www.pincamp.de/jobs)
     * [Pitcher AG](https://www.pitcher.com/) —
         [proof](https://www.smartrecruiters.com/PitcherAG1/743999766077371-software-engineer)
         ,
         [github](https://github.com/PitcherAG)
-        ,
-        [jobs](https://www.pitcher.com/careers)
     * [Plan D GmbH](https://www.plan-d.com/) —
         [proof](https://plandgmbh.recruitee.com/o/python-engineer-django)
-        ,
-        [jobs](https://www.plan-d.com/de/karriere)
     * [Planet Labs Inc.](https://www.planet.com/) —
         [proof](https://www.planet.com/company/careers/?office=View%20All&department=Software%20Engineering&job=1610436)
         ,
         [github](https://github.com/planetlabs)
-        ,
-        [jobs](https://www.planet.com/company/careers/?office=Berlin%2C%20Germany)
     * [Planetly (‍667 Technology GmbH)](https://www.planetly.org/) —
         [proof](https://www.simplyhired.de/job/i-CD5mlLROFRFRwVyoaZ-DyDN3cHLw88eSZN-g2ioXHIcgNDESkqjg)
-        ,
-        [jobs](https://planetly-jobs.personio.de/)
     * [Plentific, Ltd.](https://plentific.com/) —
         [proof](https://plentific.workable.com/j/88F66B42DE)
         ,
         [github](https://github.com/plentific)
-        ,
-        [jobs](https://plentific.com/careers/)
     * [PMC Project Management & Consulting Services GmbH](https://www.pmc-services.de/) (100% remote) —
         [proof](https://pmc-services.softgarden.io/job/37253650/-Lead-Backend-Developer-m-w-d-?l=de)
-        ,
-        [jobs](https://www.pmc-services.de/jobs/)
     * [polit-X (Hauptstädtische Verlags- & Beratungsgesellschaft HBVG mbH)](https://polit-x.de/) —
         [proof](https://polit-x.de/de/jobs/offer/11/entwicklungit-full-stack-developer-mwd)
-        ,
-        [jobs](https://polit-x.de/de/jobs)
     * [Port Zero GmbH](https://port-zero.com/) —
         [proof](https://port-zero.com/jobs/2019_network_automator/)
         ,
         [github](https://github.com/port-zero)
-        ,
-        [jobs](https://port-zero.com/jobs/)
     * [pragmatic industries GmbH](https://pragmaticindustries.com/) (100% remote) —
         [proof](https://pragmaticindustries.com/jobs/senior-softwareentwickler-m-w-d/)
         ,
         [github](https://github.com/pragmaticindustries)
-        ,
-        [jobs](https://pragmaticindustries.com/karriere/)
     * [Precision Medicine Group, LLC](https://www.precisionmedicinegrp.com/) —
         [proof](https://careers.precisiongroupcompanies.com/career-search/posting/software-engineer-/4010575004/)
-        ,
-        [jobs](https://www.precisionmedicinegrp.com/careers/)
     * [Prezi Inc.](https://prezi.com/) —
         [proof](https://prezi.com/jobs/1793786/)
         ,
         [github](https://github.com/prezi)
-        ,
-        [jobs](https://prezi.com/jobs/)
     * [PriceHubble AG](https://pricehubble.com/) —
         [proof](https://www.loadjobs.com/jobs/custom-apply/1463)
         ,
         [github](https://github.com/PriceHubble)
-        ,
-        [jobs](https://pricehubble.com/en/about/careers/)
     * ~[ProfitBricks GmbH](https://www.profitbricks.de/) —
         [proof](https://profitbricks.softgarden.io/job/1211128/?l=de)
         ,
         [github](https://github.com/profitbricks)
-        ,
-        [jobs](https://www.profitbricks.de/de/unternehmen/karriere/#jobs)~
     * [Prospeum GmbH](https://prospeum.com/) (100% remote) —
         [proof](https://join.com/companies/prospeum/6790061-senior-backend-django-developer-fulltime-m-f-d)
-        ,
-        [jobs](https://join.com/companies/prospeum)
     * [Pulilab](http://www.pulilab.com/) —
         [proof](http://www.pulilab.com/job/django-developer)
         ,
         [github](https://github.com/pulilab)
-        ,
-        [jobs](http://www.pulilab.com/team-jobs)
 * __Q__
     * [Qdrant](https://qdrant.tech/) —
         [proof](https://de.jooble.org/desc/-2366626165844613292)
@@ -1321,18 +825,12 @@ Something is missing?  Create a pull request!
         [github](https://github.com/qdrant)
     * [Quadriga Media Berlin GmbH](https://www.quadriga.eu/) —
         [proof](https://www.quadriga.eu/en/career/jobs/?gh_jid=4946473002)
-        ,
-        [jobs](https://www.quadriga.eu/en/career/jobs/)
     * [Qualitas Energy Deutschland GmbH (ex Q-Energy Deutschland GmbH)](https://qualitasenergy.com/) —
         [proof](https://q-energy.jobs.personio.de/job/922558)
-        ,
-        [jobs](https://q-energy.jobs.personio.de/)
     * [Qudosoft GmbH & Co. KG](https://www.qudosoft.de/) —
         [proof](https://www.qudosoft.de/job/software-engineer-mit-fokus-data-engineering-d-m-w/)
         ,
         [github](https://github.com/Qudosoft)
-        ,
-        [jobs](https://www.qudosoft.de/jobs/)
     * [Quin Technologies GmbH](https://www.getquin.com/) —
         [proof](https://www.f6s.com/jobs/43325/quingetquin/cto-for-fintech-startup)
         ,
@@ -1341,74 +839,48 @@ Something is missing?  Create a pull request!
         [proof](https://angel.co/qvsta/jobs/389050-intern-backend-developer)
         ,
         [github](https://github.com/QVSTA)
-        ,
-        [jobs](https://qvsta.com/work/)
 * __R__
     * [Ramboll Group A/S](https://ramboll.com/) —
         [proof](https://www.simplyhired.de/job/ZrP0gWBBPGsBkqAPRPt62c3GQcQD0EcqV4RskKUZ9sP1fN3QU5Zchg)
         ,
         [github](https://github.com/Ramboll)
-        ,
-        [jobs](https://ramboll.com/careers)
     * [Rausgegangen GmbH](https://rausgegangen.de/) (100% remote) —
         [proof](https://rausgegangen.jobs.personio.de/job/1364037)
-        ,
-        [jobs](https://rausgegangen.de/en/jobs/)
     * [RecTag UG](https://rectag.eu/) —
         [proof](https://de.indeed.com/Zeige-Job?jk=f923e5bd5dd4d8f9)
     * [Reelport GmbH](https://www.reelport.com/) —
         [proof](https://djangogigs.com/gigs/2124/)
     * [refive GmbH (ex Leaf Labs GmbH)](https://www.refive.io/) —
         [proof](https://www.xing.com/jobs/berlin-backend-engineer-remote-89653042)
-        ,
-        [jobs](https://join.com/companies/refive)
     * [Regimen (We Are O GmbH)](https://joinregimen.com/) —
         [proof](https://www.simplyhired.de/job/Caah1Vhpu290tb1wzARS_L1ycApdvR8Hp9S7EtQpUq-WLXias7ZjOw)
-        ,
-        [jobs](https://regimen.join.com/)
     * [Reiner Lemoine Institut gGmbH](https://reiner-lemoine-institut.de/) —
         [proof](https://de.jooble.org/desc/635914060611874554)
         ,
         [github](https://github.com/rl-institut)
-        ,
-        [jobs](https://reiner-lemoine-institut.de/aktuelles/stellenangebote/)
     * [Revel Transit Inc.](https://gorevel.com/) —
         [proof](https://boards.greenhouse.io/revel/jobs/4752392004)
         ,
         [github](https://github.com/revel-transit)
-        ,
-        [jobs](https://gorevel.com/careers)
     * [Riemser Pharma GmbH](https://www.riemser.com/) —
         [proof](https://www.riemser.com/karriere/stellenangebote/full-stack-developer-mwd/)
         ,
         [github](https://github.com/riemser-pharma-gmbh)
-        ,
-        [jobs](https://www.riemser.com/karriere/stellenangebote/)
     * [Rosenmeister LegalTech GmbH](https://www.rosenmeister.org/) —
         [proof](https://rosenmeister-gmbh.join.com/jobs/404125-senior-django-python-entwicklung-m-w-d-in-berlin-gesucht)
-        ,
-        [jobs](https://rosenmeister-gmbh.join.com/)
     * [Rotki Solutions GmbH](https://rotki.com/) —
         [proof](https://de.bebee.com/job/85483c7abb6d174656b38b4da55412c7)
         ,
         [github](https://github.com/rotki)
-        ,
-        [jobs](https://rotki.com/jobs)
     * [Runtime Services GmbH](https://www.runtime.de/) —
         [proof](https://www.runtime.de/job/frontend-backend-softwareentwickler-javascript-and-python-mwd-1675258972)
-        ,
-        [jobs](https://www.runtime.de/jobsuche/?title=django&ort=berlin)
 * __S__
     * [SafeGlobal (Safe Ecosystem Foundation)](https://safe.global/) —
         [proof](https://jobs.ashbyhq.com/safe.global/7c14ed12-8c12-4885-8a80-fd7bdc42a5d3)
         ,
         [github](https://github.com/safe-global)
-        ,
-        [jobs](https://safe.global/careers#positions)
     * [Sanakey Systems GmbH](https://www.sanakey.de/) —
         [proof](https://de.jobtome.com/stellenangebot/backend-entwickler/e16669913f03a68fda8489ef1546fd1f)
-        ,
-        [jobs](https://www.sanakey.de/ueber-sanakey/karriere/)
     * [Sapui UG (Learn & Care 24 GmbH)](http://www.sapiu.de/) —
         [proof](https://www.meetup.com/django-user-group-berlin/messages/boards/thread/46622052)
         ,
@@ -1417,112 +889,70 @@ Something is missing?  Create a pull request!
         [proof](https://www.scandit.com/careers/job-description/?gh_jid=5131286)
         ,
         [github](https://github.com/Scandit)
-        ,
-        [jobs](https://www.scandit.com/de/careers/current-openings/)
     * [Scholz & Volkmer GmbH](https://www.s-v.de/) —
         [proof](https://www.s-v.de/de/jobs/senior-backend-developer-wm-5a26d2d6106c870047d46f85/)
         ,
         [github](https://github.com/ScholzVolkmer)
-        ,
-        [jobs](https://www.s-v.de/de/jobs/)
     * [scoutbee GmbH](https://scoutbee.com/) —
         [proof](https://scoutbee.workable.com/j/70F02E7DF4)
         ,
         [github](https://github.com/scoutbee)
-        ,
-        [jobs](https://scoutbee.workable.com/)
     * [Scrambl. AG](https://www.scrambl.org/) —
         [proof](https://www.simplyhired.de/job/AmINQyuiA8gPaPmoIF_KzapJyYZngvkTsyub8ot595z2g0dAiU84yQ)
     * [Seafair Inc.](https://www.seafair.io/) —
         [proof](https://angel.co/company/seafair-io/jobs/1559409-senior-full-stack-engineer)
         ,
         [github](https://github.com/Seafair)
-        ,
-        [jobs](https://angel.co/company/seafair-io)
     * [Secret Escapes Ltd](https://www.secretescapes.de/) —
         [proof](https://careers.secretescapes.de/job/?job_id=1593308)
         ,
         [github](https://github.com/secretescapes)
-        ,
-        [jobs](https://careers.secretescapes.de/jobs/)
     * [sedna GmbH](https://www.sedna.de/) —
         [proof](https://www.sedna.de/en/opening5/)
-        ,
-        [jobs](https://www.sedna.de/jobs/)
     * [Seerene GmbH](https://www.seerene.com/) (Potsdam) —
         [proof](https://tp.seerene.com/admin/login/?next=/admin/)
-        ,
-        [jobs](https://seerene-gmbh-jobs.personio.de/?language=en)
     * [Selfmade Energy (TiRo CheckEnergy GmbH)](https://selfmade-energy.com/) —
         [proof](https://www.simplyhired.de/job/P0_uSGuCm24V532ofXV0JQkoNQxjL-O8gB8bk2dqeJ_YBHCXzydB0w)
     * [sennder GmbH](https://www.sennder.com/) —
         [proof](https://sennder.heavenhr.com/jobs/_etBiQIb70a-FLZPH5P4jow_/apply)
         ,
         [github](https://github.com/sennder)
-        ,
-        [jobs](https://sennder.heavenhr.com/jobs)
     * [Sherpany Deutschland GmbH](https://www.sherpany.com/) (100% remote) —
         [proof](https://sherpany.breezy.hr/p/b518332288ee01-senior-full-stack-engineer-front-end-heavy-europe)
-        ,
-        [jobs](https://www.sherpany.com/en/careers/open-positions/)
     * [Shore GmbH](https://www.shore.com/) —
         [proof](https://www.simplyhired.de/job/acVgBlkmbRDEl6d0ueU0cXwqQuiJhNqT_ZRxmnBx0fcLzFCiR8yXEw)
         ,
         [github](https://github.com/shore-gmbh)
-        ,
-        [jobs](https://shorepos.shore.com/de/jobs/)
     * [ShowHeroes SE](https://showheroes.com/) —
         [proof](https://www.xing.com/jobs/berlin-senior-qa-automation-engineer-81261993)
         ,
         [github](https://github.com/showheroes)
-        ,
-        [jobs](https://showheroes-group.com/career/)
     * [SinnerSchrader AG](https://sinnerschrader.com/) —
         [proof](https://sinnerschrader.jobs/de/django-backend-developer-mw/)
-        ,
-        [jobs](https://sinnerschrader.jobs/)
     * [sinnwerkstatt Medienagentur GmbH](https://sinnwerkstatt.com/) —
         [proof](https://sinnwerkstatt.com/member/sascha-narr-2/)
         ,
         [github](https://github.com/sinnwerkstatt)
-        ,
-        [jobs](https://sinnwerkstatt.com/team/#jobs)
     * [SkillMe](https://heyskill.me/) —
         [proof](https://angel.co/company/heyskillme/jobs/583212-backend-developer)
-        ,
-        [jobs](https://angel.co/company/heyskillme/jobs)
     * [Smart City Factory GmbH (ex ICE Gateway GmbH)](https://new.smart-city-factory.com/) —
         [proof](https://www.linkedin.com/jobs/view/2924156202)
-        ,
-        [jobs](https://smart-city-factory.com/career/)
     * [smart IoT GmbH](https://www.smart-iot.solutions/) (100% remote) —
         [proof](https://join.com/companies/smart-iot/9675742-backend-developer)
-        ,
-        [jobs](https://join.com/companies/smart-iot)
     * [smava GmbH](https://www.smava.de/) —
         [proof](https://www.smava.de/jobs/de/jobs?gh_jid=4816473003)
         ,
         [github](https://github.com/smava)
-        ,
-        [jobs](https://www.smava.de/jobs/de/jobs/?category=Engineering%20%26%20Product&location=Berlin)
     * [Solandeo GmbH](https://www.solandeo.com/) —
         [proof](https://www.solandeo.com/wp-content/uploads/2018-09-17-Ausschreibung-Senior-Developer-Python.pdf)
-        ,
-        [jobs](https://www.solandeo.com/ueber-uns/karriere/)
     * [sonnen GmbH](https://sonnen.de/) —
         [proof](https://jobs.sonnen.de/job/Wildpoldsried-Python-Backend-Developer-%28mwd%29-BY/638231201/)
-        ,
-        [jobs](https://jobs.sonnen.de/search/?q=django&locationsearch=berlin)
     * [Sourcefabric GmbH](https://www.sourcefabric.org/) —
         [proof](https://blog.sourcefabric.org/en/news/blog/139/Django-Software-Stack.htm)
         ,
         [github](https://github.com/sourcefabric)
-        ,
-        [jobs](https://www.sourcefabric.org/about/jobs)
     * [Spacebase GmbH](https://www.spacebase.com/) —
         [proof](https://spacebase.softgarden.io/job/2866473/)
-        ,
-        [jobs](https://www.spacebase.com/en/about/#career-section)
     * [Spreelabs Berlin (Spreenauten GmbH)](http://www.spreelabs.com/) —
         [proof](https://www.xing.com/jobs/berlin-python-developer-berlin-41273060)
         ,
@@ -1531,275 +961,169 @@ Something is missing?  Create a pull request!
         [proof](https://sprk.jobs.personio.de/job/839049?display=de)
         ,
         [github](https://github.com/SPRK-global)
-        ,
-        [jobs](https://sprk.jobs.personio.de/)
     * [sprylab technologies GmbH](http://www.sprylab.com/) —
         [proof](https://sprylab.com/en/python-backend-developer-m-f-d/)
         ,
         [github](https://github.com/sprylab)
-        ,
-        [jobs](https://sprylab.com/jobs/)
     * [StackFuel GmbH](https://stackfuel.com/) —
         [proof](https://stackfuel.heavenhr.com/jobs/_etx-4SXSVHnHULK2cQxpRA_/apply?language=de)
-        ,
-        [jobs](https://stackfuel.com/careers/)
     * [Staffery GmbH](https://www.staffery.com/) —
         [proof](https://autopilot-api.staffery.com/)
-        ,
-        [jobs](https://www.staffery.com/staffery/career)
     * [staiy (Metch GmbH)](https://staiy.com/) —
         say "no" to unpaid internships! —
         [proof](https://www.xing.com/jobs/berlin-django-development-intern-62254597)
-        ,
-        [jobs](https://staiy.com/content/work-with-us)
     * [Stanwood Software Development GmbH](https://www.stanwood.de/) —
         [proof](https://www.stanwood.de/jobs/web-developer/)
         ,
         [github](https://github.com/stanwood)
-        ,
-        [jobs](https://www.stanwood.de/jobs/)
     * [stellenonline.de AG](https://stellenonline.de/) —
         [proof](https://jobs.stellenonline.de/index.php/adonly/inserat/full-stack-entwickler-devops-mwd-karlsruhe-oder-homeoffice-stellenonlinede-aktiengesellschaft-94826/)
-        ,
-        [jobs](https://stellenonline.de/career)
     * [Strato AG](https://www.strato.de/) —
         [proof](https://www.simplyhired.de/job/xY1VOjyRbwo4xfQVfauWtOFjiSk_V2Mcc0386sgx93x6Cu6f3CY_5g)
         ,
         [github](https://github.com/StratoAG)
-        ,
-        [jobs](https://www.strato.de/karriere/)
     * [Streem.ai UG](https://streem.ai/) —
         [proof](https://de.indeed.com/Zeige-Job?jk=de640347fdbfe9a3)
-        ,
-        [jobs](https://streem.ai/careers)
     * [Ströer Social Publishing GmbH](https://www.stroeersocialpublishing.de/) —
         [proof](https://karriere.stroeer.com/de/it-technology/job/?sh=1xo9ahby)
         ,
         [github](https://github.com/stroeer)
-        ,
-        [jobs](https://karriere.stroeer.com/de/it-technology/)
     * [StudySmarter UG](https://www.studysmarter.de/) —
         [proof](https://www.studysmarter.de/karriere/backend-engineer/)
-        ,
-        [jobs](https://www.studysmarter.de/karriere/)
     * [Summ AI GmbH](https://summ-ai.com/) (100% remote) —
         [proof](https://www.linkedin.com/jobs/view/backend-full-stack-developer-d-f-m-django-react-at-summ-ai-3749012737/)
-        ,
-        [jobs](https://www.linkedin.com/company/summ-ai/jobs/)
     * [SumUp Payments Limited](https://sumup.com/) —
         [proof](https://www.xing.com/jobs/berlin-front-end-developer-57099796)
         ,
         [github](https://github.com/sumup)
-        ,
-        [jobs](https://sumup.com/careers/locations/berlin/)
 * __T__
     * [tarent solutions GmbH](https://www.tarent.de/) —
         [proof](https://www.freelancermap.de/projektboerse/projekte/entwicklung/1635949-projekt-experte-als-python-backend-entwickler-w-m-berlin.html)
         ,
         [github](https://github.com/tarent)
-        ,
-        [jobs](https://www.tarent.de/en/jobs/)
     * [te.ma gGmbH](https://te.ma/) —
         [proof](https://te.ma/page/web-full-stack-developer/)
     * [Teraki GmbH](https://www.teraki.com/) —
         [proof](https://www.glassdoor.de/job-listing/senior-backend-developer-teraki-gmbh-JV_IC2622109_KO0,24_KE25,36.htm?jl=2801616918)
-        ,
-        [jobs](https://www.teraki.com/jobs/)
     * [testxchange GmbH](https://de.testxchange.com/) —
         [proof](https://www.xing.com/jobs/berlin-senior-software-engineer-dynamic-b2b-platform-start-52823700)
-        ,
-        [jobs](https://de.testxchange.com/unternehmen/karriere/)
     * [The Contemporary Software Society UG (TCSS)](https://tcss.tech/) —
         [proof](https://www.xing.com/jobs/berlin-blockchain-engineer-backend-frontend-onchain-81456980)
     * [Thermondo GmbH](https://www.thermondo.de/) —
         [proof](https://github.com/Thermondo)
         ,
         [github](https://github.com/Thermondo)
-        ,
-        [jobs](https://www.thermondo.de/unternehmen/jobs/berlin-zentrale/)
     * [Tier Mobility GmbH](https://www.tier.app/) —
         [proof](https://github.com/TierMobility/dj-stripe)
         ,
         [github](https://github.com/TierMobility)
-        ,
-        [jobs](https://www.tier.app/career.html)
     * [Timber Base GmbH](https://timberbase.com/) —
         [proof](https://www.moberries.com/job/1962048)
-        ,
-        [jobs](https://timberbase.com/en/career/)
     * [TolaData GmbH](https://www.toladata.com/) —
         [proof](https://www.toladata.com/job-senior-full-stack-developer-m-f-d-full-time/)
-        ,
-        [jobs](https://www.toladata.com/open-positions/)
     * [tonies GmbH](https://tonies.com/) (100% remote) —
         [proof](https://tonies.jobs.personio.de/job/1057260?display=en)
-        ,
-        [jobs](https://tonies.com/de-de/jobs-en/)
     * [Tracebloc GmbH](https://www.tracebloc.io/) —
         [proof](https://www.xing.com/jobs/berlin-sr-python-backend-engineer-5y-64941125)
     * [Tracify GmbH](https://www.tracify.ai/) (100% remote) —
         [proof](https://tracify.jobs.personio.com/job/1407483?display=en)
-        ,
-        [jobs](https://www.tracify.ai/careers)
     * [Tracks GmbH](https://www.tracksfortrucks.com/) —
         [proof](https://careers.tracksfortrucks.com/jobs/280143-python-javascript-fullstack-developer-m-f-d)
-        ,
-        [jobs](https://careers.tracksfortrucks.com/jobs?department_id=49313)
     * [Trailstone Renewables GmbH (Trailstone Group)](https://www.trailstonegroup.com/) —
         [proof](https://www.trailstonegroup.com/careers/5154463)
-        ,
-        [jobs](https://www.trailstonegroup.com/careers)
     * [TravelPerk SLU](https://www.travelperk.com/) —
         [proof](https://www.travelperk.com/job-application/?gh_jid=2322926)
         ,
         [github](https://github.com/travelperk)
-        ,
-        [jobs](https://www.travelperk.com/careers/)
     * [trawa (Future Energy Services GmbH)](https://www.trawa.de/) —
         [proof](https://www.simplyhired.de/job/F9PZyTt4LF78MZB3cVcSjFQmq4zyHyhCLw5XqVnSJ0XxXA7w1Cl28w)
-        ,
-        [jobs](https://www.trawa.de/jobs)
     * [twinwin GmbH](https://www.twinwin.org/) —
         [proof](https://twinwin.join.com/jobs/3801475-full-stack-developer-machine-learning-engineer-python-js-ts)
-        ,
-        [jobs](https://www.twinwin.org/de/karriere)
     * [Two Bulls Germany GmbH](https://www.twobulls.com/) —
         [proof](https://dasauge.de/-two-bulls-germany-gmbh/)
         ,
         [github](https://github.com/twobulls)
-        ,
-        [jobs](https://www.twobulls.com/careers/)
     * [TwoTickets.de GmbH & Co. KG](https://www.twotickets.de/) —
         [proof](https://www.twotickets.de/jobs/#mitarbeiter_it)
-        ,
-        [jobs](https://www.twotickets.de/jobs/)
 * __U__
     * [Uberspace](https://uberspace.de/) (100% remote) —
         [proof](https://uberspace.de/de/about/job/)
         ,
         [github](https://github.com/Uberspace)
-        ,
-        [jobs](https://uberspace.de/de/about/job/)
     * [ucair GmbH](https://ucair.de/) —
         [proof](https://www.xing.com/jobs/berlin-junior-fullstack-developer-45934031)
-        ,
-        [jobs](https://ucair.de/jobs/)
     * [Uhura Creative Media GmbH](https://www.uhura.de/) —
         [proof](https://djangojobs.net/jobs/638/python-django-web-developer-uhura-creative-media-gmbh/)
         ,
         [github](https://github.com/uhuracreativemedia)
-        ,
-        [jobs](https://www.uhura.de/jobs/)
     * [Umwelt und Informationstechnologie Zentrum, UIZ GmbH](http://uizentrum.de/) —
         [proof](http://uizentrum.de/jobs/python-and-django-developer-intern/)
         ,
         [github](https://github.com/uizentrum)
-        ,
-        [jobs](http://uizentrum.de/praktika-und-jobs/)
     * [Universal Music GmbH](https://www.universal-music.de/) —
         [proof](https://www.universal-music.de/company/jobs-karriere/professionals/data-products-backend-developer-mfd-1668)
         ,
         [github](https://github.com/umg)
-        ,
-        [jobs](https://www.universal-music.de/company/jobs-karriere)
     * [Uptime.com](https://uptime.com/) —
         [proof](https://apply.workable.com/uptime-dot-c-om/j/FA675E5BC0/)
         ,
         [github](https://github.com/uptime-com)
-        ,
-        [jobs](https://uptime.com/careers)
     * [Upvest GmbH](https://upvest.co/) —
         [proof](https://www.xing.com/jobs/berlin-senior-python-developer-full-time-43458050)
         ,
         [github](https://github.com/toknapp)
-        ,
-        [jobs](https://upvest.join.com/)
 * __V__
     * [Valid Digitalagentur GmbH](https://www.valid-digital.com/) —
         [proof](https://www.valid-digital.com/leistungen/entwicklung/django-web-development.html)
-        ,
-        [jobs](https://www.valid-digital.com/karriere.html)
     * [Valearnis (ManezCo Pty. Ltd.)](https://valearnis.com/) —
         [proof](https://www.simplyhired.de/job/FpwuLfGvpaHNciarmeTP25b1-k1C4YD_Yh-iANGZJaUT2ot091CqHg)
     * [VCDB VerkehrsConsult Dresden-Berlin GmbH](https://www.vcdb.de/) —
         [proof](https://www.vcdb.de/de/ueber-uns/karriere/detailseite/softwareentwickler-m-w-d/)
-        ,
-        [jobs](https://www.vcdb.de/de/ueber-uns/karriere/)
     * [vdpExpertise GmbH](https://www.vdpexpertise.de/) —
         [proof](https://jobspotting.com/en/company/vdpexpertise/job/python-django-developer-m-w--d8a071cc5c0144a780af1b3123ec09f0)
-        ,
-        [jobs](https://jobspotting.com/en/company/vdpexpertise)
     * [Vector Logistics AG](https://www.vector-logistics.ch/) —
         [proof](https://www.simplyhired.de/job/Enh1fmviU0ifq4jkj0jSPuxRGBZVdJ_bbLJRQk2WOlrL_B9w_RKwvg)
-        ,
-        [jobs](https://www.vector-logistics.ch/de/kontakt/offene-stellen)
     * [Veeam Software Group GmbH](https://www.veeam.com/) —
         [proof](https://careers.veeam.com/vacancies/quality-assurance/developer_in_qa_with_python-743999893198111)
-        ,
-        [jobs](https://careers.veeam.com/vacancies?query=django&location=Germany&city=Berlin)
     * [VentoryOne GmbH](https://ventory.one/) —
         [proof](https://join.com/companies/ventoryone/9561234-new-full-stack-django-developer-remote-job)
-        ,
-        [jobs](https://join.com/companies/ventoryone)
     * [viasto GmbH](https://www.viasto.com/) —
         [proof](https://viasto.softgarden.io/job/5328014/)
-        ,
-        [jobs](https://www.viasto.com/ueber-uns/jobs/)
     * [Vico Research & Consulting GmbH](https://vico-research.com/) —
         [proof](https://vico-research.com/2020/09/devops-engineer-m-w-d-mit-schwerpunkt-site-reliability-engineering-in-stuttgart-oder-berlin/)
         ,
         [github](https://github.com/vico-research-and-consulting)
-        ,
-        [jobs](https://vico-research.com/wer-wir-sind/karriere-bei-vico/)
     * [Vimcar GmbH](https://vimcar.de/) —
         [proof](https://vimcar.de/career/jobs/tech/TE-WAB-19-1)
         ,
         [github](https://github.com/vimcar)
-        ,
-        [jobs](https://vimcar.de/career)
     * [Violence Prevention Network gGmbH](https://violence-prevention-network.de/) —
         [proof](https://violence-prevention-network.de/ueber-uns/stellenausschreibungen/sh-knix-p041/)
-        ,
-        [jobs](https://violence-prevention-network.de/ueber-uns/stellenausschreibungen/)
     * [VisioLab UG](https://visiolab.io/) —
         [proof](https://www.xing.com/jobs/berlin-senior-software-engineer-70617382)
         ,
         [github](https://github.com/VisioLab)
-        ,
-        [jobs](https://visiolab.join.com/)
     * [voiio GmbH](https://www.voiio.de/) —
          [proof](https://voiio.de/datenschutz/sicherheit/)
          ,
          [github](https://github.com/voiio)
-         ,
-         [jobs](https://voiio.de/karriere/)
     * [vyble AG](https://www.vyble.io/) —
         [proof](https://www.moberries.com/job/1968898_devops-engineer-mwd_vyble-ag)
-        ,
-        [jobs](https://www.vyble.io/karriere/)
 * __W__
     * [Wasteer GmbH](https://www.wasteer.de/) —
         [proof](https://www.linkedin.com/jobs/view/3761082707/)
-        ,
-        [jobs](https://wasteer.notion.site/Job-Board-50a68c469df143cfa25b9a75827dde8a)
     * [wayvs GmbH](https://www.wayvs.app/) —
         [proof](https://www.simplyhired.de/job/OLGlSFuFubonrJXGxbe8AuKmJhk9x1ODO-aJfszspl9ReZIv_qYM0w)
     * [WBS Training AG](https://www.wbs-gruppe.de/) —
         [proof](https://www.wbs-gruppe.de/job-details/jobs/Job/detail/persis_000942/)
-        ,
-        [jobs](https://www.wbs-gruppe.de/)
     * [WeAre GmbH](https://weare-rooms.com/) —
         [proof](https://stellenangebot.monster.de/software-engineer-m-f-d-berlin-berlin-de-weare-gmbh/a2019f86-fea1-4535-90c8-5c8369c36ab5)
         ,
         [github](https://github.com/WeAre-GmbH)
-        ,
-        [jobs](https://weare-rooms.com/jobs/)
     * [wechange eG](https://wechange.de/) —
         [proof](https://www.simplyhired.de/job/avScgZHNUqzjt0rqeKc_MWjPvBuLbCFZWDmBv6bht5bvu8gP3a8iag)
         ,
         [github](https://github.com/wechange-eg)
-        ,
-        [jobs](https://wechange.de/cms/jobs/)
     * [WellYou (Workout for Happiness UG)](https://www.well-you.com/) —
         say "no" to unpaid internships! —
         [proof](https://www.simplyhired.de/job/CpC0qzOdMbe2lGkwvr3nXjF6SsQ03u8bG-6t3mdJTadNrkXRU0AAeg)
@@ -1807,17 +1131,11 @@ Something is missing?  Create a pull request!
         [proof](https://de.linkedin.com/jobs/view/backend-python-and-gis-developer-human-at-what-a-location!-2800934038)
     * [Workist GmbH](https://www.workist.com/) —
         [proof](https://workist-gmbh.jobs.personio.de/job/301768?display=en)
-        ,
-        [jobs](https://workist-gmbh.jobs.personio.de/)
     * [Würth (Adolf Würth GmbH & Co. KG)](https://www.wuerth.com/) —
         [proof](https://career.wuerth.com/sap(bD1kZSZjPTAwMQ==)/bc/bsp/sap/zerc_rea/jobs.htm?comp=1&id=027FA86165021EDB8FC01776812E8068)
-        ,
-        [jobs](https://career.wuerth.com/sap(bD1kZSZjPTAwMQ==)/bc/bsp/sap/zerc_rea/jobs.htm)
 * __Y__
     * [Yoona Ventures GmbH](https://www.yoona.ai/) —
         [proof](https://www.yoona.ai/careers)
-        ,
-        [jobs](https://www.yoona.ai/careers)
     * [YouCan!](https://youcan-app.de/) —
         [proof](https://www.simplyhired.de/job/QghlBd34n8xBF7-C1yD8YIjucrNRgQqeBMx5bL0An9g2bUIiTk5MzA)
     * [You&Vi UG](https://www.youandvi.com/) —
@@ -1827,36 +1145,24 @@ Something is missing?  Create a pull request!
         [proof](https://www.simplyhired.de/job/QnSzgBAYjsOzdzcOj-P74eBwkfpfxMtli-0U0O_9u0xkZbXCrn99sQ)
         ,
         [github](https://github.com/ZAGENO)
-        ,
-        [jobs](https://zageno-jobs.personio.de/)
     * [Zalando SE](https://en.zalando.de/) —
         [proof](https://stackoverflow.com/jobs/353099/senior-dba-devops-engineer-microsoft-sql-zalando-se)
         ,
         github [1](https://github.com/zalando) [2](https://github.com/zalandoresearch)
-        ,
-        [jobs](https://jobs.zalando.com/en/jobs/?filters%5Boffices%5D%5B0%5D=Berlin)
     * [Zattoo Deutschland GmbH](https://zattoo.com/) —
         [proof](https://zattoo.com/company/jobs/#job-501394)
         ,
         [github](https://github.com/zattoo)
-        ,
-        [jobs](https://zattoo.com/company/jobs/)
     * [Zeitgold GmbH](https://www.zeitgold.com/) —
         [proof](https://angel.co/zeitgold/jobs/319231-full-stack-developer)
         ,
         [github](https://github.com/Zeitgold)
-        ,
-        [jobs](https://www.zeitgold.com/careers/)
     * [Zeppelin Lab GmbH](https://www.z-lab.com/) —
         [proof](https://curaweb2.mindscope.com/TECHNA04436_CURA/aspx/JobDetails.aspx?Job_ID=331)
         ,
         [github](https://github.com/Klickrent)
-        ,
-        [jobs](https://www.z-lab.com/en/jobs/)
     * [Zugvogl GmbH](https://welcome.zugvogl.com/) —
         [proof](https://welcome.zugvogl.com/careers/JD_BE_DEV.pdf)
-        ,
-        [jobs](https://welcome.zugvogl.com/jobs.html)
 
 Like this list?  Support it with a star!
 
