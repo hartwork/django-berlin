@@ -634,6 +634,8 @@ Something is missing?  Create a pull request!
         [proof](https://luvago.com/de/projekte/tu-berlin-quality-quiz/)
         ,
         [github](https://github.com/luvago)
+    * [Lybs GmbH](https://www.lybs.eu/) —
+        [proof](https://it-entwickler-jobs.de/stellen/Frontend-Backend-Fullstack-Developer--38100)
 * __M__
     * [machtfit GmbH](https://www.machtfit.de/) —
         [proof](https://www.machtfit.de/media/jobs/Stellenausschreibung_Senior_Backend_Developer.pdf)
