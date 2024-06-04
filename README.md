@@ -669,6 +669,8 @@ Something is missing?  Create a pull request!
         [proof](https://metergrid.workwise.io/job/27106-senior-python-django-entwickler)
     * [Metr (Building Management Systems GmbH)](https://metr.systems/) —
         [proof](https://metr.recruitee.com/l/en/o/backend-software-developer-mfx)
+    * [Metycle GmbH](https://metycle.com/) —
+        [proof](https://metycle.jobs.personio.com/job/1352511?display=en)
     * [Mika (Fosanis GmbH)](https://www.mitmika.de/) —
         [proof](https://de.indeed.com/Zeige-Job?jk=ef36750662236e0f)
     * [Mimi Hearing Technologies GmbH](https://www.mimi.io/) —
