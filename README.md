@@ -1204,7 +1204,7 @@ Job websites with jobs filtered by Django and Berlin:
 * [Jobcluster](https://www.jobcluster.de/jobs/berlin/umkreis=25/suche=django)
 * [JobiJoba](https://www.jobijoba.de/query/?what=django&where=in-Berlin&where_type=city)
 * [Joblift](https://joblift.de/topjobs-in-Berlin-f%C3%BCr-django-ohne-Umkreis)
-* [JobNinja](https://jobninja.com/search?keywords=django&where=berlin)
+* [JobNinja](https://jobninja.com/search?what=django&where=berlin)
 * [JobRobot](https://www.jobrobot.de/content_0400_jobsuche.htm?cmd=res&txt=ja&suchform=&keywords=django&umkreissuche_ort=berlin&umkreissuche_entfernung=20&useindex=0&zeitraum=all)
 * [jobs.de](https://www.jobs.de/suche?q=django&loc=berlin)
 * [JobsInBerlin.de](https://jobsinberlin.de/jobs?query=django)
