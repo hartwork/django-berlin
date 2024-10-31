@@ -1209,7 +1209,6 @@ Job websites with jobs filtered by Django and Berlin:
 * [jobs.de](https://www.jobs.de/suche?q=django&loc=berlin)
 * [JobsInBerlin.de](https://jobsinberlin.de/jobs?query=django)
 * [jobtensor](https://jobtensor.com/Django-Jobs-in-Berlin)
-* [jobtome](https://de.jobtome.com/jobs?what=django&where=berlin&r=0)
 * [jobtopus](https://www.jobtopus.de/search/?what=django&where=berlin)
 * [jobvector](https://www.jobvector.de/stellensuche.html?keywords=django&locations=berlin)
 * [Jobware](https://www.jobware.de/jobsuche/?jw_jobname=django&jw_jobort=berlin)
