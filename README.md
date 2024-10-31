@@ -1180,7 +1180,6 @@ Something is missing?  Create a pull request!
 Job websites with jobs filtered by Django and Berlin:
 
 * [Absolventa](https://www.absolventa.de/stellenangebote?text=django&location=berlin)
-* [academics](https://www.academics.de/stellenanzeigen/land-berlin/dg==?q=django)
 * [Adzuna](https://www.adzuna.de/search?q=django&loc=87861)
 * [backinjob.de](https://www.backinjob.de/jobsuche.html?s[]=django&o=Berlin)
 * [beBee](https://de.bebee.com/jobs?term=django&location=berlin)
