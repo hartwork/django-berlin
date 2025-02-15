@@ -697,6 +697,8 @@ Something is missing?  Create a pull request!
         [github](https://github.com/mozilla)
     * [Mula GmbH](https://app.mula-berlin.de/) —
         [proof](https://www.linkedin.com/jobs/view/2476274975)
+    * [Muli Technologies GmbH](https://www.muli.tech/) —
+        [proof](https://www.linkedin.com/jobs/view/full-stack-django-reactjs-developer-at-muli-4095543220/ )
     * [Munich Innovation Labs GmbH](https://www.mi-labs.de/) —
         [proof](https://www.mi-labs.de/career/)
         ,
