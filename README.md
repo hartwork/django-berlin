@@ -593,6 +593,10 @@ Something is missing?  Create a pull request!
         [proof](https://www.simplyhired.de/job/Otd7-zUhG4ElmqXyJM5M_mqxIE4tq1--0mje308y8jB3YUhC0rRehQ)
         ,
         [github](https://github.com/konfuzio-ai)
+    * [Kraken Technologies Ltd.](https://kraken.tech/) —
+        [proof](https://jobs.lever.co/kraken123/317e5588-f43e-4088-be1a-9a9b34b08bf7)
+        ,
+        [github](https://github.com/kraken-tech)
     * [Kreatize GmbH](https://kreatize.com/) —
         [proof](https://www.simplyhired.de/job/yj5ti7U63pZLoRKETpGZe9btw3PNUpk5iUlyuTIR3joOUSZC1rOFsg)
     * [Kulturprojekte Berlin GmbH](https://www.kulturprojekte.berlin/) —
