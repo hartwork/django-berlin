@@ -217,6 +217,10 @@ Something is missing?  Create a pull request!
     * [BVCD Service GmbH (Bundesverbandes der Campingwirtschaft in Deutschland e.V.)](https://www.bvcd.de/) —
         [proof](https://www.simplyhired.de/job/Vipr3QUBv6GAT2egdK4KiwA9JmScEAvCzdTf38FUiyF3w0WiLb3Vfg)
 * __C__
+    * [CampfireFM GmbH](https://www.joincampfire.fm/) —
+        [proof](https://www.joincampfire.fm/jobs/senior-backend-engineer)
+        ,
+        [github](https://github.com/back-channel)
     * [Camping.info GmbH](https://camping.info/) —
         [proof](https://de.indeed.com/Zeige-Job?jk=8988934b627ffad8)
     * [Cara Care (HiDoc Technologies GmbH)](https://cara.care/) —
