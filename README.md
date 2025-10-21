@@ -784,6 +784,10 @@ Something is missing?  Create a pull request!
         [github](https://github.com/perpetua1)
     * [Phiture GmbH](https://www.phiture.com/) —
         [proof](https://www.phiture.com/career.html#workingstudentfullstackdeveloper)
+    * [Photoroom, Inc.](https://www.photoroom.com/) (100% remote) —
+        [proof](https://jobs.ashbyhq.com/photoroom/e8aac2dd-b996-4244-9dbd-13b98f6112aa)
+        ,
+        [github](https://github.com/photoroom)
     * [Pincamp (ADAC Camping GmbH)](https://www.pincamp.de/) —
         [proof](https://stackshare.io/adac-camping-gmbh/pincamp)
     * [Pitcher AG](https://www.pitcher.com/) —
